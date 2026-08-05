@@ -23,7 +23,8 @@ jobs:
           urls = set()
           for path in ["data.js"] + glob.glob("tour/**/*.md", recursive=True):
               text = open(path, encoding="utf-8").read()
-              urls |= set(re.findall(r"https://upload\.wikimedia\.org/[^\s\"')\]]+", text))
+              # require a real filename (the bare `const U = .../thumb/` prefix isn't a URL)
+              urls |= set(re.findall(r"https://upload\.wikimedia\.org/[^\s\"')\]]+\.(?:jpe?g|png|svg|gif)", text, re.I))
               urls |= set(re.findall(r"https://en\.wikipedia\.org/wiki/[^\s\"')\]]+", text))
           print(f"checking {len(urls)} unique URLs", flush=True)
           UA = {"User-Agent": "family-tour-link-check/1.1 (https://github.com/digitwolf/family-tour; contact via repo issues)"}
