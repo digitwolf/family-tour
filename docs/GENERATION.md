@@ -1,14 +1,14 @@
 # How this project was generated
 
-A record of how the PNW family motorcycle "first tour" site was built, and the two-agent workflow that maintains it. (The repo began life as a 21-day Japan tour and was converted to this 7-day Pacific-Northwest first tour — the architecture is unchanged.)
+A record of how the PNW family motorcycle "first tour" site was built, and the two-agent workflow that maintains it. (The repo began life as a 21-day Japan tour, was converted to a 7-day PNW first tour, and now carries the 8-day August coast tour — the architecture is unchanged.)
 
 ## Origin
-The trip is a 7-day, family-friendly, all-paved ride built around a **brand-new rider** (Galiya, Kawasaki W230) with her partner (Ruslan, BMW R1300GS) carrying their 6-year-old (Aslan). Round trip from Woodinville, WA over July 1–7, 2026: the Edmonds–Kingston ferry and Hood Canal to the coast, the full Oregon Coast to a 2-night Yachats base (the Fourth of July), then home over Mount St. Helens and Mount Rainier. Constraints: safety-first, **no freeways**, short confidence-building days, frequent stops for the child.
+The trip is an 8-day, family-friendly, all-paved ride built around a **still-new rider** (Galiya, Kawasaki W230) with her partner (Ruslan, BMW R1300GS) carrying their 6-year-old (Aslan). Round trip from Woodinville, WA over August 15–22, 2026: the Edmonds–Kingston ferry around the Olympic Peninsula (a Forks safari tent for Ruby Beach), the northern Oregon Coast to two 2-night bases (the Two Capes Lookout glamping domes, oceanfront Yachats), then home through Portland and up the Columbia. Constraints: safety-first, **no freeways**, short confidence-building days, frequent stops for the child.
 
 ## How it's built
 Content lives as markdown in [`tour/`](../tour/README.md) and is compiled to `data.js` by **`gen_data.py`**:
 
-- **`gen_data.py`** parses `tour/destinations/NN-id.md` into `window.DESTINATIONS`, and holds the curated `COORDS`, the 7-day `DAYS` schedule (with along-the-way `poi[]` stops), `GEO` routing points, the `CHECKLIST`, the `FOOD_TRAIL`, and `DAYART`. It also folds in the per-day food guides from `tour/daily-guides/day-NN.md` (a fenced ```json block → each day's `eats`/`localTodo`). Run `python3 gen_data.py` to rebuild `data.js`.
+- **`gen_data.py`** parses `tour/destinations/NN-id.md` into `window.DESTINATIONS`, and holds the curated `COORDS`, the 8-day `DAYS` schedule (with along-the-way `poi[]` stops), `GEO` routing points, the `CHECKLIST`, the `FOOD_TRAIL`, and `DAYART`. It also folds in the per-day food guides from `tour/daily-guides/day-NN.md` (a fenced ```json block → each day's `eats`/`localTodo`). Run `python3 gen_data.py` to rebuild `data.js`.
 - **`index.html`** — landing page: hero, "how the trip works", Leaflet route map (dark CARTO tiles), route ribbon, destination gallery, the 🦀 Coast Food Trail, a filterable day-by-day timeline, safety + parameters. CDN-only, no build step.
 - **`place.html`** — one reusable template rendering any stop from `?id=` (hero with mileage overlay, gallery + lightbox, food, lodging cards with USD price + parking badge, map, prev/next).
 - **`day.html`** — one reusable template rendering any day from `?d=N` (photo-collage hero, the plan, a timed routine spread across the real `dmin`, per-stop Wikipedia links, the Google-Maps day route, the Where-to-Eat guide, prev/next-day).

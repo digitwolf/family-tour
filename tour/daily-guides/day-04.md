@@ -1,60 +1,58 @@
 ```json
 {
   "d": 4,
-  "title": "Yachats & the Fourth of July",
-  "overnight": "Yachats, OR",
-  "schedule": "Rest day in Yachats · easy local loop in the morning (Cape Perpetua / Thor's Well, Heceta Head, Sea Lion Caves, 804 Trail tide pools) · La De Da Parade ~12:00 on Hwy 101 · relaxed afternoon in town · early dinner ~17:30 then walk to the bay for fireworks ~10:00 PM",
+  "title": "Three Capes Rest Day",
+  "overnight": "Two Capes Lookout, Tierra Del Mar (2nd night)",
+  "schedule": "slow dome morning · coffee in Pacific City ~09:30 · Cape Lookout trail walk ~10:30 · oyster lunch at Netarts ~12:30 · optional Tillamook Air Museum ~14:00 · Cape Kiwanda dune & dory beach ~15:30 · beach evening at Tierra Del Mar · dinner Pacific City ~18:00",
   "todo": [
-    {"time":"~08:30","name":"Cape Perpetua & Thor's Well","what":"Short drive south for the headland viewpoint, Thor's Well and the Spouting Horn at the right tide; easy boardwalk options for Aslan. Beat the holiday crowds early.","map":"https://www.google.com/maps/search/?api=1&query=Cape+Perpetua+Scenic+Area+Yachats+Oregon"},
-    {"time":"~09:30","name":"Heceta Head Lighthouse & Sea Lion Caves","what":"Postcard lighthouse and the sea-lion sea cave just south on 101 — a kid hit. Both are short stops, back in town before the parade.","map":"https://www.google.com/maps/search/?api=1&query=Heceta+Head+Lighthouse+Oregon"},
-    {"time":"~12:00","name":"La De Da Parade","what":"Yachats' famously quirky Fourth of July parade marches up Hwy 101 through downtown at noon — grab a curb spot 15-20 min early. Treats, games, art and live music around town before and after.","map":"https://www.google.com/maps/search/?api=1&query=Yachats+Oregon+downtown+Highway+101"},
-    {"time":"~15:00","name":"804 Trail & tide pools","what":"Flat, stroller-easy oceanfront path along the bluff with tide pools at low tide — perfect afternoon leg-stretch for the family.","map":"https://www.google.com/maps/search/?api=1&query=Yachats+804+Trail"},
-    {"time":"~22:00","name":"Fireworks over Yachats Bay","what":"Fireworks launch over the mouth of the Yachats River at dusk (~10 PM in early July). Watch from the 804 Trail, the bayfront or Yachats Commons; bring a blanket and a jacket — coast nights are cold.","map":"https://www.google.com/maps/search/?api=1&query=Yachats+Bay+Oregon"}
+    {"time":"~10:30","name":"Cape Lookout trail","what":"the cliff-top Sitka-spruce trail out the promontory — walk as far as small legs last; whale spouts on calm days","map":"https://www.google.com/maps/search/?api=1&query=Cape+Lookout+Trailhead+OR"},
+    {"time":"~14:00","name":"Tillamook Air Museum (optional)","what":"warbirds inside a colossal WWII wooden blimp hangar — the dad-and-Aslan motor for the rest day","map":"https://www.google.com/maps/search/?api=1&query=Tillamook+Air+Museum"},
+    {"time":"~15:30","name":"Cape Kiwanda & the giant dune","what":"climb the dune, run down it, watch the dory boats surf-launch straight off the sand — Aslan's day-maker","map":"https://www.google.com/maps/search/?api=1&query=Cape+Kiwanda+Pacific+City"},
+    {"time":"~17:00","name":"Tierra Del Mar beach","what":"the quiet home beach a short walk from the dome — sandcastles and agate-hunting before dinner","map":"https://www.google.com/maps/search/?api=1&query=Tierra+Del+Mar+Beach+OR"}
   ],
   "meals": [
-    {"slot":"breakfast","area":"Yachats","picks":[
-      {"name":"Green Salmon Coffee Company","cuisine":"coffee house, pastries & breakfast","rating":4.5,"why":"Ruslan & Galiya — the town's beloved organic coffee + scratch baked goods to fuel the morning loop","kid":false,"map":"https://maps.google.com/?cid=15236297694368532859","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Caffe_Latte_cup.jpg/960px-Caffe_Latte_cup.jpg"},
-      {"name":"Bread & Roses Bakery","cuisine":"bakery — pastries, sticky buns, plain rolls","rating":4.6,"why":"Aslan — simple sweet pastry and plain bread he'll happily eat; grab extras for the trail","kid":true,"map":"https://maps.google.com/?cid=10779718063421500113","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Honey_Run_Covered_Bridge_2024_Pancake_Breakfast-104A2111.jpg/960px-Honey_Run_Covered_Bridge_2024_Pancake_Breakfast-104A2111.jpg"}
+    {"slot":"breakfast","area":"Pacific City","picks":[
+      {"name":"Stimulus Coffee + Bakery","cuisine":"espresso & bakery above the beach","rating":4.2,"why":"Ruslan & Galiya — proper coffee with the Kiwanda view","kid":true,"map":"https://www.google.com/maps/search/?api=1&query=Stimulus+Coffee+Pacific+City","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Caffe_Latte_cup.jpg/960px-Caffe_Latte_cup.jpg"},
+      {"name":"Cold Water & Coffee","cuisine":"coffee & breakfast bites","rating":4.6,"why":"the locals' pick on Brooten Rd — quieter than the beachfront","kid":true,"map":"https://www.google.com/maps/search/?api=1&query=Cold+Water+and+Coffee+Pacific+City"}
     ]},
-    {"slot":"lunch","area":"Cape Perpetua / Yachats (picnic or cafe)","picks":[
-      {"name":"Beach Street Kitchen","cuisine":"casual cafe — sandwiches, salads, soups","rating":4.7,"why":"Galiya — fresh, well-rated lunch in town; great to grab before or after the parade","kid":false,"map":"https://maps.google.com/?cid=9912055002029852844","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cup_of_clam_chowder%2C_with_saltines.jpg/960px-Cup_of_clam_chowder%2C_with_saltines.jpg"},
-      {"name":"The Village Bean","cuisine":"coffee shop — paninis, bagels, grab-and-go","rating":4.5,"why":"Aslan — easy bagel/grilled-cheese-style picks and a picnic to take up to Cape Perpetua; plain and predictable","kid":true,"map":"https://maps.google.com/?cid=4628231565601770751","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Caffe_Latte_cup.jpg/960px-Caffe_Latte_cup.jpg"}
+    {"slot":"lunch","area":"Netarts Bay","picks":[
+      {"name":"The Schooner Restaurant & Lounge","cuisine":"Netarts Bay oysters — raw, grilled, fried","rating":4.2,"why":"Galiya — THE Coast Food Trail stop: oysters grown a few hundred yards from the table","kid":true,"map":"https://www.google.com/maps/search/?api=1&query=The+Schooner+Restaurant+Netarts","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cup_of_clam_chowder%2C_with_saltines.jpg/960px-Cup_of_clam_chowder%2C_with_saltines.jpg"},
+      {"name":"JAndy Oyster Co","cuisine":"oyster-farm stand & tastings","rating":4.8,"why":"Ruslan — the farm's own stand toward Cloverdale; the freshest possible half-shell","kid":false,"map":"https://www.google.com/maps/search/?api=1&query=JAndy+Oyster+Co+Cloverdale+OR"},
+      {"name":"Sportsman's Pub-n-Grub","cuisine":"pub burgers & fish baskets","rating":4.3,"why":"Aslan — the no-oysters escape hatch in Pacific City","kid":true,"map":"https://www.google.com/maps/search/?api=1&query=Sportsman's+Pub-n-Grub+Pacific+City","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/NCI_Visuals_Food_Hamburger.jpg/960px-NCI_Visuals_Food_Hamburger.jpg"}
     ]},
-    {"slot":"dinner","area":"Yachats","picks":[
-      {"name":"Ona Restaurant & Lounge","cuisine":"Pacific Northwest seafood, riverfront","rating":4.3,"why":"Galiya — Yachats' standout fine-casual spot, local fish on the Yachats River; book ahead on the 4th","kid":false,"map":"https://maps.google.com/?cid=130354226211525660","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fish_and_chips_plate_with_peas.jpg/960px-Fish_and_chips_plate_with_peas.jpg"},
-      {"name":"The Drift Inn Hotel and Restaurant","cuisine":"American comfort food & seafood, live music","rating":4.3,"why":"Whole family — big varied menu, lively holiday vibe, and a kids' menu with burgers, mac & cheese and chicken strips for Aslan","kid":true,"map":"https://maps.google.com/?cid=15878405420698897937","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cheeseburger_and_Fries_2.jpg/960px-Cheeseburger_and_Fries_2.jpg"},
-      {"name":"Luna Sea Fish House (Seal Rock)","cuisine":"dockside fish & chips, chowder","rating":4.5,"why":"Ruslan — own-boat-caught fish & chips a short ride north; casual, fast, and Aslan-friendly fries & plain fish","kid":true,"map":"https://maps.google.com/?cid=14291681410554983807","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fish_and_chips_plate_with_peas.jpg/960px-Fish_and_chips_plate_with_peas.jpg"}
+    {"slot":"dinner","area":"Pacific City","picks":[
+      {"name":"The Riverhouse Restaurant","cuisine":"riverside Pacific NW kitchen","rating":4.6,"why":"Galiya — Pacific City's best-rated table, on the Nestucca River","kid":true,"map":"https://www.google.com/maps/search/?api=1&query=Riverhouse+Restaurant+Pacific+City","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fish_and_chips_plate_with_peas.jpg/960px-Fish_and_chips_plate_with_peas.jpg"},
+      {"name":"Meridian Restaurant & Bar","cuisine":"upscale coastal, at Headlands Lodge","rating":4.3,"why":"the nicer night out, five minutes from the domes","kid":true,"map":"https://www.google.com/maps/search/?api=1&query=Meridian+Restaurant+Pacific+City"},
+      {"name":"Pelican Brewing – Pacific City","cuisine":"beachfront brewpub","rating":4.1,"why":"whole family — if last night went to the Schooner, tonight's the beach-sunset brewpub","kid":true,"map":"https://www.google.com/maps/search/?api=1&query=Pelican+Brewing+Pacific+City","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cheeseburger_and_Fries_2.jpg/960px-Cheeseburger_and_Fries_2.jpg"}
     ]}
   ]
 }
 ```
 
-## Day 4 — Yachats & the Fourth of July (Sat 4 July 2026)
+## Day 4 — Three Capes Rest Day (Two Capes Lookout)
 
-A full rest day on the bikes and a great one to be in Yachats: it throws one of the Oregon coast's most charming small-town Fourth of July celebrations. Keep the morning loose with a short local loop, then plant yourself in town for the **La De Da Parade at noon**, an easy afternoon on the 804 Trail, an early dinner, and **fireworks over the bay around 10 PM**.
+Bikes mostly parked, capes at kid pace: a Pacific City coffee, the Cape Lookout spruce trail, Netarts Bay oysters for lunch (the Coast Food Trail stop), the optional blimp-hangar Air Museum, and the afternoon on Cape Kiwanda's giant dune with the dory boats — then the quiet home beach at Tierra Del Mar before a Pacific City dinner.
 
-**Schedule:** Easy local loop in the morning (Cape Perpetua / Thor's Well, Heceta Head, Sea Lion Caves) · La De Da Parade ~12:00 on Hwy 101 · relaxed afternoon on the 804 Trail · early dinner ~17:30 · fireworks over Yachats Bay ~10:00 PM.
+**Schedule:** slow morning · coffee ~09:30 · Cape Lookout walk ~10:30 · oyster lunch ~12:30 · Air Museum ~14:00 (optional) · Kiwanda dune ~15:30 · home beach ~17:00 · dinner ~18:00.
 
 ### Where to eat
 
-**Breakfast — Yachats**
-- [Green Salmon Coffee Company](https://maps.google.com/?cid=15236297694368532859) — 4.5 · organic coffee house with scratch pastries. *For Ruslan & Galiya.*
-- [Bread & Roses Bakery](https://maps.google.com/?cid=10779718063421500113) — 4.6 · sticky buns, plain rolls and simple pastries Aslan will eat. *Kid pick.*
+**Breakfast — Pacific City**
+- **Stimulus Coffee + Bakery** (4.2★) — espresso with the Kiwanda view. [Map](https://www.google.com/maps/search/?api=1&query=Stimulus+Coffee+Pacific+City)
+- **Cold Water & Coffee** (4.6★) — the quieter locals' pick. [Map](https://www.google.com/maps/search/?api=1&query=Cold+Water+and+Coffee+Pacific+City)
 
-**Lunch — in town or picnic up at Cape Perpetua**
-- [Beach Street Kitchen](https://maps.google.com/?cid=9912055002029852844) — 4.7 · fresh sandwiches, soups and salads. *For Galiya.*
-- [The Village Bean](https://maps.google.com/?cid=4628231565601770751) — 4.5 · bagels/paninis and easy grab-and-go to picnic at the headland. *Kid pick.*
+**Lunch — Netarts Bay (the Food Trail stop)**
+- **The Schooner** (4.2★) — oysters grown a few hundred yards from the table. [Map](https://www.google.com/maps/search/?api=1&query=The+Schooner+Restaurant+Netarts)
+- **JAndy Oyster Co** (4.8★) — the farm's own stand for the freshest half-shell. [Map](https://www.google.com/maps/search/?api=1&query=JAndy+Oyster+Co+Cloverdale+OR)
+- **Sportsman's Pub-n-Grub** (4.3★) — Aslan's burger escape hatch. [Map](https://www.google.com/maps/search/?api=1&query=Sportsman's+Pub-n-Grub+Pacific+City)
 
-**Dinner — Yachats**
-- [Ona Restaurant & Lounge](https://maps.google.com/?cid=130354226211525660) — 4.3 · riverfront Pacific NW seafood, the town's foodie standout — reserve ahead on the holiday. *For Galiya.*
-- [The Drift Inn Hotel and Restaurant](https://maps.google.com/?cid=15878405420698897937) — 4.3 · lively comfort-food spot with live music and a real kids' menu (burgers, mac & cheese, chicken strips). *Whole family / kid pick.*
-- [Luna Sea Fish House, Seal Rock](https://maps.google.com/?cid=14291681410554983807) — 4.5 · own-boat fish & chips a short ride north; casual with fries and plain fish for Aslan. *Kid-friendly backup.*
-
-*Note: 348 Hwy 101 N (the former Yachats Brewing location) now shows as WildCraft Cider & Pantry; the picks above are confirmed currently-listed and well-rated.*
+**Dinner — Pacific City**
+- **The Riverhouse** (4.6★) — the town's best-rated table, on the Nestucca. [Map](https://www.google.com/maps/search/?api=1&query=Riverhouse+Restaurant+Pacific+City)
+- **Meridian at Headlands Lodge** (4.3★) — the nicer night out. [Map](https://www.google.com/maps/search/?api=1&query=Meridian+Restaurant+Pacific+City)
+- **Pelican Brewing** (4.1★) — beach-sunset brewpub with a kids' menu. [Map](https://www.google.com/maps/search/?api=1&query=Pelican+Brewing+Pacific+City)
 
 ### Things to do
-- **~08:30 Cape Perpetua & Thor's Well** — headland viewpoint, Thor's Well and the Spouting Horn (best at incoming/high tide). [Map](https://www.google.com/maps/search/?api=1&query=Cape+Perpetua+Scenic+Area+Yachats+Oregon)
-- **~09:30 Heceta Head Lighthouse & Sea Lion Caves** — iconic lighthouse plus the sea-lion cave, a guaranteed kid win. [Map](https://www.google.com/maps/search/?api=1&query=Heceta+Head+Lighthouse+Oregon)
-- **~12:00 La De Da Parade** — quirky community parade up Hwy 101 through downtown; arrive a bit early for a curb spot. [Map](https://www.google.com/maps/search/?api=1&query=Yachats+Oregon+downtown+Highway+101)
-- **~15:00 804 Trail & tide pools** — flat oceanfront path with tide pools at low tide. [Map](https://www.google.com/maps/search/?api=1&query=Yachats+804+Trail)
-- **~22:00 Fireworks over Yachats Bay** — launched over the river mouth at dusk; watch from the 804 Trail or bayfront, bring a blanket and jacket. [Map](https://www.google.com/maps/search/?api=1&query=Yachats+Bay+Oregon)
+- **~10:30 — Cape Lookout trail:** cliff-top spruce walk; whale spouts on calm days. [Map](https://www.google.com/maps/search/?api=1&query=Cape+Lookout+Trailhead+OR)
+- **~14:00 — Tillamook Air Museum (optional):** warbirds in the colossal hangar. [Map](https://www.google.com/maps/search/?api=1&query=Tillamook+Air+Museum)
+- **~15:30 — Cape Kiwanda dune:** climb, run down, repeat; dory boats off the sand. [Map](https://www.google.com/maps/search/?api=1&query=Cape+Kiwanda+Pacific+City)
+- **~17:00 — Tierra Del Mar beach:** sandcastles and agates on the home sand. [Map](https://www.google.com/maps/search/?api=1&query=Tierra+Del+Mar+Beach+OR)

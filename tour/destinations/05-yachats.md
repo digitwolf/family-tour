@@ -1,16 +1,16 @@
 # Yachats
 
-> The "Gem of the Oregon Coast" — a tiny village where old-growth forest meets crashing surf, and the trip's signature two-night stay over a fireworks-and-tidepools Fourth of July.
+> The "Gem of the Oregon Coast" — a tiny village where old-growth forest meets crashing surf, and the trip's signature two-night "nice hotel" stay.
 
 - **Region:** Oregon Coast · Lincoln County
-- **Itinerary:** Days 3–4 · 2 nights (arrive Fri Jul 3; rest Sat Jul 4 — the 4th of July)
+- **Itinerary:** Days 5–6 · 2 nights (arrive Wed Aug 19 · rest day Thu Aug 20)
 - **Stop type:** stay
-- **Ride to here:** 161 mi (Astoria via Cannon Beach & Tillamook, Day 3)
+- **Ride to here:** 76 mi (Two Capes Lookout via Pacific City, Depoe Bay & Newport, Day 5)
 
 ## About
 Yachats (pronounced **YAH-hots**) is a village of only a few hundred people wedged between the Siuslaw National Forest and the open Pacific, where rocky basalt headlands, hidden coves, and tidepools sit a short walk from the door. Locals call it the **"Gem of the Oregon Coast,"** and it earns it: no big resorts or chain glare, just a walkable little town, a river mouth, and the dramatic **Cape Perpetua Scenic Area** rising just to the south. This is the **emotional high point of the trip** and the destination the whole route is built around — the "nice hotel" goal, two unhurried nights with the bikes parked, and time to simply be on the coast.
 
-The middle day here is the **Fourth of July**, and Yachats does it in its own quirky, beloved way. The morning brings the homespun **La De Da Parade** — a come-as-you-are, anyone-can-march procession through the village — and after dark the town gathers for **fireworks over the bay**. Between the two, there are tidepools to crouch over with Aslan, sea lions barking in their sea cave, an oceanfront trail to stroll, and one of the best small-town food scenes on the coast for Galiya — all without getting back on the highway. **Book far ahead:** Yachats is tiny and sells out completely for the Fourth.
+The middle day here is a pure, unhurried rest day — the bikes parked, and everything within a few easy miles. There are tidepools to crouch over with Aslan, sea lions barking in their sea cave, the churning theatrics of Thor's Well and Devil's Churn, an oceanfront trail to stroll, and one of the best small-town food scenes on the coast for Galiya — all without getting back on the highway for more than a few minutes. **Book ahead:** Yachats is tiny and August is its high season — the oceanfront places fill early.
 
 ## Things to see & do
 - **Cape Perpetua Scenic Area** — The crown jewel just south of town: a Forest Service scenic area with a visitor center, the **highest paved viewpoint on the Oregon coast** (Cape Perpetua Overlook, ~800 ft), and trails into towering old-growth Sitka spruce — the **Giant Spruce Trail** and **Cook's Ridge** loops (**scenic + easy family hikes**).
@@ -20,8 +20,8 @@ The middle day here is the **Fourth of July**, and Yachats does it in its own qu
 - **Sea Lion Caves** — A privately run elevator drops into America's largest sea cave, home to wild **Steller sea lions** year-round; viewpoints also look toward Heceta Head (**top kid + wildlife stop**).
 - **804 Trail (Amanda's Trail / oceanfront)** — A flat, paved-and-gravel oceanfront path running along the bluff from town past tidepools and blowholes — an easy stroll with the whole family and a stroller-friendly intro to the shoreline.
 - **Tidepooling** — Yachats has some of the richest, most accessible tidepools on the coast (around the 804 Trail and Cape Perpetua's rocky shelves); bring low-tide timing for sea stars, anemones, crabs, and urchins (**Aslan's favorite**).
-- **Yachats 4th of July La De Da Parade + fireworks** — The Independence-Day rest-day centerpiece: a quirky, all-welcome village parade in the morning and **fireworks over Yachats Bay** after dark — a small-town Fourth that's a once-a-year reason this stop is two nights.
-- **Oregon Coast Aquarium (Newport, ~25 mi north)** — An optional Day-3 stop on the way in: world-class aquarium with a walk-through ocean tunnel, sea otters, and the famous "Passages of the Deep" (**rainy-day / big kid option for Aslan**).
+- **Whale watching from the bluffs** — Late August brings resident gray whales feeding close inshore between Depoe Bay and Cape Perpetua; watch for spouts from the 804 Trail or the Cape Perpetua overlook (**free wildlife, binoculars help**).
+- **Oregon Coast Aquarium (Newport, ~25 mi north)** — An optional Day-5 stop on the way in: world-class aquarium with a walk-through ocean tunnel, sea otters, and the famous "Passages of the Deep" (**rainy-day / big kid option for Aslan**).
 
 ## What to eat
 - **Luna Sea Fish House** — Dock-to-table fish-and-chips and chowder from a local fisherman; casual, kid-easy, and famous for fresh-off-the-boat seafood (**simple + foodie crossover**).
@@ -35,11 +35,11 @@ The middle day here is the **Fourth of July**, and Yachats does it in its own qu
 ## Where to stay
 | Property | Type | Parking | Price/night | — | Notes |
 |---|---|---|---|---|---|
-| Overleaf Lodge & Spa | Nice hotel · oceanfront resort | On-site lot, oceanfront | $300–$500 | — | The trip's headline stay — oceanfront rooms, on-site spa, and a path to the 804 Trail. Confirm secure motorcycle parking + family/passenger rules and BOOK FAR AHEAD (sells out for the 4th of July). |
+| Overleaf Lodge & Spa | Nice hotel · oceanfront resort | On-site lot, oceanfront | $300–$500 | — | The trip's headline "nice hotel" — oceanfront rooms, on-site spa, and a path straight onto the 804 Trail. Confirm secure motorcycle parking + family/passenger rules and book early (August is peak season). |
 | Fireside Motel | Oceanfront motel | On-site lot | $160–$280 | — | Overleaf's laid-back, pet-friendly sister property right on the bluff; great ocean views for less. Confirm secure motorcycle parking + family/passenger/child rules before booking. |
 | Adobe Resort | Oceanfront hotel | On-site lot | $180–$320 | — | Classic oceanfront hotel with restaurant, indoor pool, and family rooms. Confirm secure motorcycle parking + family/passenger/child rules before booking. |
 | Yachats Inn | Inn · oceanfront | On-site lot | $140–$240 | — | Long-standing, comfortable oceanfront inn with indoor pool, walkable to the village. Confirm secure motorcycle parking + family/passenger/child rules before booking. |
-| Yachats vacation rentals (cottages) | Vacation rental | Driveway/varies | $200–$450 | — | Cottages and beach houses are popular for families; verify on-site parking and full kitchen. Confirm motorcycle parking + family/passenger/child rules before booking, and reserve very early for the Fourth. |
+| Yachats vacation rentals (cottages) | Vacation rental | Driveway/varies | $200–$450 | — | Cottages and beach houses are popular for families; verify on-site parking and full kitchen. Confirm motorcycle parking + family/passenger/child rules before booking, and reserve early for August. |
 
 ## Links
 - [Overleaf Lodge & Spa](https://www.overleaflodge.com/)

@@ -3,14 +3,14 @@
 > The oldest American settlement west of the Rockies, a salty Victorian riverport where the Columbia meets the Pacific — and where the Goonies once chased pirate gold.
 
 - **Region:** Oregon Coast · Clatsop County
-- **Itinerary:** Day 2 · stop en route to Cannon Beach (Thu Jul 2)
+- **Itinerary:** Day 2 · 1 night (Sun Aug 16 — the Cannery Pier night)
 - **Stop type:** stop
-- **Ride to here:** 99 mi (Westport via Long Beach & the Astoria–Megler Bridge, Day 2)
+- **Ride to here:** 200 mi (Forks via Ruby Beach, Lake Quinault, Long Beach & the Astoria–Megler Bridge, Day 2)
 
 ## About
-Astoria sits where the mighty Columbia River pours into the Pacific, ringed by green headlands and crowned with steep streets of **Victorian houses** that tumble down to a working waterfront. Founded in 1811 as John Jacob Astor's fur-trading post, it is the **oldest American settlement west of the Rockies**, and that long history shows everywhere — in the maritime museum, the grand sea-captain mansions, and the fishing boats and sea lions that still crowd the docks. After the short, easy Day-2 ride over the dramatic **Astoria–Megler Bridge**, this is a town made for wandering on tired legs.
+Astoria sits where the mighty Columbia River pours into the Pacific, ringed by green headlands and crowned with steep streets of **Victorian houses** that tumble down to a working waterfront. Founded in 1811 as John Jacob Astor's fur-trading post, it is the **oldest American settlement west of the Rockies**, and that long history shows everywhere — in the maritime museum, the grand sea-captain mansions, and the fishing boats and sea lions that still crowd the docks. Day 2 is the trip's longest ride — down the wild Olympic coast from Forks past Ruby Beach — and it ends with the dramatic 4-mile crossing of the **Astoria–Megler Bridge** and a night in style at the **Cannery Pier Hotel & Spa**, on stilts over the Columbia with the bridge filling the window.
 
-For this family it hits every note at once. Galiya gets art galleries, historic homes, and one of the best small-city food-and-beer scenes on the coast; Ruslan gets big-river history and a genuinely great museum; and Aslan gets the **Goonies house**, balsa-glider launches from the Astoria Column, barking sea lions, and a rattling old trolley. It is a relaxed, rewarding second night before the trip pushes on.
+For this family it hits every note at once. Galiya gets art galleries, historic homes, and one of the best small-city food-and-beer scenes on the coast; Ruslan gets big-river history and a genuinely great museum; and Aslan gets the **Goonies house**, balsa-glider launches from the Astoria Column, barking sea lions, and a rattling old trolley. It is a relaxed, rewarding second night before the trip pushes on. The evening arrival buys a slow Astoria morning on Day 3 — the Column, the sea lions, a Bowpicker lunch — before the short ride south to the capes.
 
 ## Things to see & do
 - **Astoria Column** — Climb the 164-step spiral to the top of this hilltop tower for a 360° view of the river, bridge, and Coast Range; buy a **balsa-wood glider** at the gift shop and launch it off the summit (**a guaranteed Aslan win**).
@@ -33,7 +33,7 @@ For this family it hits every note at once. Galiya gets art galleries, historic 
 ## Where to stay
 | Property | Type | Parking | Price/night | — | Notes |
 |---|---|---|---|---|---|
-| Cannery Pier Hotel & Spa | Nice hotel | On-site lot, pier setting | $300–$450 | — | Luxe rooms on stilts over the Columbia with bridge views; confirm secure motorcycle parking + family/passenger rules before booking. |
+| Cannery Pier Hotel & Spa | Nice hotel | On-site lot, pier setting | $300–$450 | — | THE BOOKED PLAN — luxe rooms on stilts 600 ft out over the Columbia, every room facing the bridge and the ship traffic; spa, sauna and evening wine hour. Confirm secure motorcycle parking + family/passenger rules before booking. |
 | Bowline Hotel | Boutique | On-site lot | $220–$340 | — | Stylish waterfront cannery conversion with restaurant/bar; confirm secure motorcycle parking + family/passenger rules before booking. |
 | Commodore Hotel Astoria | Boutique | Street/nearby lot | $130–$220 | — | Hip, compact downtown rooms steps from cafés; confirm secure motorcycle parking + family/passenger rules before booking. |
 | Norblad Hotel | Inn | Street parking | $110–$180 | — | Budget-friendly historic downtown rooms (some shared bath); confirm secure motorcycle parking + family/passenger rules before booking. |

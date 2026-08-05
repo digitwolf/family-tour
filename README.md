@@ -1,20 +1,20 @@
-# 🏍️ PNW Family First Tour
+# 🏍️ PNW Family Coast Tour
 
-A scenic, family-friendly **7-day Pacific-Northwest motorcycle "first tour"**, visualized as a static website and tracked as organized markdown.
+A scenic, family-friendly **8-day Pacific-Northwest motorcycle coast tour**, visualized as a static website and tracked as organized markdown.
 
-A relaxed, safety-first ride built to grow a **brand-new rider's** confidence and a 6-year-old passenger's love of the road. **Woodinville → the Oregon Coast (Yachats) → home over Mount St. Helens & Mount Rainier**, July 1–7, 2026 — a round trip on backroads, no freeways.
+A relaxed, safety-first ride built to grow a **still-new rider's** confidence and a 6-year-old passenger's love of the road. **Woodinville → the Olympic Peninsula (Forks & Ruby Beach) → the Oregon Coast (Two Capes glamping, Yachats) → home through Portland**, August 15–22, 2026 — a grand loop on backroads, no freeways.
 
-- **Galiya** just earned her endorsement → rides her **Kawasaki W230** (she sets the pace, up front).
+- **Galiya** recently earned her endorsement → rides her **Kawasaki W230** (she sets the pace, up front).
 - **Ruslan** rides his **BMW R1300GS**, carrying 6-year-old **Aslan** as pillion.
 - Owned bikes, no rental, no flights — the trip starts in the garage and opens with the **Edmonds–Kingston ferry**.
 
 ## Features
 
 - **Interactive route map** (Leaflet) with all 7 stops and the full loop polyline.
-- **7-day itinerary** with real Google-routed per-day mileage (≈ 970 mi total) and a **Google Maps route** for every day.
+- **8-day itinerary** with real Google-routed per-day mileage (≈ 975 mi total) and a **Google Maps route** for every day.
 - **7 destination pages** — each with verified photos, a map, things to do, regional food, and family-friendly lodging with USD pricing and **motorcycle-parking** info.
-- **Coast Food Trail** — Galiya's foodie thread (Westport crab → Astoria fish & chips → Tillamook cheese & ice cream → Yachats chowder).
-- **The Fourth of July in Yachats** — the rest day lands on July 4 (La De Da Parade + bay fireworks).
+- **Coast Food Trail** — Galiya's foodie thread (Astoria fish & chips → Tillamook cheese & ice cream → Netarts oysters → Yachats chowder → a Portland food-cart night).
+- **Glamping as a feature** — a Forks safari tent and the Two Capes Lookout geodesic domes bookend the Cannery Pier and oceanfront-Yachats hotel nights.
 - Tap any day or map marker to jump to its destination; tap a destination's photo for a lightbox.
 
 ## Project layout

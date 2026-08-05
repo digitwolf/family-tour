@@ -1,58 +1,51 @@
-Day 5 turns the tour homeward and inland: a last Yachats coast breakfast, then up the Alsea River canyon to the Willamette Valley for a Corvallis lunch, north past Longview, across the Columbia, and into Washington's Mount St. Helens gateway for the night. It's the longest transfer day, so keep the lunch stop efficient and plan on a relaxed, simple dinner near Castle Rock — options out here are limited, and a good local diner is exactly right.
-
 ```json
 {
   "d": 5,
-  "title": "Inland to the Volcano",
-  "overnight": "Castle Rock, WA",
-  "schedule": "breakfast in Yachats ~08:30 · depart ~09:30 up the Alsea canyon · lunch in Corvallis ~12:30 · cross the Columbia at Longview ~15:30 · arrive Castle Rock / Mount St. Helens gateway ~16:30 · dinner in Castle Rock",
+  "title": "Capes to Yachats",
+  "overnight": "Yachats, OR (Overleaf Lodge — the nice hotel)",
+  "schedule": "dome pack-up & Pacific City breakfast ~08:30 · roll ~09:30 · Neskowin Ghost Forest peek ~10:00 · Depoe Bay whale watching ~11:00 · Yaquina Head Lighthouse ~12:00 · lunch in Newport ~12:45 · optional Oregon Coast Aquarium ~14:00 · arrive Yachats ~16:00 · 804 Trail walk · dinner in the village ~18:00",
   "todo": [
-    {"time":"~08:00","name":"Yachats State Recreation Area","what":"quick last look at the surf and tide pools before turning inland","map":"https://www.google.com/maps/search/?api=1&query=Yachats+State+Recreation+Area"},
-    {"time":"~10:30","name":"Alsea Falls (short detour)","what":"easy forest waterfall stop to stretch legs on the canyon run","map":"https://www.google.com/maps/search/?api=1&query=Alsea+Falls+Recreation+Site+Oregon"},
-    {"time":"~13:30","name":"Oregon State University / downtown Corvallis","what":"leafy college-town stroll after lunch","map":"https://www.google.com/maps/search/?api=1&query=Oregon+State+University+Corvallis"},
-    {"time":"~17:30","name":"Mount St. Helens Visitor Center at Silver Lake","what":"eruption story, models and a kid-friendly walk-through volcano (check closing time)","map":"https://www.google.com/maps/search/?api=1&query=Mount+St.+Helens+Visitor+Center+Silver+Lake+WA"}
+    {"time":"~11:00","name":"Depoe Bay seawall & Whale Watching Center","what":"the world's smallest harbor, spouting horns in the seawall, and resident gray whales feeding just offshore all August","map":"https://www.google.com/maps/search/?api=1&query=Depoe+Bay+Whale+Watching+Center"},
+    {"time":"~12:00","name":"Yaquina Head Lighthouse","what":"Oregon's tallest light (93 ft) on its black-basalt headland — harbor seals on the rocks below","map":"https://www.google.com/maps/search/?api=1&query=Yaquina+Head+Lighthouse"},
+    {"time":"~14:00","name":"Oregon Coast Aquarium (optional)","what":"sea otters, the walk-through 'Passages of the Deep' tunnel and touch tanks — if the family wants a big afternoon stop","map":"https://www.google.com/maps/search/?api=1&query=Oregon+Coast+Aquarium+Newport"},
+    {"time":"~16:30","name":"804 Trail from the hotel","what":"check in, then walk the flat oceanfront path over the basalt shelf — tidepools at low tide, whale spouts at any tide","map":"https://www.google.com/maps/search/?api=1&query=804+Trail+Yachats"}
   ],
   "meals": [
-    {"slot":"breakfast","area":"Yachats","picks":[
-      {"name":"Green Salmon Coffee Company","cuisine":"coffee house / bakery breakfast","rating":4.5,"why":"Galiya & Ruslan — beloved Yachats roaster, pastries and a strong coffee for the long ride","kid":false,"map":"https://maps.google.com/?cid=15236297694368532859","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pancake_stack.jpg/330px-Pancake_stack.jpg"},
-      {"name":"Beach Street Kitchen","cuisine":"American breakfast / brunch","rating":4.7,"why":"Aslan — eggs, pancakes and plain toast he'll eat before a big day","kid":true,"map":"https://maps.google.com/?cid=9912055002029852844","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pancake_stack.jpg/330px-Pancake_stack.jpg"}
+    {"slot":"breakfast","area":"Pacific City","picks":[
+      {"name":"Stimulus Coffee + Bakery","cuisine":"espresso & pastries above the beach","rating":4.2,"why":"one more Kiwanda-view coffee before rolling south","kid":true,"map":"https://www.google.com/maps/search/?api=1&query=Stimulus+Coffee+Pacific+City","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Caffe_Latte_cup.jpg/960px-Caffe_Latte_cup.jpg"}
     ]},
-    {"slot":"lunch","area":"Corvallis","picks":[
-      {"name":"Swan Dive Sandwiches + Bar","cuisine":"chef-driven sandwiches","rating":4.8,"why":"Galiya — inventive Willamette Valley sandwiches, top-rated downtown spot","kid":false,"map":"https://maps.google.com/?cid=15979286481041514821","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Club-sandwich.jpg/330px-Club-sandwich.jpg"},
-      {"name":"Block 15 Brewing Downtown Pub","cuisine":"brewpub / American","rating":4.5,"why":"Ruslan — well-known Corvallis brewery with hearty pub plates","kid":false,"map":"https://maps.google.com/?cid=5868937247190344687","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cheeseburger.jpg/330px-Cheeseburger.jpg"},
-      {"name":"Old World Deli","cuisine":"deli sandwiches","rating":4.5,"why":"Aslan — simple grilled cheese / plain deli sandwich, casual and quick","kid":true,"map":"https://maps.google.com/?cid=7965508546757815127","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Club-sandwich.jpg/330px-Club-sandwich.jpg"}
+    {"slot":"lunch","area":"Newport","picks":[
+      {"name":"Local Ocean Seafoods","cuisine":"dock-front fish market & kitchen","rating":4.6,"why":"Galiya — Newport's famous fishing-fleet-to-table spot on the bayfront; worth the possible wait","kid":true,"map":"https://www.google.com/maps/search/?api=1&query=Local+Ocean+Seafoods+Newport","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fish_and_chips_plate_with_peas.jpg/960px-Fish_and_chips_plate_with_peas.jpg"},
+      {"name":"Gracie's Sea Hag (Depoe Bay)","cuisine":"old-school chowder house","rating":4.4,"why":"the earlier option — award-winning chowder right on the Depoe Bay seawall","kid":true,"map":"https://www.google.com/maps/search/?api=1&query=Gracie's+Sea+Hag+Depoe+Bay","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cup_of_clam_chowder%2C_with_saltines.jpg/960px-Cup_of_clam_chowder%2C_with_saltines.jpg"}
     ]},
-    {"slot":"dinner","area":"Castle Rock / Silver Lake / Toutle","picks":[
-      {"name":"Amaro's Table Castle Rock","cuisine":"Pacific Northwest / American","rating":4.8,"why":"Galiya & Ruslan — the standout sit-down restaurant at the volcano gateway","kid":false,"map":"https://maps.google.com/?cid=16172930673490403158","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cheeseburger.jpg/330px-Cheeseburger.jpg"},
-      {"name":"Peper's 49ER Restaurant","cuisine":"classic American family diner","rating":4.2,"why":"Aslan — old-school diner with burgers, fries, grilled cheese and pancakes; reliable kid food","kid":true,"map":"https://maps.google.com/?cid=4506938187642784906","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cheeseburger.jpg/330px-Cheeseburger.jpg"},
-      {"name":"El Compadre Restaurant","cuisine":"Mexican","rating":4.4,"why":"whole family — generous, casual Mexican with plain rice/beans/quesadilla for Aslan","kid":true,"map":"https://maps.google.com/?cid=17521742468811933775","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Mexican_cuisine_1.jpg/330px-Mexican_cuisine_1.jpg"}
+    {"slot":"dinner","area":"Yachats","picks":[
+      {"name":"The Drift Inn Hotel and Restaurant","cuisine":"American comfort food & seafood, live music","rating":4.4,"why":"whole family — lively arrival-night dinner; kids' menu with burgers, mac & cheese and chicken strips for Aslan","kid":true,"map":"https://maps.google.com/?cid=15878405420698897937","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cheeseburger_and_Fries_2.jpg/960px-Cheeseburger_and_Fries_2.jpg"},
+      {"name":"Luna Sea Fish House (Seal Rock)","cuisine":"dockside fish & chips, chowder","rating":4.5,"why":"Ruslan — own-boat-caught fish & chips 12 min north; casual, fast, Aslan-friendly","kid":true,"map":"https://maps.google.com/?cid=14291681410554983807","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Fish_and_chips.jpg/960px-Fish_and_chips.jpg"},
+      {"name":"Ona Restaurant & Lounge","cuisine":"Pacific Northwest seafood, riverfront","rating":4.3,"why":"Galiya — save it for tomorrow if tonight runs late; Yachats' fine-casual standout (book ahead in August)","kid":false,"map":"https://maps.google.com/?cid=130354226211525660"}
     ]}
   ]
 }
 ```
 
-## Day 5 — Inland to the Volcano (Sun 5 July 2026)
+## Day 5 — Capes to Yachats (Tierra Del Mar → Yachats, OR)
 
-**Schedule:** breakfast in Yachats ~08:30 · depart ~09:30 up the Alsea canyon · lunch in Corvallis ~12:30 · cross the Columbia at Longview ~15:30 · arrive Castle Rock / Mount St. Helens gateway ~16:30 · dinner in Castle Rock. This is the longest transfer day, so don't dawdle over lunch and expect a low-key dinner.
+The shortest riding day, down the central coast's greatest hits: the Neskowin Ghost Forest, gray whales off the Depoe Bay seawall, Oregon's tallest lighthouse at Yaquina Head, a famous dock-front lunch in Newport (or the aquarium), and an early Yachats arrival — check into the oceanfront nice hotel and walk the 804 Trail before dinner.
+
+**Schedule:** Pacific City breakfast · roll ~09:30 · Neskowin ~10:00 · Depoe Bay ~11:00 · Yaquina Head ~12:00 · Newport lunch ~12:45 · aquarium ~14:00 (optional) · Yachats ~16:00 · 804 Trail · dinner ~18:00.
 
 ### Where to eat
 
-**Breakfast — Yachats**
-- [Green Salmon Coffee Company](https://maps.google.com/?cid=15236297694368532859) — 4.5, coffee house / bakery. Galiya & Ruslan: beloved local roaster, pastries and a serious coffee to launch the long ride.
-- [Beach Street Kitchen](https://maps.google.com/?cid=9912055002029852844) — 4.7, American breakfast. Aslan (kid): eggs, pancakes and plain toast.
+**Lunch — Depoe Bay / Newport**
+- **Local Ocean Seafoods** (4.6★) — Newport's famous fleet-to-table bayfront kitchen. [Map](https://www.google.com/maps/search/?api=1&query=Local+Ocean+Seafoods+Newport)
+- **Gracie's Sea Hag** (4.4★) — award-winning chowder on the Depoe Bay seawall. [Map](https://www.google.com/maps/search/?api=1&query=Gracie's+Sea+Hag+Depoe+Bay)
 
-**Lunch — Corvallis (Willamette Valley)**
-- [Swan Dive Sandwiches + Bar](https://maps.google.com/?cid=15979286481041514821) — 4.8, chef-driven sandwiches. Galiya: the top-rated downtown lunch.
-- [Block 15 Brewing Downtown Pub](https://maps.google.com/?cid=5868937247190344687) — 4.5, brewpub. Ruslan: hearty pub plates and a local beer.
-- [Old World Deli](https://maps.google.com/?cid=7965508546757815127) — 4.5, deli. Aslan (kid): simple grilled cheese / plain sandwich, fast.
-
-**Dinner — Castle Rock / Silver Lake / Toutle** (realistically limited; these are the best of what's there)
-- [Amaro's Table Castle Rock](https://maps.google.com/?cid=16172930673490403158) — 4.8, Pacific Northwest / American. Galiya & Ruslan: the standout sit-down meal at the gateway.
-- [Peper's 49ER Restaurant](https://maps.google.com/?cid=4506938187642784906) — 4.2, classic American diner. Aslan (kid): burgers, fries, grilled cheese, pancakes — dependable simple food.
-- [El Compadre Restaurant](https://maps.google.com/?cid=17521742468811933775) — 4.4, Mexican. Whole family, with plain rice/beans/quesadilla for Aslan.
+**Dinner — Yachats**
+- **The Drift Inn** (4.4★) — lively arrival-night dinner with a real kids' menu. [Map](https://maps.google.com/?cid=15878405420698897937)
+- **Luna Sea Fish House, Seal Rock** (4.5★) — own-boat fish & chips 12 minutes north. [Map](https://maps.google.com/?cid=14291681410554983807)
+- **Ona** (4.3★) — the fine-casual standout; book ahead, or save for tomorrow. [Map](https://maps.google.com/?cid=130354226211525660)
 
 ### Things to do
-- **~08:00 Yachats State Recreation Area** — one last look at the surf and tide pools before turning inland. [map](https://www.google.com/maps/search/?api=1&query=Yachats+State+Recreation+Area)
-- **~10:30 Alsea Falls** — short forest-waterfall leg-stretch on the canyon run. [map](https://www.google.com/maps/search/?api=1&query=Alsea+Falls+Recreation+Site+Oregon)
-- **~13:30 OSU / downtown Corvallis** — leafy college-town stroll after lunch. [map](https://www.google.com/maps/search/?api=1&query=Oregon+State+University+Corvallis)
-- **~17:30 Mount St. Helens Visitor Center at Silver Lake** — eruption story, models and a walk-through volcano kids love (verify closing time before going). [map](https://www.google.com/maps/search/?api=1&query=Mount+St.+Helens+Visitor+Center+Silver+Lake+WA)
+- **~11:00 — Depoe Bay:** spouting horns and resident gray whales off the seawall. [Map](https://www.google.com/maps/search/?api=1&query=Depoe+Bay+Whale+Watching+Center)
+- **~12:00 — Yaquina Head Lighthouse:** Oregon's tallest light; seals below. [Map](https://www.google.com/maps/search/?api=1&query=Yaquina+Head+Lighthouse)
+- **~14:00 — Oregon Coast Aquarium (optional):** otters and the shark tunnel. [Map](https://www.google.com/maps/search/?api=1&query=Oregon+Coast+Aquarium+Newport)
+- **~16:30 — 804 Trail:** the oceanfront path right from the hotel. [Map](https://www.google.com/maps/search/?api=1&query=804+Trail+Yachats)

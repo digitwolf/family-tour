@@ -1,76 +1,110 @@
-# Itinerary & Daily Schedule (Days 1–7)
+# Itinerary & Daily Schedule (Days 1–8)
 
-**≈ 970 miles of riding over 7 days** on a home loop from **Woodinville, WA** — out down the Washington and Oregon coast, home over the Cascades. Distances and driving times are from the **Google Directions API** (real road routing through each day's stops), and the whole route stays **off all freeways and Interstates** for the newly-endorsed rider on her **Kawasaki W230**.
+**≈ 975 miles of riding over 8 days** on a grand coastal loop from **Woodinville, WA** — around the wild Olympic Peninsula, down the whole northern Oregon coast, and home through the Willamette Valley, Portland and the Rainier-foothill backroads. Distances and driving times are from the **Google Directions API** (real road routing through each day's stops), and the whole route stays **off all freeways and Interstates** for the newly-endorsed rider on her **Kawasaki W230**.
 
-**No flights, no rentals:** the family rides their own bikes from the garage (see [getting started](02-getting-started.md)). The only crossing is the short **Edmonds–Kingston ferry** on Day 1. The **average riding day is ≈ 3h40m**; the **longest is Day 5** (the coast→Cascades transfer, ~4.1h). No two long days run back-to-back, the **Fourth-of-July rest day (Day 4)** sits in Yachats between the coast days and the long inland transfer, and the trip ends with a graduation ride home through Mount Rainier and over Chinook Pass.
+**No flights, no rentals:** the family rides their own bikes from the garage (see [getting started](02-getting-started.md)). The only crossing is the short **Edmonds–Kingston ferry** on Day 1. **Two two-night bases** (the Two Capes Lookout glamping domes on Days 3–4, the Yachats oceanfront hotel on Days 5–6) split the trip into short, easy hops — five of the eight days are under 2¾ hours of riding. The two genuinely long days (the Olympic-coast run on Day 2 and the backroads ride home on Day 8) each follow a slow morning or a full rest day, so no one starts them tired.
 
 | Day | Date | Title | Route | Region | Overnight | Miles | Drive |
 |----|----|-------|-------|--------|-----------|------:|:-----:|
-| 1 | Wed Jul 1 | Ferry & the First Coast | Woodinville → Edmonds–Kingston ferry → Hood Canal → Aberdeen → Westport | WA Coast | Westport, WA | 176 | 4.6h |
-| 2 | Thu Jul 2 | Across the Columbia to Cannon Beach | Westport → Long Beach → Astoria → Cannon Beach | OR Coast | Cannon Beach, OR | 125 | 2.9h |
-| 3 | Fri Jul 3 | Cheese, Capes & the Coast Run | Cannon Beach → Tillamook → Pacific City → Newport → Yachats | OR Coast | Yachats, OR ★ | 136 | 3.2h |
-| 4 | Sat Jul 4 | Fourth of July Rest Day | Cape Perpetua · Heceta Head · Sea Lion Caves · La De Da Parade · fireworks | OR Coast | Yachats (2nd night) | ~31 | rest |
-| 5 | Sun Jul 5 | Coast to Volcano | Yachats → Alsea River road → Corvallis → Longview (Columbia) → Mount St. Helens | Cascades | Castle Rock / Silver Lake, WA | 217 | 4.1h |
-| 6 | Mon Jul 6 | The Blast Zone & US-12 | Spirit Lake Hwy (SR-504) viewpoints + Coldwater Lake → US-12 → Packwood | Cascades | Packwood, WA | 153 | 3.0h |
-| 7 | Tue Jul 7 | Paradise & Chinook Pass Home | Packwood → Paradise → Reflection Lakes → Narada Falls → Chinook Pass → Enumclaw → Home | Cascades | Home · Woodinville | 165 | 4.1h |
+| 1 | Sat Aug 15 | Ferry to the Rainforest | Woodinville → Edmonds–Kingston ferry → Port Angeles → Lake Crescent → Forks | Olympic Peninsula | Forks, WA — safari tent 🏕️ | 140 | 4.0h |
+| 2 | Sun Aug 16 | Ruby Beach & the Long Coast | Forks → Ruby Beach → Kalaloch → Lake Quinault → Long Beach → Astoria | Olympic Coast → Columbia | Astoria, OR — Cannery Pier Hotel & Spa | 200 | 4.3h |
+| 3 | Mon Aug 17 | Haystack Rock to the Two Capes | Astoria → Cannon Beach → Tillamook Creamery → Cape Meares → Oceanside → Tierra Del Mar | Oregon Coast | Two Capes Lookout (glamping) ★ | 100 | 2.8h |
+| 4 | Tue Aug 18 | Three Capes Rest Day | Cape Lookout · Netarts oysters · Cape Kiwanda dune · Pacific City (light riding) | Oregon Coast | Two Capes Lookout (2nd night) | ~53 | rest |
+| 5 | Wed Aug 19 | Capes to Yachats | Tierra Del Mar → Pacific City → Depoe Bay → Newport → Yachats | Oregon Coast | Yachats, OR — nice hotel ★ | 76 | 2.0h |
+| 6 | Thu Aug 20 | Yachats Rest Day | Cape Perpetua · Thor's Well · Heceta Head · Sea Lion Caves (light riding) | Oregon Coast | Yachats (2nd night) | ~31 | rest |
+| 7 | Fri Aug 21 | Over the Coast Range to Portland | Yachats → Alsea Hwy → Corvallis → wine country (99W) → Portland | Willamette Valley | Portland, OR — nice hotel | 156 | 3.8h |
+| 8 | Sat Aug 22 | The Columbia & Backroads Home | Portland → St. Johns Bridge → US-30 → Longview → Rainier foothills → Home | Columbia → Puget Sound | Home · Woodinville | 220 | 5.4h |
 
 ## Day notes
 
-### Day 1 — Ferry & the First Coast
-*Woodinville → Edmonds–Kingston ferry → Hood Canal → Aberdeen → Westport · 176 mi · 4.6h riding · Washington Coast*
+### Day 1 — Ferry to the Rainforest
+*Woodinville → Edmonds–Kingston ferry → Port Gamble → Port Angeles → Lake Crescent → Forks · 140 mi · 4.0h riding · Olympic Peninsula*
 
-The longest single day on paper, but a gentle one by design: a good chunk of it is done by a boat. Pack the night before, top off the W230's small tank in town, and ride the short, mellow run northwest to **Edmonds**. Roll the bikes straight onto the **Edmonds–Kingston ferry** — a relaxed half-hour Puget Sound crossing that skips Seattle traffic entirely and doubles as **Galiya's first ferry on two wheels**. From Kingston the route stays on quiet backroads and bends down to the calm, fjord-like **Hood Canal shore (Hwy 106)** — low-traffic, easy-cornering, water on one side and forest on the other, the perfect first hour for a new endorsement. After Shelton the country opens out, the air turns salty through Aberdeen, and the day ends standing at the Pacific in the working fishing-and-surf town of **Westport**.
+The trip opens the gentle way: a short, mellow run to **Edmonds**, then roll the bikes onto the **Edmonds–Kingston ferry** for a relaxed half-hour Puget Sound crossing — Galiya's ferry load-on and a built-in skip around Seattle traffic. From Kingston, quiet two-lanes pass the preserved mill town of **Port Gamble** and cross the floating **Hood Canal Bridge** onto the Olympic Peninsula. US-101 swings through Sequim and Port Angeles (lunch), then delivers the day's showstopper: ~10 miles right along the shore of the deep, glacial-blue **Lake Crescent** under Mount Storm King. The last hour runs south through the timber country to **Forks**, where a canvas **safari tent** in the rainforest — the trip's first glamping night — is waiting.
 
-**For the new rider:** all paved, low-speed two-lane with no freeway, broken naturally by the ferry and a fuel/coffee stop in Aberdeen. **Fuel note:** the Hood Canal–to-Aberdeen stretch is rural — top off before it and don't run the W230 low.
+**For the new rider:** all paved, low-speed two-lane; the ferry and a Port Angeles lunch split the day into easy thirds. The Lake Crescent stretch is curvy but slow and beautiful — ride it at sightseeing pace. **Fuel note:** top off in Port Angeles; services thin out west of there.
 
 **Stops along the way:**
 - ⛴️ **Edmonds–Kingston ferry** — Roll the bikes aboard and cross Puget Sound with the Olympics on the horizon (no moto reservation — arrive early) **[KID]**
-- 🌊 **Hood Canal (Hwy 106)** — The day's signature easy ride: quiet shoreline two-lane along the fjord
-- ☕ **Aberdeen / Grays Harbor** — Fuel, coffee and a leg-stretch before the final run to the coast
-- 🦭 **Westport marina & sea lions** — Working docks, the fishing fleet and the day's first Pacific sunset **[KID]**
+- 🏘️ **Port Gamble** — A perfectly preserved 1850s mill town on the bluff — coffee and a leg-stretch
+- ☕ **Port Angeles** — Lunch and fuel on the Strait of Juan de Fuca, the Olympics at your back
+- 🏞️ **Lake Crescent** — US-101 hugs the shore of the fjord-blue lake for ten glorious miles
+- 🏕️ **Forks & the safari tent** — Twilight-town photo, then camp under the giant spruce **[KID]**
 
-[🗺️ Day route](https://www.google.com/maps/dir/?api=1&origin=Woodinville,WA&destination=Westport,WA&waypoints=Edmonds+Ferry+Terminal,WA|Kingston,WA|Union,WA|Aberdeen,WA&travelmode=driving)
+[🗺️ Day route](https://www.google.com/maps/dir/?api=1&origin=Woodinville,WA&destination=Forks,WA&waypoints=Edmonds+Ferry+Terminal,WA|Port+Gamble,WA|Port+Angeles,WA|Lake+Crescent,WA&travelmode=driving)
 
-### Day 2 — Across the Columbia to Cannon Beach
-*Westport → Long Beach → Astoria → Cannon Beach · 125 mi · 2.9h riding · Oregon Coast*
+### Day 2 — Ruby Beach & the Long Coast
+*Forks → Ruby Beach → Kalaloch → Lake Quinault → Aberdeen → Raymond → Long Beach → Astoria · 200 mi · 4.3h riding · Olympic Coast → Columbia*
 
-A relaxed second day with a beach payoff. Roll south from Westport through the oyster country of **Willapa Bay**, pause at **Raymond's roadside metal sculptures**, then run out the **Long Beach Peninsula** (the world's longest drivable beach) before the dramatic crossing of the **4-mile Astoria–Megler Bridge** into Oregon. Spend the afternoon in **Astoria** — the oldest American settlement west of the Rockies, with the Column, the sea lions and the Columbia River Maritime Museum — then drop the last ~25 miles south to sleep at **Cannon Beach**, right under the 235-ft **Haystack Rock**. Wake up on the beach.
+The trip's longest ride, made easy by what it's made of: beach stops. Twenty-five minutes south of Forks, US-101 touches the Pacific at **Ruby Beach** — sea stacks, drift logs, Abbey Island — the whole reason last night was Forks; walk it fresh in the morning before the crowds. The highway then rides the wild Olympic coast past the **Kalaloch** bluffs (and the gravity-defying Tree of Life root cave), turns inland through the rainforest at **Lake Quinault**, and rolls south through Aberdeen into the oyster country of Raymond and Willapa Bay. Out along the **Long Beach Peninsula** for a stretch, then the grand finale: the soaring 4-mile **Astoria–Megler Bridge** over the mouth of the Columbia into Oregon, with the **Cannery Pier Hotel** waiting on its stilts practically underneath it.
 
-**For the new rider:** short, flat, low-stress two-lane; the long bridge is the only "big" feature and is straightforward at a steady pace.
+**For the new rider:** long but flat, low-speed and broken into 60–90-minute hops with a beach or coffee at every break — the rest-day-fresh legs help. **Fuel note:** fuel in Forks before rolling, again at Aberdeen; the 101 coast stretch between is remote.
 
 **Stops along the way:**
-- 🦪 **Willapa Bay / Raymond** — Oyster country and the quirky roadside metal sculptures
-- 🏖️ **Long Beach Peninsula** — The "world's longest beach," boardwalk and kite shops **[KID]**
+- 🌊 **Ruby Beach** — The sea-stack beach of the Olympic coast, 25 min from the tent — morning drift-log wandering **[KID]**
+- 🌳 **Kalaloch & the Tree of Life** — Bluff-top beaches and the famous root-cave spruce clinging over the void **[KID]**
+- 🛶 **Lake Quinault** — Rainforest lake and lodge — the classic mid-morning coffee stop
+- 🦪 **Raymond & Willapa Bay** — Oyster country and the roadside metal sculptures
 - 🌉 **Astoria–Megler Bridge** — The soaring 4-mile crossing of the Columbia into Oregon
-- 🦭 **Astoria** — Sea lions on the docks, the riverfront trolley, the Astoria Column and the Maritime Museum **[KID]**
-- 🪨 **Cannon Beach · Haystack Rock** — Arrive for sunset under the sea stack, the night's base **[KID]**
+- 🏨 **Cannery Pier Hotel & Spa** — The night on stilts over the river, ships sliding past the window **[KID]**
 
-[🗺️ Day route](https://www.google.com/maps/dir/?api=1&origin=Westport,WA&destination=Cannon+Beach,OR&waypoints=Raymond,WA|Long+Beach,WA|Astoria,OR&travelmode=driving)
+[🗺️ Day route](https://www.google.com/maps/dir/?api=1&origin=Forks,WA&destination=Astoria,OR&waypoints=Ruby+Beach,WA|Kalaloch,WA|Lake+Quinault,WA|Aberdeen,WA|Long+Beach,WA&travelmode=driving)
 
-### Day 3 — Cheese, Capes & the Coast Run
-*Cannon Beach → Tillamook → Pacific City → Newport → Yachats · 136 mi · 3.2h riding · Oregon Coast*
+### Day 3 — Haystack Rock to the Two Capes
+*Astoria → Cannon Beach → Manzanita → Tillamook → Cape Meares → Oceanside → Tierra Del Mar · 100 mi · 2.8h riding · Oregon Coast*
 
-The big, joyful coast day, and the one that delivers the family to its rest base. Wake under **Haystack Rock**, then roll south through Garibaldi and Rockaway to **Tillamook** — the marquee midday stop. The **Tillamook Creamery** is the headline (free factory tour, cheese tasting and the famous ice cream); next door, **Ruslan and Aslan** get the **Tillamook Air Museum** in its vast WWII wooden blimp hangar. West of town the easy, low-speed **Three Capes Scenic Loop** strings together **Cape Meares lighthouse** and the dory beach and dune at **Cape Kiwanda / Pacific City**. Then the coast highway runs south through Newport to the village of **Yachats** — the two-night base and emotional high point of the trip.
+A slow Astoria morning first — the **Astoria Column** glider launch, the barking sea lions, an early **Bowpicker** fish-and-chips — then an easy 100 coastal miles stacked with icons. Twenty-six miles south, walk the sand under **Haystack Rock** at **Cannon Beach**; climb over Neahkahnie Mountain's cliff-edge highway to Manzanita; round Tillamook Bay to the family's marquee stop, the **Tillamook Creamery** (cheese-factory gallery, curds, famous scoops). Then leave 101 for the little **Three Capes** road: **Cape Meares Lighthouse** and the Octopus Tree, the puffin rocks off **Oceanside**, the quiet oyster water of **Netarts Bay** — and roll into **Two Capes Lookout** at Tierra Del Mar, the geodesic-dome glamping base for the next two nights.
 
-**For the new rider:** broken into many short, scenic legs with plenty of stops; all paved, low-speed coastal two-lane.
-
-**Stops along the way:**
-- 🧀 **Tillamook Creamery** — Free cheese-factory tour, tastings and the famous ice cream — the day's foodie centerpiece **[KID][FOOD]**
-- ✈️ **Tillamook Air Museum** — Vintage aircraft in a giant WWII wooden blimp hangar — a dad-and-Aslan win **[KID]**
-- 🚦 **Three Capes Loop (Cape Meares + Cape Kiwanda)** — Lighthouse, the Octopus Tree, dory boats and a big climbable dune at Pacific City **[KID]**
-- 🐠 **Oregon Coast Aquarium, Newport (optional)** — Walk-through ocean tunnel and sea otters if time allows **[KID]**
-
-[🗺️ Day route](https://www.google.com/maps/dir/?api=1&origin=Cannon+Beach,OR&destination=Yachats,OR&waypoints=Tillamook+Creamery,OR|Pacific+City,OR|Newport,OR&travelmode=driving)
-
-### Day 4 — Fourth of July Rest Day
-*Yachats (light riding) · ~31 mi · rest day · Oregon Coast*
-
-The trip's only rest day, the bikes parked, and it lands on the **Fourth of July** — which Yachats does in its own beloved, homespun way. The morning brings the come-as-you-are **La De Da Parade** through the village; after dark the town gathers for **fireworks over Yachats Bay**. Between the two is a day of easy coast: **Cape Perpetua** with **Thor's Well**, the Spouting Horn and Devil's Churn; a short hop south to the much-photographed **Heceta Head Lighthouse** and the **Sea Lion Caves** (an elevator into America's largest sea cave, full of wild sea lions); and tidepools and the flat oceanfront **804 Trail** right from town. A genuine downtime day with a kid hook at every turn.
-
-**Rest-day balance:** keep it loose — the parade, one or two Cape Perpetua sights, the lighthouse and sea lions are plenty; leave room to do nothing. **Safety:** keep Aslan well back from the wet rocks at Thor's Well and Devil's Churn — they're genuinely dangerous up close. **Quiet/wet fallback:** the Cape Perpetua visitor center, the village shops and a long chowder lunch.
+**For the new rider:** short, scenic legs with stops every half hour; the Three Capes road is narrow and slow — perfect W230 country.
 
 **Stops along the way:**
-- 🎆 **La De Da Parade + bay fireworks** — Yachats' quirky all-welcome Fourth of July, the rest-day centerpiece **[KID]**
+- 🗼 **Astoria Column** — 164 steps up, balsa glider down — the morning's kid win **[KID]**
+- 🪨 **Cannon Beach · Haystack Rock** — The 235-ft sea stack and its tide pools, mid-morning **[KID]**
+- 🧀 **Tillamook Creamery** — Free factory gallery, cheese tasting and the famous ice cream **[KID][FOOD]**
+- 🗼 **Cape Meares Lighthouse & Octopus Tree** — Oregon's shortest lighthouse and the candelabra spruce
+- 🐦 **Oceanside & Three Arch Rocks** — Puffin and sea-lion rocks half a mile off the sand **[KID]**
+- 🏕️ **Two Capes Lookout** — Check into a geodesic dome in the forest between the capes **[KID]**
+
+[🗺️ Day route](https://www.google.com/maps/dir/?api=1&origin=Astoria,OR&destination=Tierra+Del+Mar,OR&waypoints=Cannon+Beach,OR|Tillamook+Creamery,Tillamook,OR|Cape+Meares+Lighthouse,OR|Oceanside,OR|Netarts,OR&travelmode=driving)
+
+### Day 4 — Three Capes Rest Day
+*Two Capes Lookout · Cape Lookout · Netarts · Cape Kiwanda loop · ~53 mi light riding · Oregon Coast*
+
+The first rest day, at kid pace and dome-side. The only riding is an optional, easy local loop: the **Cape Lookout** trailhead for a walk into the Sitka spruce (go as far as small legs last), fresh **Netarts Bay oysters** at the Schooner for lunch, maybe a run up to the **Tillamook Air Museum**'s colossal WWII blimp hangar — then the afternoon at **Cape Kiwanda**: dory boats launching off the sand, the giant dune to climb and roll down, and Pelican Brewing's fish tacos at the foot of it all. Or skip all of it: the resort has trails, a quarry waterfall, firepits and the beach a short walk away.
+
+**Rest-day balance:** one cape, one good meal and the dune are plenty — leave room to do nothing. **Safety:** keep Aslan off the crumbly cliff edges at Kiwanda; the dune's the safe fun.
+
+**Stops along the way:**
+- 🌲 **Cape Lookout trail** — Cliff-top Sitka-spruce walk with views cape-to-cape
+- 🦪 **The Schooner, Netarts** — Netarts Bay oysters at the water's edge — the grown-ups' treat **[FOOD]**
+- ✈️ **Tillamook Air Museum (optional)** — Warbirds in one of the largest wooden buildings on earth **[KID]**
+- 🏖️ **Cape Kiwanda & the dune** — Dory boats, the giant climbable dune and Pelican Brewing on the sand **[KID]**
+
+[🗺️ Day route](https://www.google.com/maps/dir/?api=1&origin=Tierra+Del+Mar,OR&destination=Tierra+Del+Mar,OR&waypoints=Cape+Lookout+State+Park,OR|Netarts,OR|Tillamook+Creamery,Tillamook,OR|Pacific+City,OR&travelmode=driving)
+
+### Day 5 — Capes to Yachats
+*Tierra Del Mar → Pacific City → Neskowin → Lincoln City → Depoe Bay → Newport → Yachats · 76 mi · 2.0h riding · Oregon Coast*
+
+The shortest riding day, straight down the central coast's greatest-hits reel. Roll out past Cape Kiwanda and Neskowin (peek at the **Ghost Forest** stumps at low tide), through Lincoln City, and into **Depoe Bay** — the world's smallest harbor and Oregon's whale-watching capital, where resident gray whales feed just off the seawall all summer. South of it, the basalt headland of **Yaquina Head** raises Oregon's tallest lighthouse; **Newport** offers the Oregon Coast Aquarium if the day wants more. Then the last easy miles to **Yachats**, the tiny gem where the forest meets the surf — check into the oceanfront **nice hotel**, walk the 804 Trail, and let the two-night base begin.
+
+**For the new rider:** a mellow 2-hour day on familiar 101 rhythms — arrive early, unpack once, relax.
+
+**Stops along the way:**
+- 🐋 **Depoe Bay** — Spouting horns and resident gray whales right off the seawall **[KID]**
+- 🗼 **Yaquina Head Lighthouse** — Oregon's tallest light on its black-basalt headland
+- 🐠 **Oregon Coast Aquarium, Newport (optional)** — Walk-through ocean tunnel and sea otters **[KID]**
+- 🌊 **Yachats arrival** — The 804 Trail and tidepools right from the hotel **[KID]**
+
+[🗺️ Day route](https://www.google.com/maps/dir/?api=1&origin=Tierra+Del+Mar,OR&destination=Yachats,OR&waypoints=Pacific+City,OR|Lincoln+City,OR|Depoe+Bay,OR|Newport,OR&travelmode=driving)
+
+### Day 6 — Yachats Rest Day
+*Yachats · Cape Perpetua · Heceta Head · Sea Lion Caves (light riding) · ~31 mi · rest day · Oregon Coast*
+
+The second rest day, in the trip's prettiest square mile. A short, easy loop south serves up the coast's drama: **Cape Perpetua** with **Thor's Well**, the Spouting Horn and Devil's Churn (best around an incoming tide); the highest paved overlook on the Oregon coast; the much-photographed **Heceta Head Lighthouse**; and the **Sea Lion Caves** elevator down into America's largest sea cave, barking with wild Steller sea lions. Back in the village: tidepools, the flat oceanfront **804 Trail**, chowder, and a good dinner for Galiya. August bonus: watch for gray-whale spouts from every bluff.
+
+**Rest-day balance:** the loop is ~31 miles total — do it in any order, skip anything, add nothing. **Safety:** keep Aslan well back from the wet rocks at Thor's Well and Devil's Churn — they're genuinely dangerous up close. **Quiet/wet fallback:** the Cape Perpetua visitor center, the village shops and a long chowder lunch.
+
+**Stops along the way:**
 - 🌊 **Cape Perpetua · Thor's Well** — The "drainpipe of the Pacific," Spouting Horn and Devil's Churn (keep Aslan back from the wet rocks)
 - 🗼 **Heceta Head Lighthouse** — One of the most photographed lighthouses in the U.S.
 - 🦭 **Sea Lion Caves** — Elevator into America's largest sea cave, full of wild sea lions **[KID]**
@@ -78,48 +112,34 @@ The trip's only rest day, the bikes parked, and it lands on the **Fourth of July
 
 [🗺️ Day route](https://www.google.com/maps/dir/?api=1&origin=Yachats,OR&destination=Yachats,OR&waypoints=Cape+Perpetua,OR|Heceta+Head+Lighthouse,OR|Sea+Lion+Caves,OR&travelmode=driving)
 
-### Day 5 — Coast to Volcano
-*Yachats → Alsea River road → Corvallis → Longview (Columbia) → Mount St. Helens · 217 mi · 4.1h riding · Cascades*
+### Day 7 — Over the Coast Range to Portland
+*Yachats → Alsea Hwy (OR-34) → Corvallis → Independence → Newberg (99W wine country) → Portland · 156 mi · 3.8h riding · Willamette Valley*
 
-The trip's pivot, and its longest day. After four days on the coast the family turns **inland and north toward home**. Climb out of Yachats over the Coast Range on the scenic **Alsea River road** to Corvallis, then run north up the Willamette Valley's quieter highways, **cross the Columbia back into Washington at Longview**, and roll up into the Cascade foothills to the southwest gateway of **Mount St. Helens** — the towns of **Castle Rock, Toutle and Silver Lake** along SR-504, where the lodging, diners and the always-open visitor center are. The reward at the end of a long day is a real, recently-active volcano and the story of **May 18, 1980** for Aslan.
+Goodbye to the Pacific, the pretty way. The flowing **Alsea Highway** climbs out of Yachats through the Coast Range along the Alsea River — forest two-lane all the way to **Corvallis** and lunch in the college town. Then the valley takes over: quiet farm roads north through **Independence**, and the **99W wine country** past Amity, Dundee and **Newberg**, vineyard rows striping the hills. The day ends with the trip's one city arrival — Portland on the old southwest approach, no freeways — and a **nice downtown hotel**: Powell's City of Books before dinner, a food-cart-pod feast, Salt & Straw for dessert.
 
-**For the new rider:** at ~217 mi this is the one true transfer day, so ride it steady, take frequent breaks, and aim for an easy arrival — **no heroics, Galiya's W230 sets the rhythm.** Crucially it follows the **rest day**, so no one starts it tired. **Fuel note:** plan fuel through the Coast Range and the valley legs; don't gamble on the next station on the rural stretches.
+**For the new rider:** the Alsea climb is gentle and flowing; the valley is flat and calm. The only concentration test is Portland's city traffic at the very end — arrive before rush hour, ride it steady. **Fuel note:** fuel in Corvallis; the wine-country stretch is stationless.
 
 **Stops along the way:**
-- 🌲 **Alsea River road** — The scenic Coast Range climb out of Yachats — flowing forest two-lane
+- 🌲 **Alsea Highway** — The scenic Coast Range river road out of Yachats — flowing forest two-lane
 - ☕ **Corvallis** — Lunch, fuel and a leg-stretch in the valley
-- 🌉 **Columbia crossing at Longview** — Back into Washington and up toward the Cascades
-- 🌋 **Mount St. Helens Visitor Center (Silver Lake)** — Always-open, hands-on eruption story — Aslan's kind of place **[KID]**
+- 🍇 **99W wine country** — Vineyard hills through Amity, Dundee and Newberg
+- 📚 **Powell's City of Books** — A bookstore the size of a city block — Aslan's souvenir stop **[KID]**
+- 🌹 **International Rose Test Garden (evening option)** — 10,000 roses above the skyline at golden hour
 
-[🗺️ Day route](https://www.google.com/maps/dir/?api=1&origin=Yachats,OR&destination=Castle+Rock,WA&waypoints=Alsea,OR|Corvallis,OR|Longview,WA|Silver+Lake,WA&travelmode=driving)
+[🗺️ Day route](https://www.google.com/maps/dir/?api=1&origin=Yachats,OR&destination=Portland,OR&waypoints=Alsea,OR|Corvallis,OR|Independence,OR|Newberg,OR&travelmode=driving)
 
-### Day 6 — The Blast Zone & US-12
-*Spirit Lake Hwy (SR-504) viewpoints + Coldwater Lake → US-12 → Packwood · 153 mi · 3.0h riding · Cascades*
+### Day 8 — The Columbia & Backroads Home
+*Portland → St. Johns Bridge → US-30 → Lewis & Clark Bridge → Cowlitz valley → Orting → Maple Valley → Home · 220 mi · 5.4h riding · Columbia → Puget Sound*
 
-A shorter, scenic day in the mountains. First, ride the **Spirit Lake Memorial Highway (SR-504)** up into the 1980 blast zone — ~50 miles of smooth, sweeping two-lane climbing toward the crater, all viewpoint-to-viewpoint, with stops at **Hoffstadt Bluffs** and the eruption-formed **Coldwater Lake** (a flat "Birth of a Lake" boardwalk). *Heads up: **Johnston Ridge Observatory and the upper end of SR-504 have been closed since a 2023 landslide** — treat SR-504 as a roadside-viewpoint drive up to the closure point; the Silver Lake visitor center, Hoffstadt Bluffs and Coldwater Lake are the highlights instead.* Then drop back down, pick up **US-12 east**, and follow the upper Cowlitz valley to the tiny mountain town of **Packwood** — the base camp for the trip's capstone ride, where elk wander the lawns at dusk.
+The long, satisfying ride home — the trip's biggest day, planned like a tour in miniature. Roll out under the gothic towers of the **St. Johns Bridge** and follow **US-30 up the Columbia** — river on the right, Coast Range on the left — to the **Lewis & Clark Bridge** crossing at Longview, back into Washington one last time. Then the backroads take over: the Cowlitz farm valleys through Toledo, over to the **Rainier foothills** — where, on a clear day, **Mount Rainier fills the sky over the Orting valley** — and the final familiar run through Maple Valley to the Woodinville driveway. Eight days, a ferry, two glamping camps, the whole coast — and a new rider with a real tour in her mirrors.
 
-**For the new rider:** SR-504 is a relaxed, low-traffic, well-graded ride — ideal viewpoint riding; US-12 east is an easy forested two-lane. **Fuel note:** top off in Castle Rock before SR-504 and again before the US-12 run to Packwood, which is rural.
-
-**Stops along the way:**
-- 🌋 **Spirit Lake Highway (SR-504) viewpoints** — Sweeping crater views from the pull-offs up the blast zone
-- 📷 **Hoffstadt Bluffs** — Valley overlook, eruption photo displays and a leg-stretch
-- 💧 **Coldwater Lake** — A lake born of the eruption; flat, easy "Birth of a Lake" boardwalk **[KID]**
-- 🦌 **Packwood elk & town** — Roaming elk and deer on the lawns; a quiet pre-ride evening **[KID]**
-
-[🗺️ Day route](https://www.google.com/maps/dir/?api=1&origin=Castle+Rock,WA&destination=Packwood,WA&waypoints=Hoffstadt+Bluffs,WA|Coldwater+Lake,WA|Morton,WA&travelmode=driving)
-
-### Day 7 — Paradise & Chinook Pass Home
-*Packwood → Paradise → Reflection Lakes → Narada Falls → Chinook Pass (SR-410) → Enumclaw → Home · 165 mi · 4.1h riding · Cascades*
-
-The grand finale, and the road *is* the reward. From Packwood the family rides **through Mount Rainier National Park's** south side: **Stevens Canyon Road** climbs past **Box Canyon** and **Reflection Lakes** to **Paradise**, where early July brings the park's wildflower bloom to the roadside (a short, mostly-paved walk reaches **Myrtle Falls** framed by the mountain). Then down past **Narada Falls**, out the east side, and up the dramatic switchbacks of **Chinook Pass (SR-410)** to the alpine **Tipsoo Lake** — the new rider's graduation moment — before the long, satisfying descent through **Enumclaw** back to the Woodinville driveway. Park the bikes, unload the panniers, toast a finished first tour.
-
-**For the new rider:** these are scenic, low-speed mountain roads, not white-knuckle ones — a confidence-building capstone. **Check the WSDOT pass report:** Chinook Pass normally clears of snow and reopens by **early July**, but confirm it's open before Day 7 (the SR-7/Enumclaw lowland route is the fallback if the pass is closed — though it trades the alpine finish for busier roads). **Park entry:** Mount Rainier uses a timed-entry reservation in summer for the Paradise corridor — sort it ahead (see [getting started](02-getting-started.md)).
+**For the new rider:** the longest day, but deliberately after a two-rest-day week and split by an early lunch at Longview — ride it steady, break every hour, and finish in daylight. **Fuel note:** fuel leaving Portland and again in Longview; the foothill backroads are rural.
 
 **Stops along the way:**
-- 🏔️ **Paradise & Myrtle Falls** — Subalpine wildflower meadows and the park's most-photographed waterfall view **[KID]**
-- 🪞 **Reflection Lakes** — Roadside tarns that mirror the whole mountain on a calm morning
-- 💦 **Narada Falls** — A 168-ft tiered waterfall right beside the road, often with a rainbow **[KID]**
-- 🏞️ **Chinook Pass & Tipsoo Lake (SR-410)** — The alpine high point and graduation ride at ~5,430 ft (confirm the pass is open)
+- 🌉 **St. Johns Bridge** — Portland's gothic suspension masterpiece — the departure photo
+- 🌊 **US-30 Columbia run** — The big river alongside all morning to the Lewis & Clark Bridge
+- 🍔 **Longview / Castle Rock** — Early lunch and fuel at the halfway mark
+- 🏔️ **Orting valley Rainier views** — The mountain dead ahead on the farm roads **[KID]**
 - 🏁 **Home · Woodinville** — The finish line, back in the same driveway
 
-[🗺️ Day route](https://www.google.com/maps/dir/?api=1&origin=Packwood,WA&destination=Woodinville,WA&waypoints=Paradise,Mount+Rainier+National+Park|Reflection+Lakes,WA|Chinook+Pass,WA|Enumclaw,WA&travelmode=driving)
+[🗺️ Day route](https://www.google.com/maps/dir/?api=1&origin=Portland,OR&destination=Woodinville,WA&travelmode=driving)

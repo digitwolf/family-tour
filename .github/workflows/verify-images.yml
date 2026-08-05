@@ -1,0 +1,47 @@
+name: Verify image & wiki URLs
+
+# Checks every Wikimedia image URL (and en.wikipedia.org article URL) referenced by
+# data.js and the tour/ markdown, so broken links are caught before they render
+# broken on Pages. Run manually (workflow_dispatch) or on push to a claude/* branch.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ["claude/**"]
+    paths: ["data.js", "tour/**", "gen_data.py"]
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check URLs
+        run: |
+          python3 - <<'EOF'
+          import re, glob, urllib.request, time, sys
+          urls = set()
+          for path in ["data.js"] + glob.glob("tour/**/*.md", recursive=True):
+              text = open(path, encoding="utf-8").read()
+              urls |= set(re.findall(r"https://upload\.wikimedia\.org/[^\s\"')\]]+", text))
+              urls |= set(re.findall(r"https://en\.wikipedia\.org/wiki/[^\s\"')\]]+", text))
+          print(f"checking {len(urls)} unique URLs")
+          bad = []
+          for i, u in enumerate(sorted(urls)):
+              req = urllib.request.Request(u, method="HEAD",
+                  headers={"User-Agent": "family-tour-link-check/1.0 (github actions)"})
+              try:
+                  with urllib.request.urlopen(req, timeout=30) as r:
+                      code = r.status
+              except Exception as e:
+                  code = getattr(e, "code", str(e))
+              if code != 200:
+                  bad.append((code, u))
+                  print(f"  FAIL {code} {u}")
+              time.sleep(0.4)  # be polite to Commons
+          print(f"done: {len(urls)-len(bad)} ok, {len(bad)} failing")
+          if bad:
+              print("\nFAILING URLS:")
+              for code, u in bad:
+                  print(code, u)
+              sys.exit(1)
+          EOF
