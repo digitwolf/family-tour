@@ -90,12 +90,12 @@ window.DESTINATIONS = [
   region: "Greater Seattle · King County, WA",
   type: "start",
   days: "Day 1 (depart) · Day 8 (return)",
-  legMiles: 220,
+  legMiles: 189,
   lat: 47.7553, lng: -122.13389, zoom: 10,
   tagline: "Where the ride begins and ends: turn the key, point the bikes at the ferry, and let the everyday fall away behind you.",
   intro: [
     "Woodinville sits in Seattle's leafy northeast suburbs, a tidy pocket of wine-country calm tucked along the Sammamish River — more tasting rooms and trailheads than traffic lights. It's the kind of place where a week-long trip can begin quietly in the driveway: panniers packed the night before, <b>Galiya's Kawasaki W230</b> and <b>Ruslan's BMW R1300GS</b> warmed up, and <b>Aslan</b> already buzzing about sleeping in a safari tent. This is the start line, not a stop — but it sets the tone for everything that follows.",
-    "Day 1 deliberately dodges the city. Instead of grinding south through Seattle, the family rides north and west to <b>Edmonds</b>, rolls the bikes onto the <b>Edmonds–Kingston ferry</b>, and lets Puget Sound do the first leg of the work. By the time the boat lands on the Kitsap Peninsula, the workweek is behind them, and the route bends west over the <b>Hood Canal Bridge</b> onto the Olympic Peninsula — Port Angeles, the fjord-blue shore of <b>Lake Crescent</b>, and a rainforest safari tent at Forks by evening. Eight days later they come home the quiet way: up the Columbia from Portland, across the <b>Lewis & Clark Bridge</b>, and along the backroad valleys beneath <b>Mount Rainier</b> to the same driveway."
+    "Day 1 deliberately dodges the city. Instead of grinding south through Seattle, the family rides north and west to <b>Edmonds</b>, rolls the bikes onto the <b>Edmonds–Kingston ferry</b>, and lets Puget Sound do the first leg of the work. By the time the boat lands on the Kitsap Peninsula, the workweek is behind them, and the route bends west over the <b>Hood Canal Bridge</b> onto the Olympic Peninsula — Port Angeles, the fjord-blue shore of <b>Lake Crescent</b>, and a rainforest safari tent at Forks by evening. Eight days later they come home the quick way — the trip's one planned freeway leg, a short I-5 run from Portland with a Castle Rock lunch, <b>Mount Rainier</b> floating over the road — back to the same driveway by mid-afternoon."
   ],
   highlights: [
     "<b>The gear-up and shakedown</b> — The ritual that makes a tour: load the panniers, pair the intercoms, check tire pressures and chain, and top off the W230's small tank so the first fuel stop is never a worry.",
@@ -104,7 +104,7 @@ window.DESTINATIONS = [
     "<b>The Edmonds–Kingston ferry</b> — Roll the motorcycles aboard, kill the engines, and cross Puget Sound with the Olympics on the horizon — the relaxing overture to the whole trip and a built-in skip around Seattle traffic.",
     "<b>The Hood Canal Bridge & the Olympic gateway</b> — Off the boat on the Kitsap side, quiet two-lanes lead past historic Port Gamble and over the floating Hood Canal Bridge — the doorway to the peninsula and the wild week ahead.",
     "<b>Woodinville wine country</b> — The home base itself, with tasting rooms and the Sammamish River Trail threading through town — a pretty reminder of what you're temporarily leaving behind.",
-    "<b>Homecoming beneath Rainier</b> — Day 8 returns on farm-valley backroads through Orting country, where <b>Mount Rainier</b> fills the windshield on a clear day — the mountain escorting the family home.",
+    "<b>Homecoming beneath Rainier</b> — Day 8 comes home on the trip's one planned freeway leg, a short steady I-5 run — with <b>Mount Rainier</b> floating over the highway on a clear day, escorting the family in.",
     "<b>A kid hook for Aslan</b> — The ferry deck is its own adventure for a six-year-old: standing on a real boat, watching gulls and other ferries, and counting down to the first souvenir of the trip."
   ],
   food: [
@@ -181,11 +181,11 @@ window.DESTINATIONS = [
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mount_Rainier_and_lake_reflection.jpg/960px-Mount_Rainier_and_lake_reflection.jpg",
-      "cap": "Mount Rainier, the mountain that fills the horizon on Day 8's backroads run home."
+      "cap": "Mount Rainier, the mountain that fills the horizon on the Day-8 ride home."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mount_Rainier_from_above_Myrtle_Falls_in_August.JPG/960px-Mount_Rainier_from_above_Myrtle_Falls_in_August.JPG",
-      "cap": "Rainier in August — the escort home through the Orting valley."
+      "cap": "Rainier in August — the escort home on the last hour of Day 8."
     }
   ]
 },
@@ -872,7 +872,7 @@ window.DESTINATIONS = [
   tagline: "The Rose City finale — books the size of a city block, roses over the skyline, food carts on every corner, and one last night before the ride home.",
   intro: [
     "After a week of surf, capes and rainforest, the trip's last overnight trades the coast for the <b>Rose City</b>. The Day-7 ride is its own reward: the flowing <b>Alsea Highway (OR-34)</b> climbs out of Yachats through the Coast Range along the Alsea River, drops into Corvallis for lunch, then wanders north on the Willamette Valley's quiet farm-and-vineyard roads — Independence, Amity, the <b>Dundee Hills wine country</b> around Newberg — and slips into Portland on the old 99W approach, freeway-free the whole way.",
-    "Portland is an easy, rewarding city for one family night: compact, walkable, and food-obsessed. <b>Galiya</b> gets one of America's great food cities (carts, Salt & Straw scoops, a serious dinner if wanted) and the <b>International Rose Test Garden</b> in bloom above the skyline; <b>Aslan</b> gets <b>Powell's City of Books</b> — a bookstore filling a whole city block — plus donuts and hotel-pool time; <b>Ruslan</b> gets a proper hotel bed, secure parking for the bikes, and a short, scenic morning line home past the <b>St. Johns Bridge</b> and up the Columbia. In August the roses are at their late-summer best and the evenings are warm — the right last-night victory lap."
+    "Portland is an easy, rewarding city for one family night: compact, walkable, and food-obsessed. <b>Galiya</b> gets one of America's great food cities (carts, Salt & Straw scoops, a serious dinner if wanted) and the <b>International Rose Test Garden</b> in bloom above the skyline; <b>Aslan</b> gets <b>Powell's City of Books</b> — a bookstore filling a whole city block — plus donuts and hotel-pool time; <b>Ruslan</b> gets a proper hotel bed, secure parking for the bikes, and a short morning run home — an optional <b>St. Johns Bridge</b> photo stop, then the trip's one planned I-5 leg. In August the roses are at their late-summer best and the evenings are warm — the right last-night victory lap."
   ],
   highlights: [
     "<b>Powell's City of Books</b> — The world's largest independent bookstore, a full city block and nine color-coded rooms deep; the kids' room is a wonderland and the perfect place for Aslan's end-of-trip souvenir book (<b>the family's first stop in town</b>).",
@@ -880,7 +880,7 @@ window.DESTINATIONS = [
     "<b>Food-cart pods</b> — Portland's signature: whole blocks of food carts where everyone orders exactly what they want — the easiest possible family dinner (<b>picky-six-year-old-proof</b>).",
     "<b>Salt & Straw / Portland donuts</b> — The famous scoop shop's inventive flavors, or a next-morning box from Blue Star or Pip's — the city's sweet-tooth institutions (<b>kid + foodie double win</b>).",
     "<b>Tom McCall Waterfront Park & the bridges</b> — An easy evening stroll along the Willamette under the city's dozen bridges; the Steel Bridge and cherry-tree esplanade are steps from downtown hotels.",
-    "<b>St. Johns Bridge & Cathedral Park (on the way out)</b> — Day 8 rolls north under the 1931 gothic suspension towers — the most beautiful bridge in the city and the official start of the ride home (<b>photo stop</b>).",
+    "<b>St. Johns Bridge & Cathedral Park (optional, on the way out)</b> — A short Day-8 detour under the 1931 gothic suspension towers — the most beautiful bridge in the city, worth the photo before pointing the bikes at the freeway (<b>photo stop</b>).",
     "<b>OMSI (optional)</b> — The Oregon Museum of Science and Industry on the east bank: submarine tours, hands-on labs and a planetarium — the wet-weather ace for Aslan.",
     "<b>Washington Park extras (optional)</b> — The Oregon Zoo, Hoyt Arboretum and the Japanese Garden all share the hill with the roses if the family wants a slow morning before the ride."
   ],
@@ -895,7 +895,7 @@ window.DESTINATIONS = [
     },
     {
       "n": "Blue Star Donuts / Pip's Original",
-      "d": "Brioche donuts downtown or made-to-order minis with chai — the Day-8 breakfast send-off."
+      "d": "Brioche donuts downtown or made-to-order minis with chai — the Day-8 breakfast send-off before the freeway run home."
     },
     {
       "n": "Grassa / handmade pasta downtown",
@@ -981,7 +981,7 @@ window.DESTINATIONS = [
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/St._Johns_Bridge%2C_Portland%2C_Oregon_%2822767178235%29.jpg/960px-St._Johns_Bridge%2C_Portland%2C_Oregon_%2822767178235%29.jpg",
-      "cap": "Portland's most beautiful bridge, on the US-30 line home."
+      "cap": "Portland's most beautiful bridge, an optional photo stop on the way out of town."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/PowellsBookstore.jpg/960px-PowellsBookstore.jpg",
@@ -1006,16 +1006,16 @@ window.FLIGHTS = {
       "note": "The ferry across Puget Sound, then US-101 around the wild Olympic Peninsula — Lake Crescent, a Forks safari tent, Ruby Beach — down the Long Beach Peninsula to Astoria's Cannery Pier, and the whole northern Oregon coast to the Two Capes Lookout domes and Yachats. No freeways, breaks every 60–90 minutes."
     },
     {
-      "dir": "Return · the valley & the Columbia",
+      "dir": "Return · the valley & the fast lane",
       "from": "Yachats, OR",
       "to": "Home · Woodinville, WA",
       "sample": "Days 7–8 · Fri 21 – Sat 22 Aug 2026",
       "type": "Ride",
-      "duration": "≈ 376 mi over 2 days",
-      "note": "The loop turns inland: the flowing Alsea Highway over the Coast Range, the 99W wine country to a Portland city night, then US-30 up the Columbia and the Rainier-foothill backroads home. The longest day (~220 mi, Day 8) follows a two-rest-day week and an easy city evening."
+      "duration": "≈ 345 mi over 2 days",
+      "note": "The loop turns inland: the flowing Alsea Highway over the Coast Range and the 99W wine country to a Portland city night — then the trip's one planned freeway leg, a short ~3h I-5 run home with a Castle Rock lunch, so the last day ends early and easy."
     }
   ],
-  "estimate": "Budget is modest: gas for two bikes over ~975 miles, seven nights of lodging (the Cannery Pier and the Yachats oceanfront are the splurges; the glamping camps sit in between), the Edmonds–Kingston ferry (~$9 per motorcycle + rider), and small site fees (Cape Lookout day-use, Sea Lion Caves). Food is the fun line item — see the Coast Food Trail.",
+  "estimate": "Budget is modest: gas for two bikes over ~945 miles, seven nights of lodging (the Cannery Pier and the Yachats oceanfront are the splurges; the glamping camps sit in between), the Edmonds–Kingston ferry (~$9 per motorcycle + rider), and small site fees (Cape Lookout day-use, Sea Lion Caves). Food is the fun line item — see the Coast Food Trail.",
   "tips": [
     "Book everything months ahead — August is peak season, and the safari tent, the Two Capes domes and oceanfront Yachats all sell out.",
     "The Kawasaki W230's tank is small (~3.4 gal) — top up at every reasonable chance; fuel is sparse on the Olympic west end and the backroad legs.",
@@ -2308,21 +2308,21 @@ window.DAYS = [
 {
     "d": 8,
     "id": "home",
-    "miles": 220,
-    "dmin": 322,
+    "miles": 189,
+    "dmin": 188,
     "rest": false,
-    "region": "Columbia River → Puget Sound",
-    "title": "The Columbia & Backroads Home",
-    "route": "Portland → St. Johns Bridge → US-30 → Longview → Rainier foothills → Home",
-    "desc": "The long, satisfying ride home — the trip's biggest day, planned like a tour in miniature and run on an early start. Roll out under the gothic towers of the St. Johns Bridge before the city wakes, then follow US-30 up the Columbia — the big river alongside all morning — to the Lewis & Clark Bridge crossing at Longview, back into Washington one last time. An early Castle Rock lunch, then the backroads take over: the Cowlitz farm valleys through Toledo, over to the Rainier foothills where Mount Rainier fills the sky above the Orting valley on a clear day, and the final familiar run through Maple Valley to the Woodinville driveway. Eight days, a ferry, two glamping camps, the whole coast — and a rider with a real tour in her mirrors.",
-    "tags": ["ride", "scenic", "moto"],
+    "region": "I-5 → Puget Sound",
+    "title": "The Fast Lane Home",
+    "route": "Portland → I-5 north → Castle Rock → Home",
+    "desc": "The one deliberate exception to the trip's no-freeway rule: after a week of two-lanes, the family takes the fast lane home so the last day stays short. A donut-box breakfast, an optional photo detour under the gothic towers of the St. Johns Bridge, then I-5 north at a steady, right-lane touring pace — the W230 is happy at 60–65, and after seven days of riding, so is Galiya. An early lunch off Exit 49 at Castle Rock breaks the run neatly in half; Mount Rainier floats over the road on a clear afternoon; and the familiar last miles deliver the bikes back to the Woodinville driveway by mid-afternoon. Eight days, a ferry, two glamping camps, the whole coast — and a rider with a real tour in her mirrors.",
+    "tags": ["ride", "moto"],
     "gfrom": "Portland, OR",
     "gto": "Woodinville, WA",
-    "gvia": "St. Johns Bridge, Portland, OR|Rainier, OR|Toledo, WA|Orting, WA|Maple Valley, WA",
+    "gvia": "Castle Rock, WA",
     "poi": [
       {
         "name": "St. Johns Bridge",
-        "what": "Portland's 1931 gothic suspension masterpiece over the Willamette — the departure photo from Cathedral Park and the official start of the ride home.",
+        "what": "Portland's 1931 gothic suspension masterpiece over the Willamette — an optional Cathedral Park photo detour before pointing the bikes at the freeway.",
         "q": "St. Johns Bridge, Portland, OR",
         "slot": "scenic",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Cathedral_Park_St_Johns_Bridge_-_Portland_Oregon.jpg/960px-Cathedral_Park_St_Johns_Bridge_-_Portland_Oregon.jpg",
@@ -2330,22 +2330,20 @@ window.DAYS = [
         "it": ["scenic", "history"]
       },
       {
-        "name": "Lewis & Clark Bridge & Longview",
-        "what": "US-30's Columbia-side run ends at the last river crossing — over the Lewis & Clark Bridge into Washington, with an early lunch and fuel at Castle Rock just up the road.",
-        "q": "Lewis and Clark Bridge, Longview, WA",
+        "name": "Castle Rock lunch",
+        "what": "An early lunch and fuel off I-5 Exit 49 — the halfway mark, with the small-town diners a minute from the ramp.",
+        "q": "Castle Rock, WA",
         "slot": "lunch",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cheeseburger_and_Fries_2.jpg/960px-Cheeseburger_and_Fries_2.jpg",
-        "wiki": "https://en.wikipedia.org/wiki/Lewis_and_Clark_Bridge",
-        "it": ["scenic", "history", "food"]
+        "it": ["food"]
       },
       {
-        "name": "Orting valley Rainier views",
-        "what": "On a clear day Mount Rainier fills the sky over the farm roads — the mountain escorting the family home through the foothills.",
-        "q": "Orting, WA",
+        "name": "Mount Rainier from the road",
+        "what": "On a clear day the mountain floats over the highway for the last hour — the escort home.",
+        "q": "Mount Rainier",
         "slot": "scenic",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mount_Rainier_and_lake_reflection.jpg/960px-Mount_Rainier_and_lake_reflection.jpg",
-        "wiki": "https://en.wikipedia.org/wiki/Orting,_Washington",
-        "it": ["scenic", "kid"],
+        "it": ["scenic", "kid", "moto"],
         "kid": true
       },
       {
@@ -2383,13 +2381,13 @@ window.DAYS = [
       },
       {
         "slot": "lunch",
-        "area": "Castle Rock / Longview",
+        "area": "Castle Rock (I-5 Exit 49, halfway mark)",
         "picks": [
           {
             "name": "The Oasis (Castle Rock)",
             "cuisine": "small-town diner & burgers",
             "rating": 4.5,
-            "why": "whole family — the halfway-mark refuel; burgers and fries done right",
+            "why": "whole family — the halfway-mark refuel; burgers and fries done right, a minute off the ramp",
             "kid": true,
             "map": "https://www.google.com/maps/search/?api=1&query=The+Oasis+Castle+Rock+WA",
             "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cheeseburger_and_Fries_2.jpg/960px-Cheeseburger_and_Fries_2.jpg"
@@ -2422,25 +2420,25 @@ window.DAYS = [
     ],
     "localTodo": [
       {
-        "time": "~08:45",
-        "name": "St. Johns Bridge & Cathedral Park",
-        "what": "roll out under the 1931 gothic suspension towers — the departure photo and the official start of the ride home",
+        "time": "~08:30",
+        "name": "St. Johns Bridge & Cathedral Park (optional)",
+        "what": "a short detour under the 1931 gothic suspension towers — the departure photo before pointing the bikes at the freeway",
         "map": "https://www.google.com/maps/search/?api=1&query=Cathedral+Park+Portland"
       },
       {
-        "time": "~10:15",
-        "name": "Lewis & Clark Bridge (Longview)",
-        "what": "the last river crossing — over the Columbia and back into Washington",
-        "map": "https://www.google.com/maps/search/?api=1&query=Lewis+and+Clark+Bridge+Longview"
+        "time": "~10:45",
+        "name": "Castle Rock — I-5 Exit 49",
+        "what": "early lunch and fuel at the halfway mark, a minute off the ramp",
+        "map": "https://www.google.com/maps/search/?api=1&query=Castle+Rock+WA"
+      },
+      {
+        "time": "~13:30",
+        "name": "Mount Rainier from the road",
+        "what": "on a clear day the mountain floats over the highway for the last hour — the escort home",
+        "map": "https://www.google.com/maps/search/?api=1&query=Mount+Rainier"
       },
       {
         "time": "~14:30",
-        "name": "Orting valley Rainier views",
-        "what": "on a clear day Mount Rainier fills the sky over the farm roads — the mountain escorting the family home",
-        "map": "https://www.google.com/maps/search/?api=1&query=Orting+WA"
-      },
-      {
-        "time": "~17:00",
         "name": "Home — Woodinville",
         "what": "the driveway, the unload, and the end-of-tour toast: eight days, a ferry, two glamping camps and the whole coast",
         "map": "https://www.google.com/maps/search/?api=1&query=Woodinville+WA"
@@ -2739,13 +2737,8 @@ window.GEO = {
   "Powell's City of Books, Portland, OR": "45.52325,-122.68143",
   "International Rose Test Garden, Portland, OR": "45.51895,-122.70527",
   "St. Johns Bridge, Portland, OR": "45.58533,-122.76453",
-  "Rainier, OR": "46.08913,-122.93598",
-  "Lewis and Clark Bridge, Longview, WA": "46.10440,-122.96220",
   "Longview, WA": "46.13817,-122.93817",
-  "Castle Rock, WA": "46.27511,-122.90761",
-  "Toledo, WA": "46.43983,-122.84678",
-  "Orting, WA": "47.09788,-122.20428",
-  "Maple Valley, WA": "47.39034,-122.04536"
+  "Castle Rock, WA": "46.27511,-122.90761"
 };
 
 /* Region-matched scenic photos used as each day's hero artwork (verified). */

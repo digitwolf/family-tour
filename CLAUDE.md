@@ -61,6 +61,6 @@ summary.md             the trip brief
 - **Prices are USD.** There is no currency conversion (the old yen logic is retired; `window.priceUSD` is a no-op passthrough).
 - **Verify every image URL before committing it.** All `photos[].src` / POI `img` / guide `photo` are Wikimedia Commons thumbnails; a broken URL renders broken on Pages. Confirm HTTP 200 (the Commons API rate-limits — space out batch requests, or verify via the imageinfo API).
 - **Never commit the Google Maps key.** `~/google_maps.key` (untracked) → `gmaps-key.js` (gitignored) locally; `GMAPS_KEY` Actions secret in deploy. `data.js` stays key-free.
-- **No freeways.** Routing and copy keep the new rider off Interstates/high-speed roads — keep that constraint when changing routes.
+- **No freeways** (with one planned exception). Routing and copy keep the new rider off Interstates/high-speed roads — keep that constraint when changing routes. The single sanctioned exception is the **Day-8 I-5 run home** (rider's choice, to keep the last day short).
 - Lodging is framed "confirm before booking" (motorcycle parking, passenger/child rules) — keep that caveat in `hotels[]`.
 - Source-of-record is `tour/*.md`; `gen_data.py` compiles it to `data.js`; the HTML renders `data.js`. When trip facts change, re-run `gen_data.py` and keep the homepage totals, itinerary, legs and docs in sync.

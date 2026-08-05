@@ -2,7 +2,7 @@
 
 There are **no flights, no rentals, no passport and no IDP** on this trip. The family rides their **own** motorcycles round-trip from **Woodinville, WA**, departing **Saturday 15 August 2026** and home **Saturday 22 August 2026**. The whole "getting there" is loading the panniers, pairing the intercoms, and turning the key — so this page covers the few logistics that actually matter: the **ferry**, the **W230's fuel range**, **pace and intercoms**, the **two glamping check-ins**, the **city arrival in Portland**, and the **budget**.
 
-This is built around **Galiya's touring** on her **Kawasaki W230**, so the single biggest planning rule is upstream of all of this: **stay off freeways and Interstates the entire way** (see [overview](00-overview.md) and [00-family.md](00-family.md)). Everything below serves a relaxed, confidence-building coast tour.
+This is built around **Galiya's touring** on her **Kawasaki W230**, so the single biggest planning rule is upstream of all of this: **stay off freeways and Interstates all week** (see [overview](00-overview.md) and [00-family.md](00-family.md)) — with one planned exception, the short I-5 run home on Day 8. Everything below serves a relaxed, confidence-building coast tour.
 
 ---
 
@@ -32,7 +32,7 @@ Galiya's **Kawasaki W230** is a friendly 233cc single happiest at **55–65 mph*
 - **Day 1:** fuel in **Port Angeles** — services thin out along Lake Crescent and the west end.
 - **Day 2:** fuel in **Forks** before rolling and again in **Aberdeen** — the wild Olympic-coast stretch of US-101 between is remote.
 - **Day 7:** fuel in **Corvallis** — the 99W wine-country backroads are stationless.
-- **Day 8:** fuel leaving **Portland** and again around **Longview/Castle Rock** — the Cowlitz and foothill backroads are rural.
+- **Day 8:** fuel leaving **Portland** and again at **Castle Rock (I-5 Exit 49)** — steady freeway cruising sips fuel, but don't stretch the small tank.
 
 A simple rule for the group: **whenever Galiya's bike is at half a tank near a town, everyone fills up.**
 
@@ -43,7 +43,7 @@ A simple rule for the group: **whenever Galiya's bike is at half a tank near a t
 - **Intercoms on the whole time** so the riders can call out hazards, fuel, and "I need a break," and so Aslan can talk to dad.
 - **Breaks every 60–90 minutes** for Aslan — built into every day's stop list.
 - **No riding after dark, no pushed-hard wet twisties.** The outer coast is often damp with morning fog; ride to the conditions and let it burn off.
-- **No two long days back-to-back** — Day 2 (200 mi) follows the easy ferry day, and Day 8 (220 mi) follows the short Portland arrival and a two-rest-day week.
+- **No two long days back-to-back** — Day 2 (200 mi) follows the easy ferry day, and the Day-8 ride home is a short ~3h freeway run split by a Castle Rock lunch.
 
 ---
 
@@ -59,7 +59,7 @@ Half the fun of this trip is that almost every night is its own event — but th
 ## The Portland arrival — the one city ride
 - Day 7 enters Portland from the southwest on the old **99W approach** — no freeways, but real city traffic for the last half hour. **Arrive before the evening rush**, ride it steady, and use the hotel's garage/valet.
 - **Confirm motorcycle rules with the hotel garage** (height bars, valet policies for bikes, overnight security) when booking.
-- Day 8 leaves early via the **St. Johns Bridge** and **US-30** along the Columbia — out of the city before it wakes up.
+- Day 8 leaves early — an optional **St. Johns Bridge** photo stop, then straight onto **I-5 north** before the city wakes up. This is the trip's one planned freeway leg (~3h): right lane, steady 60–65, big gaps, and a proper break at Castle Rock.
 
 ---
 
@@ -68,7 +68,7 @@ An own-bikes trip is cheap by touring standards — the cost is fuel, seven nigh
 
 | Item | Estimate | Notes |
 |---|---|---|
-| **Fuel (both bikes, ~975 mi each)** | ~$120–180 total | Two thrifty bikes; coast and valley two-lanes. |
+| **Fuel (both bikes, ~945 mi each)** | ~$120–180 total | Two thrifty bikes; coast and valley two-lanes plus the I-5 run home. |
 | **Lodging — 7 nights** | ~$1,600–2,600 total | 1× Forks safari tent, 1× Cannery Pier (the pier splurge), **2× Two Capes Lookout**, **2× Yachats** (the hotel splurge), 1× Portland. See each destination file for property options & prices. |
 | **Edmonds–Kingston ferry** | ~$9 / motorcycle (~$18 both) | First-come, first-served; passengers ticket separately. |
 | **Park & site fees** | small | Ruby Beach/Kalaloch are fee-free from US-101; Cape Lookout day-use ~$5; Sea Lion Caves and the aquarium are paid attractions. |

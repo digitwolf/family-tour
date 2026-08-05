@@ -10,7 +10,7 @@
 ## About
 After a week of surf, capes and rainforest, the trip's last overnight trades the coast for the **Rose City**. The Day-7 ride is its own reward: the flowing **Alsea Highway (OR-34)** climbs out of Yachats through the Coast Range along the Alsea River, drops into Corvallis for lunch, then wanders north on the Willamette Valley's quiet farm-and-vineyard roads — Independence, Amity, the **Dundee Hills wine country** around Newberg — and slips into Portland on the old 99W approach, freeway-free the whole way.
 
-Portland is an easy, rewarding city for one family night: compact, walkable, and food-obsessed. **Galiya** gets one of America's great food cities (carts, Salt & Straw scoops, a serious dinner if wanted) and the **International Rose Test Garden** in bloom above the skyline; **Aslan** gets **Powell's City of Books** — a bookstore filling a whole city block — plus donuts and hotel-pool time; **Ruslan** gets a proper hotel bed, secure parking for the bikes, and a short, scenic morning line home past the **St. Johns Bridge** and up the Columbia. In August the roses are at their late-summer best and the evenings are warm — the right last-night victory lap.
+Portland is an easy, rewarding city for one family night: compact, walkable, and food-obsessed. **Galiya** gets one of America's great food cities (carts, Salt & Straw scoops, a serious dinner if wanted) and the **International Rose Test Garden** in bloom above the skyline; **Aslan** gets **Powell's City of Books** — a bookstore filling a whole city block — plus donuts and hotel-pool time; **Ruslan** gets a proper hotel bed, secure parking for the bikes, and a short morning run home — an optional **St. Johns Bridge** photo stop, then the trip's one planned I-5 leg. In August the roses are at their late-summer best and the evenings are warm — the right last-night victory lap.
 
 ## Things to see & do
 - **Powell's City of Books** — The world's largest independent bookstore, a full city block and nine color-coded rooms deep; the kids' room is a wonderland and the perfect place for Aslan's end-of-trip souvenir book (**the family's first stop in town**).
@@ -18,14 +18,14 @@ Portland is an easy, rewarding city for one family night: compact, walkable, and
 - **Food-cart pods** — Portland's signature: whole blocks of food carts where everyone orders exactly what they want — the easiest possible family dinner (**picky-six-year-old-proof**).
 - **Salt & Straw / Portland donuts** — The famous scoop shop's inventive flavors, or a next-morning box from Blue Star or Pip's — the city's sweet-tooth institutions (**kid + foodie double win**).
 - **Tom McCall Waterfront Park & the bridges** — An easy evening stroll along the Willamette under the city's dozen bridges; the Steel Bridge and cherry-tree esplanade are steps from downtown hotels.
-- **St. Johns Bridge & Cathedral Park (on the way out)** — Day 8 rolls north under the 1931 gothic suspension towers — the most beautiful bridge in the city and the official start of the ride home (**photo stop**).
+- **St. Johns Bridge & Cathedral Park (optional, on the way out)** — A short Day-8 detour under the 1931 gothic suspension towers — the most beautiful bridge in the city, worth the photo before pointing the bikes at the freeway (**photo stop**).
 - **OMSI (optional)** — The Oregon Museum of Science and Industry on the east bank: submarine tours, hands-on labs and a planetarium — the wet-weather ace for Aslan.
 - **Washington Park extras (optional)** — The Oregon Zoo, Hoyt Arboretum and the Japanese Garden all share the hill with the roses if the family wants a slow morning before the ride.
 
 ## What to eat
 - **A food-cart pod dinner** — Pick a pod, graze the carts — tacos, ramen, wood-fired pizza, dumplings — everyone wins, nobody compromises; Portland's defining meal.
 - **Salt & Straw (NW 23rd)** — The line is worth it: honey-lavender and sea-salt-caramel scoops from Portland's famous ice-cream makers.
-- **Blue Star Donuts / Pip's Original** — Brioche donuts downtown or made-to-order minis with chai — the Day-8 breakfast send-off.
+- **Blue Star Donuts / Pip's Original** — Brioche donuts downtown or made-to-order minis with chai — the Day-8 breakfast send-off before the freeway run home.
 - **Grassa / handmade pasta downtown** — Casual fresh-pasta counter that keeps both a foodie and a six-year-old happy.
 - **Jake's Famous Crawfish** — The 1892 Portland seafood institution — white tablecloths, Dungeness crab and a last chowder if the family wants a proper sit-down finale.
 - **Von Ebert Brewing** — Ruslan's celebratory end-of-tour pint, with a real food menu and family seating.
@@ -53,5 +53,5 @@ Portland is an easy, rewarding city for one family night: compact, walkable, and
 - ![International Rose Test Garden in bloom](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Portland_International_Rose_Test_Garden_-_HCP_-_October_15%2C_2022_-_012.jpg/960px-Portland_International_Rose_Test_Garden_-_HCP_-_October_15%2C_2022_-_012.jpg) — The International Rose Test Garden, terraced above the city in Washington Park.
 - ![Roses at the International Rose Test Garden](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Rose_Test_Garden%2C_Portland%2C_Oregon_%282022%29_-_031.jpg/960px-International_Rose_Test_Garden%2C_Portland%2C_Oregon_%282022%29_-_031.jpg) — 10,000 rose bushes of ~650 varieties — the Rose City's namesake garden.
 - ![St. Johns Bridge from Cathedral Park](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Cathedral_Park_St_Johns_Bridge_-_Portland_Oregon.jpg/960px-Cathedral_Park_St_Johns_Bridge_-_Portland_Oregon.jpg) — The gothic towers of the St. Johns Bridge from Cathedral Park — Day 8's first photo stop.
-- ![St. Johns Bridge over the Willamette](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/St._Johns_Bridge%2C_Portland%2C_Oregon_%2822767178235%29.jpg/960px-St._Johns_Bridge%2C_Portland%2C_Oregon_%2822767178235%29.jpg) — Portland's most beautiful bridge, on the US-30 line home.
+- ![St. Johns Bridge over the Willamette](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/St._Johns_Bridge%2C_Portland%2C_Oregon_%2822767178235%29.jpg/960px-St._Johns_Bridge%2C_Portland%2C_Oregon_%2822767178235%29.jpg) — Portland's most beautiful bridge, an optional photo stop on the way out of town.
 - ![Powell's City of Books on Burnside](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/PowellsBookstore.jpg/960px-PowellsBookstore.jpg) — Powell's City of Books — a bookstore the size of a city block.

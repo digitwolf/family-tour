@@ -1,8 +1,8 @@
 # Itinerary & Daily Schedule (Days 1–8)
 
-**≈ 975 miles of riding over 8 days** on a grand coastal loop from **Woodinville, WA** — around the wild Olympic Peninsula, down the whole northern Oregon coast, and home through the Willamette Valley, Portland and the Rainier-foothill backroads. Distances and driving times are from the **Google Directions API** (real road routing through each day's stops), and the whole route stays **off all freeways and Interstates** for the newly-endorsed rider on her **Kawasaki W230**.
+**≈ 945 miles of riding over 8 days** on a grand coastal loop from **Woodinville, WA** — around the wild Olympic Peninsula, down the whole northern Oregon coast, and home through the Willamette Valley and Portland. Distances and driving times are from the **Google Directions API** (real road routing through each day's stops). The route stays **off all freeways and Interstates all week** for the newly-endorsed rider on her **Kawasaki W230** — with one planned exception: the short **I-5 run home on Day 8**, chosen so the last day ends early.
 
-**No flights, no rentals:** the family rides their own bikes from the garage (see [getting started](02-getting-started.md)). The only crossing is the short **Edmonds–Kingston ferry** on Day 1. **Two two-night bases** (the Two Capes Lookout glamping domes on Days 3–4, the Yachats oceanfront hotel on Days 5–6) split the trip into short, easy hops — five of the eight days are under 2¾ hours of riding. The two genuinely long days (the Olympic-coast run on Day 2 and the backroads ride home on Day 8) each follow a slow morning or a full rest day, so no one starts them tired.
+**No flights, no rentals:** the family rides their own bikes from the garage (see [getting started](02-getting-started.md)). The only crossing is the short **Edmonds–Kingston ferry** on Day 1. **Two two-night bases** (the Two Capes Lookout glamping domes on Days 3–4, the Yachats oceanfront hotel on Days 5–6) split the trip into short, easy hops — five of the eight days are under 2¾ hours of riding. The one genuinely long day (the Olympic-coast run on Day 2) follows the easy ferry opener, and the ride home is a short ~3h freeway run, so no one ever starts a big day tired.
 
 | Day | Date | Title | Route | Region | Overnight | Miles | Drive |
 |----|----|-------|-------|--------|-----------|------:|:-----:|
@@ -13,7 +13,7 @@
 | 5 | Wed Aug 19 | Capes to Yachats | Tierra Del Mar → Pacific City → Depoe Bay → Newport → Yachats | Oregon Coast | Yachats, OR — nice hotel ★ | 76 | 2.0h |
 | 6 | Thu Aug 20 | Yachats Rest Day | Cape Perpetua · Thor's Well · Heceta Head · Sea Lion Caves (light riding) | Oregon Coast | Yachats (2nd night) | ~31 | rest |
 | 7 | Fri Aug 21 | Over the Coast Range to Portland | Yachats → Alsea Hwy → Corvallis → wine country (99W) → Portland | Willamette Valley | Portland, OR — nice hotel | 156 | 3.8h |
-| 8 | Sat Aug 22 | The Columbia & Backroads Home | Portland → St. Johns Bridge → US-30 → Longview → Rainier foothills → Home | Columbia → Puget Sound | Home · Woodinville | 220 | 5.4h |
+| 8 | Sat Aug 22 | The Fast Lane Home | Portland → (St. Johns Bridge photo) → I-5 → Castle Rock → Home | I-5 → Puget Sound | Home · Woodinville | 189 | 3.1h |
 
 ## Day notes
 
@@ -128,18 +128,17 @@ Goodbye to the Pacific, the pretty way. The flowing **Alsea Highway** climbs out
 
 [🗺️ Day route](https://www.google.com/maps/dir/?api=1&origin=Yachats,OR&destination=Portland,OR&waypoints=Alsea,OR|Corvallis,OR|Independence,OR|Newberg,OR&travelmode=driving)
 
-### Day 8 — The Columbia & Backroads Home
-*Portland → St. Johns Bridge → US-30 → Lewis & Clark Bridge → Cowlitz valley → Orting → Maple Valley → Home · 220 mi · 5.4h riding · Columbia → Puget Sound*
+### Day 8 — The Fast Lane Home
+*Portland → (St. Johns Bridge photo) → I-5 north → Castle Rock → Home · 189 mi · 3.1h riding · I-5 → Puget Sound*
 
-The long, satisfying ride home — the trip's biggest day, planned like a tour in miniature. Roll out under the gothic towers of the **St. Johns Bridge** and follow **US-30 up the Columbia** — river on the right, Coast Range on the left — to the **Lewis & Clark Bridge** crossing at Longview, back into Washington one last time. Then the backroads take over: the Cowlitz farm valleys through Toledo, over to the **Rainier foothills** — where, on a clear day, **Mount Rainier fills the sky over the Orting valley** — and the final familiar run through Maple Valley to the Woodinville driveway. Eight days, a ferry, two glamping camps, the whole coast — and a new rider with a real tour in her mirrors.
+The one deliberate exception to the trip's no-freeway rule: after a week of two-lanes, the family takes the fast lane home so the last day stays short and easy. A donut-box breakfast, an optional photo detour under the gothic towers of the **St. Johns Bridge**, then **I-5 north** at a steady right-lane touring pace — the W230 cruises happily at 60–65, and after seven days of riding, so does Galiya. An early lunch off **Exit 49 at Castle Rock** breaks the run neatly in half; **Mount Rainier** floats over the highway on a clear afternoon; and the familiar last miles deliver the bikes back to the Woodinville driveway by mid-afternoon. Eight days, a ferry, two glamping camps, the whole coast — and a new rider with a real tour in her mirrors.
 
-**For the new rider:** the longest day, but deliberately after a two-rest-day week and split by an early lunch at Longview — ride it steady, break every hour, and finish in daylight. **Fuel note:** fuel leaving Portland and again in Longview; the foothill backroads are rural.
+**For the new rider:** the trip's only freeway miles, taken by choice for a short last day — right lane, steady speed, big following distances, and a full stop at Castle Rock. If it ever stops being fun, the old US-99 frontage towns offer easy exits the whole way. **Fuel note:** fuel leaving Portland and again at Castle Rock.
 
 **Stops along the way:**
-- 🌉 **St. Johns Bridge** — Portland's gothic suspension masterpiece — the departure photo
-- 🌊 **US-30 Columbia run** — The big river alongside all morning to the Lewis & Clark Bridge
-- 🍔 **Longview / Castle Rock** — Early lunch and fuel at the halfway mark
-- 🏔️ **Orting valley Rainier views** — The mountain dead ahead on the farm roads **[KID]**
+- 🌉 **St. Johns Bridge (optional)** — Portland's gothic suspension masterpiece — the departure photo from Cathedral Park
+- 🍔 **Castle Rock · Exit 49** — Early lunch and fuel at the halfway mark, a minute off the ramp
+- 🏔️ **Mount Rainier from the road** — The mountain floating over the highway for the last hour **[KID]**
 - 🏁 **Home · Woodinville** — The finish line, back in the same driveway
 
-[🗺️ Day route](https://www.google.com/maps/dir/?api=1&origin=Portland,OR&destination=Woodinville,WA&travelmode=driving)
+[🗺️ Day route](https://www.google.com/maps/dir/?api=1&origin=Portland,OR&destination=Woodinville,WA&waypoints=Castle+Rock,WA&travelmode=driving)

@@ -11,7 +11,7 @@ A relaxed, safety-first ride built to grow a **still-new rider's** confidence an
 ## Features
 
 - **Interactive route map** (Leaflet) with all 7 stops and the full loop polyline.
-- **8-day itinerary** with real Google-routed per-day mileage (≈ 975 mi total) and a **Google Maps route** for every day.
+- **8-day itinerary** with real Google-routed per-day mileage (≈ 945 mi total) and a **Google Maps route** for every day.
 - **7 destination pages** — each with verified photos, a map, things to do, regional food, and family-friendly lodging with USD pricing and **motorcycle-parking** info.
 - **Coast Food Trail** — Galiya's foodie thread (Astoria fish & chips → Tillamook cheese & ice cream → Netarts oysters → Yachats chowder → a Portland food-cart night).
 - **Glamping as a feature** — a Forks safari tent and the Two Capes Lookout geodesic domes bookend the Cannery Pier and oceanfront-Yachats hotel nights.

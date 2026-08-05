@@ -10,7 +10,7 @@ Passenger = Aslan.)
 ## Galiya — Rider 2, the newly-endorsed solo rider this trip is built around
 - Born in **Kazakhstan**; in **Seattle since 2008**. Years of experience **as Ruslan's pillion**, and she **recently earned her motorcycle endorsement** — after a first 7-day loop in July, this August coast tour is her **second multi-day trip on her own bike**, and it exists to keep building her touring skills and her love of touring.
 - Rides her own **Kawasaki W230** — a friendly, classic-styled **233cc single** that is happiest at **55–65 mph** and carries a small **~3.4-gallon tank**. **She rides up front and her confidence sets the group pace.**
-- **Hard rule that shapes the whole route:** as a new rider on a small-displacement bike, **avoid all freeways, Interstates and high-speed highways.** Keep to paved coastal and mountain two-lanes at relaxed speeds, no white-knuckle riding, no long slogs, no riding after dark, and **plan fuel around the W230's short range** (top off early and often).
+- **Hard rule that shapes the whole route:** as a new rider on a small-displacement bike, **avoid all freeways, Interstates and high-speed highways** (one planned exception: the short Day-8 I-5 run home, ridden steady in the right lane). Keep to paved coastal and valley two-lanes at relaxed speeds, no white-knuckle riding, no long slogs, no riding after dark, and **plan fuel around the W230's short range** (top off early and often).
 - **Big foodie** — the coast's seafood is hers: **Dungeness crab, fresh oysters, fish & chips, clam chowder**, and the Tillamook cheese-and-ice-cream stop. Also loves the **Oregon coast itself**, **lighthouses**, coastal art and galleries, and quiet beautiful places to simply stop.
 - **Planning implication:** she is the rider the *safety/pace* rules protect, and the traveller whose *interests* (coast seafood, lighthouses, scenery, art) should be weighted most when choosing stops and where to eat. Build days she can ride comfortably and finish proud of.
 
@@ -33,7 +33,7 @@ Use this as a scoring lens: a strong day/stop hits several of these for *more th
 
 ### Safety & pace (Galiya leads — the new rider)
 - **No freeways, no Interstates, no high-speed roads.** Coastal and mountain two-lanes only, ridden at a relaxed, confidence-building pace.
-- **Fuel discipline** for the W230's small tank and short range — top off early, never gamble on the next station on a remote stretch (the Olympic west end, the wild-coast 101, the Coast Range, the foothill backroads home).
+- **Fuel discipline** for the W230's small tank and short range — top off early, never gamble on the next station on a remote stretch (the Olympic west end, the wild-coast 101, the Coast Range).
 - Days inside the **4–6h cap**, **no two long days back-to-back**, breaks every 60–90 min, no riding after dark or in pushed-hard wet twisties.
 
 ### Food & drink (Galiya leads — she's the foodie)
@@ -52,7 +52,7 @@ Use this as a scoring lens: a strong day/stop hits several of these for *more th
 - **A kid hook on every day, and the rest days too:** the Cape Kiwanda dune and dory boats on Day 4; tidepools and sea lions on Day 6.
 
 ### Riding quality (Ruslan can do more; Galiya + Aslan set the limits)
-- **Scenic, flowing, paved roads** are the point — Lake Crescent's US-101 shoreline, the wild Olympic-coast 101, the Three Capes Loop, the **Alsea Highway (OR-34)**, the 99W wine country and the US-30 Columbia run home.
+- **Scenic, flowing, paved roads** are the point — Lake Crescent's US-101 shoreline, the wild Olympic-coast 101, the Three Capes Loop, the **Alsea Highway (OR-34)** and the 99W wine country — with the short I-5 leg home taken purely for convenience.
 - **But cap to the others:** Galiya's new-rider confidence and Aslan's "up to ~6h but not back-to-back" tolerance govern every day's length.
 
 ### Practical / comfort

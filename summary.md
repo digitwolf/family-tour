@@ -25,8 +25,8 @@ The trip combines an easy, confidence-building ferry start with steadily richer 
 | Start / end | Home: Woodinville, WA (round trip) |
 | Required stops | Forks safari tent (Aug 15, for Ruby Beach); Cannery Pier Hotel & Spa, Astoria (Aug 16); Two Capes Lookout glamping (Aug 17–19); Yachats nice hotel (Aug 19–21); Portland-area nice hotel (Aug 21–22) |
 | Riding style | Scenic touring, all paved |
-| Roads | **No freeways / Interstates / high-speed roads** — backroads, US-101, valley two-lanes |
-| Daily ride time | ~2–4 h (two longer transfer days: ~4.3h Day 2, ~5.4h Day 8) |
+| Roads | **No freeways / Interstates** all week — backroads, US-101, valley two-lanes; one planned I-5 leg home on Day 8 |
+| Daily ride time | ~2–4 h (one longer transfer day: ~4.3h Day 2; Day 8 is a short ~3h I-5 run) |
 | Rest | Two 2-night bases (Two Capes Lookout, Yachats), each with a full rest day |
 | Season | Mid-August — the coast's driest, warmest window; peak season, book far ahead |
 
@@ -34,15 +34,15 @@ The trip combines an easy, confidence-building ferry start with steadily richer 
 
 Built around Galiya's still-new-rider confidence and Aslan's comfort:
 
-* No freeways; quiet backroads, coastal highway and gentle valley two-lanes the whole way.
-* Short days between the bases; the ferry and frequent stops break up Day 1; never two long days in a row — both long transfer days (Days 2 and 8) sit next to rest days or easy days.
+* No freeways all week — quiet backroads, coastal highway and gentle valley two-lanes; the one planned exception is the short Day-8 I-5 run home.
+* Short days between the bases; the ferry and frequent stops break up Day 1; never two long days in a row — the one long transfer day (Day 2) follows the easy ferry opener, and Day 8 is a short freeway run.
 * Stops every 60–90 minutes; nothing technical, wet-aggressive, or after dark.
 * Full child-pillion setup on the GS (fitted helmet/armor, peg reach, top-box backrest, grab strap, intercom).
-* Plan fuel around the W230's small tank (the Olympic west end and the backroads home are the thin stretches); pack for coast fog and warm valley afternoons.
+* Plan fuel around the W230's small tank (the Olympic west end is the thin stretch); pack for coast fog and warm valley afternoons.
 
 ## Route
 
-Woodinville → **Edmonds–Kingston ferry** → Port Angeles → **Lake Crescent** → **Forks** (safari tent) → **Ruby Beach** → Lake Quinault → Long Beach → **Astoria** (Cannery Pier Hotel & Spa) → Cannon Beach → **Tillamook** (cheese, capes) → **Two Capes Lookout** (★ 2-night glamping base + Three Capes rest day) → Depoe Bay whales → Newport → **Yachats** (★ 2-night nice-hotel base + Cape Perpetua rest day) → **Alsea Hwy** → Corvallis → 99W wine country → **Portland** (nice hotel) → St. Johns Bridge → US-30 Columbia → Longview → Rainier foothills → home. ≈ 975 mi over 8 days.
+Woodinville → **Edmonds–Kingston ferry** → Port Angeles → **Lake Crescent** → **Forks** (safari tent) → **Ruby Beach** → Lake Quinault → Long Beach → **Astoria** (Cannery Pier Hotel & Spa) → Cannon Beach → **Tillamook** (cheese, capes) → **Two Capes Lookout** (★ 2-night glamping base + Three Capes rest day) → Depoe Bay whales → Newport → **Yachats** (★ 2-night nice-hotel base + Cape Perpetua rest day) → **Alsea Hwy** → Corvallis → 99W wine country → **Portland** (nice hotel) → optional St. Johns Bridge photo → I-5 north → Castle Rock lunch → home. ≈ 945 mi over 8 days.
 
 ## Lodging & food
 

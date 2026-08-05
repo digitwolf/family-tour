@@ -5,12 +5,12 @@
 - **Region:** Greater Seattle · King County, WA
 - **Itinerary:** Day 1 (depart) · Day 8 (return)
 - **Stop type:** start
-- **Ride to here:** 220 mi (Portland up the Columbia & the Rainier-foothill backroads, Day 8)
+- **Ride to here:** 189 mi (Portland via I-5 & a Castle Rock lunch, Day 8)
 
 ## About
 Woodinville sits in Seattle's leafy northeast suburbs, a tidy pocket of wine-country calm tucked along the Sammamish River — more tasting rooms and trailheads than traffic lights. It's the kind of place where a week-long trip can begin quietly in the driveway: panniers packed the night before, **Galiya's Kawasaki W230** and **Ruslan's BMW R1300GS** warmed up, and **Aslan** already buzzing about sleeping in a safari tent. This is the start line, not a stop — but it sets the tone for everything that follows.
 
-Day 1 deliberately dodges the city. Instead of grinding south through Seattle, the family rides north and west to **Edmonds**, rolls the bikes onto the **Edmonds–Kingston ferry**, and lets Puget Sound do the first leg of the work. By the time the boat lands on the Kitsap Peninsula, the workweek is behind them, and the route bends west over the **Hood Canal Bridge** onto the Olympic Peninsula — Port Angeles, the fjord-blue shore of **Lake Crescent**, and a rainforest safari tent at Forks by evening. Eight days later they come home the quiet way: up the Columbia from Portland, across the **Lewis & Clark Bridge**, and along the backroad valleys beneath **Mount Rainier** to the same driveway.
+Day 1 deliberately dodges the city. Instead of grinding south through Seattle, the family rides north and west to **Edmonds**, rolls the bikes onto the **Edmonds–Kingston ferry**, and lets Puget Sound do the first leg of the work. By the time the boat lands on the Kitsap Peninsula, the workweek is behind them, and the route bends west over the **Hood Canal Bridge** onto the Olympic Peninsula — Port Angeles, the fjord-blue shore of **Lake Crescent**, and a rainforest safari tent at Forks by evening. Eight days later they come home the quick way — the trip's one planned freeway leg, a short I-5 run from Portland with a Castle Rock lunch, **Mount Rainier** floating over the road — back to the same driveway by mid-afternoon.
 
 ## Things to see & do
 - **The gear-up and shakedown** — The ritual that makes a tour: load the panniers, pair the intercoms, check tire pressures and chain, and top off the W230's small tank so the first fuel stop is never a worry.
@@ -19,7 +19,7 @@ Day 1 deliberately dodges the city. Instead of grinding south through Seattle, t
 - **The Edmonds–Kingston ferry** — Roll the motorcycles aboard, kill the engines, and cross Puget Sound with the Olympics on the horizon — the relaxing overture to the whole trip and a built-in skip around Seattle traffic.
 - **The Hood Canal Bridge & the Olympic gateway** — Off the boat on the Kitsap side, quiet two-lanes lead past historic Port Gamble and over the floating Hood Canal Bridge — the doorway to the peninsula and the wild week ahead.
 - **Woodinville wine country** — The home base itself, with tasting rooms and the Sammamish River Trail threading through town — a pretty reminder of what you're temporarily leaving behind.
-- **Homecoming beneath Rainier** — Day 8 returns on farm-valley backroads through Orting country, where **Mount Rainier** fills the windshield on a clear day — the mountain escorting the family home.
+- **Homecoming beneath Rainier** — Day 8 comes home on the trip's one planned freeway leg, a short steady I-5 run — with **Mount Rainier** floating over the highway on a clear day, escorting the family in.
 - **A kid hook for Aslan** — The ferry deck is its own adventure for a six-year-old: standing on a real boat, watching gulls and other ferries, and counting down to the first souvenir of the trip.
 
 ## What to eat
@@ -48,5 +48,5 @@ There's no overnight here — this is home, the start and the finish. The family
 - ![Hood Canal Bridge](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hood_Canal_Bridge.jpg/960px-Hood_Canal_Bridge.jpg) — The floating Hood Canal Bridge, Day 1's doorway onto the Olympic Peninsula.
 - ![Hood Canal shoreline overlook](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hood_Canal_Overlook_5869.jpg/960px-Hood_Canal_Overlook_5869.jpg) — The calm waters of Hood Canal at the peninsula's doorstep.
 - ![Sammamish River Trail in Woodinville](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Woodinville_WA_-_Sammamish_River_Trail.jpg/960px-Woodinville_WA_-_Sammamish_River_Trail.jpg) — Home base: the Sammamish River Trail winding through Woodinville.
-- ![Mount Rainier mirrored in a still lake](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mount_Rainier_and_lake_reflection.jpg/960px-Mount_Rainier_and_lake_reflection.jpg) — Mount Rainier, the mountain that fills the horizon on Day 8's backroads run home.
-- ![Mount Rainier above wildflower meadows](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mount_Rainier_from_above_Myrtle_Falls_in_August.JPG/960px-Mount_Rainier_from_above_Myrtle_Falls_in_August.JPG) — Rainier in August — the escort home through the Orting valley.
+- ![Mount Rainier mirrored in a still lake](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mount_Rainier_and_lake_reflection.jpg/960px-Mount_Rainier_and_lake_reflection.jpg) — Mount Rainier, the mountain that fills the horizon on the Day-8 ride home.
+- ![Mount Rainier above wildflower meadows](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mount_Rainier_from_above_Myrtle_Falls_in_August.JPG/960px-Mount_Rainier_from_above_Myrtle_Falls_in_August.JPG) — Rainier in August — the escort home on the last hour of Day 8.
