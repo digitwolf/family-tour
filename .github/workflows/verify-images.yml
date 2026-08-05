@@ -3,12 +3,13 @@ name: Verify image & wiki URLs
 # Checks every Wikimedia image URL (and en.wikipedia.org article URL) referenced by
 # data.js and the tour/ markdown, so broken links are caught before they render
 # broken on Pages. Run manually (workflow_dispatch) or on push to a claude/* branch.
+# Wikimedia rate-limits datacenter IPs, so the checker paces itself and retries 429s.
 
 on:
   workflow_dispatch:
   push:
     branches: ["claude/**"]
-    paths: ["data.js", "tour/**", "gen_data.py"]
+    paths: ["data.js", "tour/**", "gen_data.py", ".github/workflows/verify-images.yml"]
 
 jobs:
   verify:
@@ -24,20 +25,31 @@ jobs:
               text = open(path, encoding="utf-8").read()
               urls |= set(re.findall(r"https://upload\.wikimedia\.org/[^\s\"')\]]+", text))
               urls |= set(re.findall(r"https://en\.wikipedia\.org/wiki/[^\s\"')\]]+", text))
-          print(f"checking {len(urls)} unique URLs")
-          bad = []
-          for i, u in enumerate(sorted(urls)):
-              req = urllib.request.Request(u, method="HEAD",
-                  headers={"User-Agent": "family-tour-link-check/1.0 (github actions)"})
+          print(f"checking {len(urls)} unique URLs", flush=True)
+          UA = {"User-Agent": "family-tour-link-check/1.1 (https://github.com/digitwolf/family-tour; contact via repo issues)"}
+          def probe(u):
+              # GET a tiny range (some CDNs dislike HEAD); return HTTP status or error string
+              req = urllib.request.Request(u, headers={**UA, "Range": "bytes=0-0"})
               try:
                   with urllib.request.urlopen(req, timeout=30) as r:
-                      code = r.status
+                      return r.status  # 200 or 206
               except Exception as e:
-                  code = getattr(e, "code", str(e))
-              if code != 200:
+                  return getattr(e, "code", str(e))
+          bad = []
+          for u in sorted(urls):
+              code = None
+              for attempt in range(5):
+                  code = probe(u)
+                  if code in (200, 206):
+                      break
+                  if code == 429:
+                      time.sleep(10 * (attempt + 1))  # back off hard on rate limiting
+                      continue
+                  break
+              if code not in (200, 206):
                   bad.append((code, u))
-                  print(f"  FAIL {code} {u}")
-              time.sleep(0.4)  # be polite to Commons
+                  print(f"  FAIL {code} {u}", flush=True)
+              time.sleep(1.0)  # be polite to Commons
           print(f"done: {len(urls)-len(bad)} ok, {len(bad)} failing")
           if bad:
               print("\nFAILING URLS:")
