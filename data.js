@@ -1,10 +1,11 @@
 /* ============================================================
-   PNW Family "First Tour" — destination data
+   PNW Family Coast Tour — destination data
    Generated from tour/ markdown by gen_data.py (website-builder).
    Shared by index.html, place.html and day.html.
-   A 7-day round-trip ride: Woodinville → the Oregon coast (Yachats)
-   → home over Mount St. Helens & Mount Rainier. Built around a
-   brand-new rider (Galiya, Kawasaki W230) — no freeways.
+   An 8-day round-trip ride: Woodinville → the Olympic Peninsula
+   (Forks, Ruby Beach) → the Oregon coast (Two Capes, Yachats)
+   → home through Portland. Built around a still-new rider
+   (Galiya, Kawasaki W230) — no freeways.
    Photos: Wikimedia Commons (all URLs verified reachable).
    Hotels are SUGGESTIONS — confirm motorcycle parking,
    passenger/child rules and availability before booking.
@@ -88,22 +89,22 @@ window.DESTINATIONS = [
   jp: "",
   region: "Greater Seattle · King County, WA",
   type: "start",
-  days: "Day 1 (depart) · Day 7 (return)",
-  legMiles: 0,
+  days: "Day 1 (depart) · Day 8 (return)",
+  legMiles: 220,
   lat: 47.7553, lng: -122.13389, zoom: 10,
-  tagline: "Where the ride begins and ends: turn the key, point the bikes west, and let the everyday fall away behind you.",
+  tagline: "Where the ride begins and ends: turn the key, point the bikes at the ferry, and let the everyday fall away behind you.",
   intro: [
-    "Woodinville sits in Seattle's leafy northeast suburbs, a tidy pocket of wine-country calm tucked along the Sammamish River — more tasting rooms and trailheads than traffic lights. It's the kind of place where a week-long trip can begin quietly in the driveway: panniers packed the night before, <b>Galiya's Kawasaki W230</b> and <b>Ruslan's BMW R1300GS</b> warmed up, and <b>Aslan</b> already buzzing about which souvenirs he'll bring home. This is the start line, not a stop — but it sets the tone for everything that follows.",
-    "Day 1 deliberately dodges the city. Instead of grinding south through Seattle, the family rides north and west to <b>Edmonds</b>, rolls the bikes onto the <b>Edmonds–Kingston ferry</b>, and lets Puget Sound do the first leg of the work. By the time the boat lands on the Kitsap Peninsula, the workweek is behind them and the gentle <b>Hood Canal</b> shoreline is dead ahead — an easy, confidence-building opener for a brand-new rider. Seven days later they'll come home the dramatic way, over <b>Chinook Pass</b>, with the mountains as a victory lap."
+    "Woodinville sits in Seattle's leafy northeast suburbs, a tidy pocket of wine-country calm tucked along the Sammamish River — more tasting rooms and trailheads than traffic lights. It's the kind of place where a week-long trip can begin quietly in the driveway: panniers packed the night before, <b>Galiya's Kawasaki W230</b> and <b>Ruslan's BMW R1300GS</b> warmed up, and <b>Aslan</b> already buzzing about sleeping in a safari tent. This is the start line, not a stop — but it sets the tone for everything that follows.",
+    "Day 1 deliberately dodges the city. Instead of grinding south through Seattle, the family rides north and west to <b>Edmonds</b>, rolls the bikes onto the <b>Edmonds–Kingston ferry</b>, and lets Puget Sound do the first leg of the work. By the time the boat lands on the Kitsap Peninsula, the workweek is behind them, and the route bends west over the <b>Hood Canal Bridge</b> onto the Olympic Peninsula — Port Angeles, the fjord-blue shore of <b>Lake Crescent</b>, and a rainforest safari tent at Forks by evening. Eight days later they come home the quiet way: up the Columbia from Portland, across the <b>Lewis & Clark Bridge</b>, and along the backroad valleys beneath <b>Mount Rainier</b> to the same driveway."
   ],
   highlights: [
     "<b>The gear-up and shakedown</b> — The ritual that makes a tour: load the panniers, pair the intercoms, check tire pressures and chain, and top off the W230's small tank so the first fuel stop is never a worry.",
     "<b>The first turn of the key</b> — The symbolic start. Two bikes in the driveway, the GS carrying Aslan as pillion, and Galiya leading at her own pace away from the freeways.",
     "<b>The ride to Edmonds</b> — A short, mellow run northwest from Woodinville to the Edmonds waterfront, easing into the day before the bikes ever leave the road.",
     "<b>The Edmonds–Kingston ferry</b> — Roll the motorcycles aboard, kill the engines, and cross Puget Sound with the Olympics on the horizon — the relaxing overture to the whole trip and a built-in skip around Seattle traffic.",
-    "<b>Hood Canal preview</b> — Off the boat on the Kitsap side, the route bends down to the quiet Hood Canal shoreline: low speeds, big water views, the perfect first hour for a new endorsement.",
+    "<b>The Hood Canal Bridge & the Olympic gateway</b> — Off the boat on the Kitsap side, quiet two-lanes lead past historic Port Gamble and over the floating Hood Canal Bridge — the doorway to the peninsula and the wild week ahead.",
     "<b>Woodinville wine country</b> — The home base itself, with tasting rooms and the Sammamish River Trail threading through town — a pretty reminder of what you're temporarily leaving behind.",
-    "<b>Homecoming over Chinook Pass</b> — Day 7 returns from the mountains over the high, scenic Chinook Pass (SR 410), trading saltwater for alpine switchbacks as the finish line.",
+    "<b>Homecoming beneath Rainier</b> — Day 8 returns on farm-valley backroads through Orting country, where <b>Mount Rainier</b> fills the windshield on a clear day — the mountain escorting the family home.",
     "<b>A kid hook for Aslan</b> — The ferry deck is its own adventure for a six-year-old: standing on a real boat, watching gulls and other ferries, and counting down to the first souvenir of the trip."
   ],
   food: [
@@ -121,14 +122,14 @@ window.DESTINATIONS = [
     },
     {
       "n": "Homecoming dinner",
-      "d": "Day 7, the best meal is the one you don't have to ride to: your own kitchen (or a favorite Woodinville table) to toast a finished first tour."
+      "d": "Day 8, the best meal is the one you don't have to ride to: your own kitchen (or a favorite Woodinville table) to toast a finished second tour."
     }
   ],
   hotels: [
     {
       "n": "No overnight here",
       "t": "Note",
-      "d": "There's no overnight here — this is home, the start and the finish. The family sleeps in their own beds the night before, wakes to a packed garage and a short ride to the ferry, and rolls out fresh. Seven days later they ride back over Chinook Pass to the same driveway, unload the panniers, and fall into their own beds again — the trip ending exactly where it began."
+      "d": "There's no overnight here — this is home, the start and the finish. The family sleeps in their own beds the night before, wakes to a packed garage and a short ride to the ferry, and rolls out fresh. Eight days later they ride back beneath Mount Rainier to the same driveway, unload the panniers, and fall into their own beds again — the trip ending exactly where it began."
     }
   ],
   links: [
@@ -164,165 +165,163 @@ window.DESTINATIONS = [
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ferry_arriving_at_Kingston.jpg/960px-Ferry_arriving_at_Kingston.jpg",
-      "cap": "A ferry pulling into Kingston, gateway to the Hood Canal route."
+      "cap": "A ferry pulling into Kingston, gateway to the Olympic Peninsula route."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hood_Canal_Bridge.jpg/960px-Hood_Canal_Bridge.jpg",
-      "cap": "The Hood Canal Bridge, a landmark on the gentle shoreline run ahead."
+      "cap": "The floating Hood Canal Bridge, Day 1's doorway onto the Olympic Peninsula."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hood_Canal_Overlook_5869.jpg/960px-Hood_Canal_Overlook_5869.jpg",
-      "cap": "The calm Hood Canal water — Day 1's easy, scenic opener."
+      "cap": "The calm waters of Hood Canal at the peninsula's doorstep."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Woodinville_WA_-_Sammamish_River_Trail.jpg/960px-Woodinville_WA_-_Sammamish_River_Trail.jpg",
       "cap": "Home base: the Sammamish River Trail winding through Woodinville."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Chinook_Pass_panorama_7538.jpg/960px-Chinook_Pass_panorama_7538.jpg",
-      "cap": "Chinook Pass, the high alpine route home on Day 7."
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mount_Rainier_and_lake_reflection.jpg/960px-Mount_Rainier_and_lake_reflection.jpg",
+      "cap": "Mount Rainier, the mountain that fills the horizon on Day 8's backroads run home."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Chinook_Pass_%289575660218%29.jpg/960px-Chinook_Pass_%289575660218%29.jpg",
-      "cap": "Switchbacks and peaks of Chinook Pass — the trip's victory-lap finish."
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mount_Rainier_from_above_Myrtle_Falls_in_August.JPG/960px-Mount_Rainier_from_above_Myrtle_Falls_in_August.JPG",
+      "cap": "Rainier in August — the escort home through the Orting valley."
     }
   ]
 },
 {
-  id: "westport",
-  name: "Westport",
+  id: "forks",
+  name: "Forks & Ruby Beach",
   jp: "",
-  region: "Washington Coast · Grays Harbor County",
+  region: "Olympic Peninsula · Clallam County, WA",
   type: "stop",
-  days: "Day 1 · 1 night (Wed Jul 1)",
-  legMiles: 157,
-  lat: 46.89009, lng: -124.10406, zoom: 12,
-  tagline: "A salty fishing-and-surf town on Grays Harbor's south jetty — the family's first night on tour, and their first taste of the Pacific.",
+  days: "Day 1 · 1 night (Sat Aug 15)",
+  legMiles: 140,
+  lat: 47.95036, lng: -124.38549, zoom: 10,
+  tagline: "Logging town turned Twilight town on the wild west end of the Olympic Peninsula — the night is a safari tent in the rainforest, and the reward is Ruby Beach at your doorstep.",
   intro: [
-    "Day 1 is built for confidence, not mileage records. From Woodinville the family rolls down to <b>Edmonds</b> and rides the bikes straight onto the <b>Edmonds–Kingston ferry</b> — a relaxed half-hour crossing of Puget Sound that doubles as Galiya's first ferry on two wheels. From Kingston the route stays on quiet backroads and skirts the calm, fjord-like shore of <b>Hood Canal on Highway 106</b>, a low-traffic, easy-cornering road with water on one side and forest on the other. After Shelton the country opens up and the air turns salty as the route reaches the coast and the working harbor town of <b>Westport</b>.",
-    "Westport sits on a sandy spit guarding the south side of <b>Grays Harbor</b>, and it wears two hats: it's one of Washington's busiest <b>sport-fishing and charter ports</b>, and it's the most reliable <b>surf town</b> on the state's coast. For a brand-new rider it's an ideal first night — flat approaches, an easy grid of streets, no pressure — and for the family it delivers the big payoff of standing at the Pacific on the very first evening. Expect <b>boats, sea lions, fresh seafood, a tall lighthouse, and a huge open beach</b> all within a few blocks of each other."
+    "Forks is the last real town on the wet, wild west side of the Olympic Peninsula — a plain-spoken old logging settlement of a few thousand people ringed by moss-hung rainforest, steelhead rivers and some of the emptiest, most dramatic surf-hammered coastline in the Lower 48. The ride in is the whole first day: the Edmonds–Kingston ferry across Puget Sound, quiet two-lanes over the Kitsap Peninsula past Port Gamble, then US-101 west through Port Angeles and along the fjord-blue length of <b>Lake Crescent</b>, where the highway hugs the shore under Mount Storm King. It's a gentle, spectacular 140-mile opener — no freeways anywhere.",
+    "The night is the trip's first glamping stay: a <b>safari tent outside Forks</b>, canvas walls and real beds under giant spruce, chosen as the launchpad for <b>Ruby Beach</b> — the sea-stack-studded Olympic National Park beach ~27 miles south that opens Day 2. Aslan gets a tent that feels like an expedition; Galiya gets the rainforest quiet; and everyone gets an early, easy jump on the wildest stretch of coast of the whole tour. (Twilight pilgrims: yes, this is <i>that</i> Forks — the town leans into it with signs and a shrine of movie memorabilia.)"
   ],
   highlights: [
-    "<b>Westport Light / Grays Harbor Lighthouse</b> — at 107 ft, the <b>tallest lighthouse in Washington</b> (and third-tallest on the West Coast); built in 1898, it's reached by a short trail from Westport Light State Park and is the town's landmark photo stop",
-    "<b>Westhaven State Park & the surf</b> — Washington's go-to surf beach on the south jetty; watch surfers and <b>kitesurfers</b> ride the break, walk the dunes, and let everyone touch the Pacific on arrival evening",
-    "<b>Westport Maritime Museum</b> — housed in a 1939 Nantucket-style former Coast Guard station; lighthouse lenses, whale and sea-life skeletons, and fishing-history exhibits make an easy, low-key stop",
-    "<b>Westport Aquarium</b> — a small, hands-on local aquarium right by the docks with touch tanks and resident sea creatures; a perfect quick hook for a tired 6-year-old",
-    "<b>The marina, docks & fishing fleet</b> — wander the working waterfront, watch charter boats unload salmon, tuna, and crab, and look for the <b>sea lions</b> that haul out near the basin",
-    "<b>Westport Viewing Tower (Observation Tower)</b> — climb the tall waterfront tower for a sweeping look over the harbor, the jetty, and the boats coming and going",
-    "<b>The South Jetty & long beach</b> — walk out toward the jetty and along the wide, hard-packed sand; great for driftwood-hunting, beach-combing, and brown-pelican spotting",
-    "<b>Float Park & Fishermen's Memorial</b> — a quiet harborside spot honoring the town's fishing heritage, good for stretching legs after the ride",
-    "<b>Fresh-off-the-boat seafood</b> — Westport calls itself a salmon capital, and the dockside markets and chowder counters are a destination in themselves for Galiya the foodie <b>[FOOD]</b>"
+    "<b>Lake Crescent (on the way in)</b> — US-101 runs right along the shore of this deep, impossibly blue glacial lake for ~10 miles; pull off at Barnes Point or Lake Crescent Lodge for the classic Mount Storm King view (<b>the scenic highlight of Day 1's ride</b>).",
+    "<b>Ruby Beach</b> — The famous Olympic National Park beach just south: sea stacks, drift-log jumbles, tide pools and Abbey Island — saved as the first stop of Day 2's ride so the family sees it fresh in the morning (<b>the reason to sleep in Forks</b>).",
+    "<b>Forks Timber Museum</b> — A small, earnest museum of the town's logging century — springboards, steam donkeys and a fire lookout tower out back; a quick, genuine slice of local history (<b>short + hands-on for Aslan</b>).",
+    "<b>Twilight in Forks</b> — The \"Welcome to Forks\" sign, Forever Twilight collection and town-wide movie kitsch; even non-fans get a fun photo (<b>easy souvenir stop for Aslan</b>).",
+    "<b>Hoh Rain Forest (optional detour)</b> — The Hall of Mosses' cathedral of draped bigleaf maples is ~45 min off-route up the Hoh valley; a stretch goal only if Day 1 runs early — otherwise save it for another trip.",
+    "<b>La Push & Rialto Beach (optional)</b> — The Quileute village and drift-log beaches at the mouth of the Quillayute River, ~15 miles west; James Island offshore at sunset is a classic.",
+    "<b>The safari tent itself</b> — Canvas glamping under the spruce: firepit, camp chairs and rainforest birdsong — the kind of overnight a six-year-old talks about for months (<b>the night IS the activity</b>)."
   ],
   food: [
     {
-      "n": "Bennett's Fish Shack",
-      "d": "a Westport institution for beer-battered fish & chips, clam chowder, and a kid-friendly menu, steps from the harbor [FOOD]"
+      "n": "Pacific Pizza",
+      "d": "Forks' reliable family pick right on the main drag: hand-tossed pizzas and pasta, easy for a picky six-year-old after a long day."
     },
     {
-      "n": "Half Moon Bay Bar & Grill (at the Inn Resort) — waterfront views with fresh local seafood, burgers, and easy options for Aslan",
-      "d": ""
+      "n": "Sully's Drive-In",
+      "d": "Classic small-town burger shack with milkshakes and a Twilight-themed \"Bella Burger\" — quick, cheap and fun."
     },
     {
-      "n": "Merino's Seafood Market",
-      "d": "buy fresh and cooked Dungeness crab, oysters, and smoked fish right off the dock; great for a casual picnic dinner by the water [FOOD]"
+      "n": "Blakeslee Bar & Grill",
+      "d": "Steaks, burgers and fish for the grown-ups; the closest thing to a sit-down dinner house in town."
     },
     {
-      "n": "Westport Winery Garden Resort & Sea Glass Grill",
-      "d": "just outside town; smoked-salmon chowder, garden art, and dessert wines for a foodie detour [FOOD]"
+      "n": "Forks Coffee Shop",
+      "d": "Old-school logging-town diner breakfasts (hotcakes, eggs, biscuits & gravy) — the fuel-up before the Day-2 coast run."
     },
     {
-      "n": "Aloha Alabama BBQ & Bakery",
-      "d": "a beloved local spot mixing barbecue and from-scratch baking; reliable comfort food and treats for a hungry kid"
+      "n": "Mocha Motion",
+      "d": "Drive-through espresso for the morning ride south; the peninsula runs on stands like this."
     },
     {
-      "n": "Blue Buoy Restaurant",
-      "d": "a long-running diner-style breakfast spot for hearty eggs, pancakes, and coffee before Day 2's ride [FOOD]"
+      "n": "Camp dinner at the tent",
+      "d": "The glamping option: pick up provisions in town and cook at the firepit under the trees while Aslan hunts banana slugs."
     }
   ],
   hotels: [
     {
-      "n": "Chateau Westport Beach Resort",
-      "t": "Resort",
-      "d": "Confirm secure motorcycle parking + family/passenger rules before booking. Indoor pool and beach access — a kid-pleasing first night.",
-      "park": "Free on-site lot",
-      "price": "$150–250"
+      "n": "Romantic Safari Tent (Forks glamping)",
+      "t": "Glamping · safari tent",
+      "d": "THE BOOKED PLAN — canvas safari tent outside Forks, billed as a getaway base for Ruby Beach. Confirm the 3-guest/child fit, bedding, and secure motorcycle parking with the host before riding out.",
+      "park": "On-site, at the tent",
+      "price": "$150–$250"
     },
     {
-      "n": "The Inn Resort & Suites (Half Moon Bay)",
-      "t": "Inn / Resort",
-      "d": "Confirm secure motorcycle parking + family/passenger rules before booking. Waterfront location with on-site grill.",
-      "park": "Free on-site lot",
-      "price": "$140–230"
+      "n": "Kalaloch Lodge",
+      "t": "Lodge · oceanfront",
+      "d": "The national-park lodge on the bluff above Kalaloch Beach, ~35 mi south — an alternative that puts you ON the coast; books out far ahead. Confirm secure motorcycle parking + family rules before booking.",
+      "park": "On-site lot",
+      "price": "$250–$400"
     },
     {
-      "n": "Albatross Motel",
+      "n": "Woodland Inns",
+      "t": "Cabins",
+      "d": "Modern standalone cabins in Forks with kitchenettes — a solid roofed fallback if the weather turns. Confirm secure motorcycle parking + family rules before booking.",
+      "park": "On-site",
+      "price": "$180–$280"
+    },
+    {
+      "n": "Pacific Inn Motel",
       "t": "Motel",
-      "d": "Confirm secure motorcycle parking + family/passenger rules before booking. Simple, central, walkable to the marina and eats.",
-      "park": "Free on-site lot",
-      "price": "$110–170"
+      "d": "Clean, simple motel on US-101 in town (with a Twilight-themed room, naturally). Confirm secure motorcycle parking + family rules before booking.",
+      "park": "On-site lot",
+      "price": "$120–$180"
     },
     {
-      "n": "Glenacres Historic Inn",
-      "t": "B&B / Inn",
-      "d": "Confirm secure motorcycle parking + family/passenger rules before booking. 1898 inn with cottages; family rooms available.",
-      "park": "Free on-site lot",
-      "price": "$130–220"
-    },
-    {
-      "n": "Breakers Boutique Inn",
-      "t": "Inn",
-      "d": "Confirm secure motorcycle parking + family/passenger rules before booking. Near the beach trail and lighthouse.",
-      "park": "Free on-site lot",
-      "price": "$130–210"
+      "n": "Quillayute River Resort",
+      "t": "Suites",
+      "d": "Quiet riverside suites toward La Push with kitchens and river views. Confirm secure motorcycle parking + family rules before booking.",
+      "park": "On-site",
+      "price": "$180–$260"
     }
   ],
   links: [
-    { "l": "Westport-Grayland Chamber of Commerce", "u": "https://www.westportgrayland-chamber.org/" },
+    { "l": "Forks Chamber of Commerce (official visitor info)", "u": "https://forkswa.com/" },
+    { "l": "Olympic National Park (NPS)", "u": "https://www.nps.gov/olym/index.htm" },
     {
-      "l": "Westport Light State Park (Washington State Parks)",
-      "u": "https://www.parks.wa.gov/find-parks/state-parks/westport-light-state-park"
+      "l": "Ruby Beach (NPS — Kalaloch & Ruby Beach)",
+      "u": "https://www.nps.gov/olym/planyourvisit/visiting-kalaloch-and-ruby-beach.htm"
     },
-    { "l": "Wikipedia — Westport Light State Park", "u": "https://en.wikipedia.org/wiki/Westport_Light_State_Park" },
-    { "l": "Wikipedia — Grays Harbor Light", "u": "https://en.wikipedia.org/wiki/Grays_Harbor_Light" },
-    { "l": "Wikipedia — Westport, Washington", "u": "https://en.wikipedia.org/wiki/Westport,_Washington" },
-    { "l": "Wikipedia — Grays Harbor", "u": "https://en.wikipedia.org/wiki/Grays_Harbor" }
+    { "l": "Lake Crescent (NPS)", "u": "https://www.nps.gov/olym/planyourvisit/visiting-lake-crescent.htm" },
+    { "l": "Forks Timber Museum", "u": "https://forkstimbermuseum.org/" },
+    { "l": "Wikipedia: Forks, Washington", "u": "https://en.wikipedia.org/wiki/Forks,_Washington" }
   ],
   photos: [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Grays_Harbor_%28Westport%29_Lighthouse_01.jpg/960px-Grays_Harbor_%28Westport%29_Lighthouse_01.jpg",
-      "cap": "Westport Light, the tallest lighthouse in Washington"
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Abbey_Island_at_Ruby_Beach.jpg/960px-Abbey_Island_at_Ruby_Beach.jpg",
+      "cap": "Abbey Island off Ruby Beach — the sea-stack shore that opens Day 2."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2023-05-27%2C_Grays_Harbor_Lighthouse%2C_001.jpg/960px-2023-05-27%2C_Grays_Harbor_Lighthouse%2C_001.jpg",
-      "cap": "The 1898 lighthouse rising above the dunes"
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ruby_Beach%2C_Olympic_Peninsula%2C_Washington_State.jpg/960px-Ruby_Beach%2C_Olympic_Peninsula%2C_Washington_State.jpg",
+      "cap": "Drift logs and surf at Ruby Beach, Olympic National Park."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Boat_entering_harbor_at_Westport%2C_WA.jpg/960px-Boat_entering_harbor_at_Westport%2C_WA.jpg",
-      "cap": "A boat entering the harbor at Westport"
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ruby_Beach_rocks_on_the_Washington_coast.jpg/960px-Ruby_Beach_rocks_on_the_Washington_coast.jpg",
+      "cap": "The wave-carved rocks that give Ruby Beach its drama."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Westport%2C_WA_-_fishing_boat_%27Patriot%27.jpg/960px-Westport%2C_WA_-_fishing_boat_%27Patriot%27.jpg",
-      "cap": "A fishing boat in Westport's working marina"
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mount_Storm_King_and_Lake_Crescent_seen_from_Highway_101.jpg/960px-Mount_Storm_King_and_Lake_Crescent_seen_from_Highway_101.jpg",
+      "cap": "Lake Crescent from US-101 — the highway rides this shoreline on the way in."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Westport%2C_WA_-_beach_scene.jpg/960px-Westport%2C_WA_-_beach_scene.jpg",
-      "cap": "The wide Pacific beach at Westport"
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Lake_Crescent_Lodge_WA.JPG/960px-Lake_Crescent_Lodge_WA.JPG",
+      "cap": "Historic Lake Crescent Lodge at Barnes Point, a classic leg-stretch stop."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/View_from_atop_the_ridge_at_Westhaven_State_Park_-_panoramio.jpg/960px-View_from_atop_the_ridge_at_Westhaven_State_Park_-_panoramio.jpg",
-      "cap": "Looking out over Westhaven State Park"
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Forks_WA.jpg/960px-Forks_WA.jpg",
+      "cap": "Forks, the last town on the wild west end of US-101."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Westport%2C_WA_-_kitesurfing_01.jpg/960px-Westport%2C_WA_-_kitesurfing_01.jpg",
-      "cap": "Kitesurfing off the Westport surf break"
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Twilight_signs_in_Forks%2C_Washington.JPG/960px-Twilight_signs_in_Forks%2C_Washington.JPG",
+      "cap": "The town leans into its Twilight fame — an easy photo-and-souvenir stop."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Observation_Twr_3927.jpg/960px-Observation_Twr_3927.jpg",
-      "cap": "The waterfront viewing tower over the harbor"
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Forks_timber_museum.JPG/960px-Forks_timber_museum.JPG",
+      "cap": "The Forks Timber Museum, a small hands-on slice of logging history."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Brown_Pelicans_in_flight%2C_Westport%2C_WA_02.jpg/960px-Brown_Pelicans_in_flight%2C_Westport%2C_WA_02.jpg",
-      "cap": "Brown pelicans in flight off Westport"
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Lk_Quinault_%28frm_east%29_1316.jpg/960px-Lk_Quinault_%28frm_east%29_1316.jpg",
+      "cap": "Lake Quinault, the rainforest lake the Day-2 ride passes on the way south."
     }
   ]
 },
@@ -332,13 +331,13 @@ window.DESTINATIONS = [
   jp: "",
   region: "Oregon Coast · Clatsop County",
   type: "stop",
-  days: "Day 2 · stop en route to Cannon Beach (Thu Jul 2)",
-  legMiles: 99,
+  days: "Day 2 · 1 night (Sun Aug 16 — the Cannery Pier night)",
+  legMiles: 200,
   lat: 46.18788, lng: -123.83125, zoom: 12,
   tagline: "The oldest American settlement west of the Rockies, a salty Victorian riverport where the Columbia meets the Pacific — and where the Goonies once chased pirate gold.",
   intro: [
-    "Astoria sits where the mighty Columbia River pours into the Pacific, ringed by green headlands and crowned with steep streets of <b>Victorian houses</b> that tumble down to a working waterfront. Founded in 1811 as John Jacob Astor's fur-trading post, it is the <b>oldest American settlement west of the Rockies</b>, and that long history shows everywhere — in the maritime museum, the grand sea-captain mansions, and the fishing boats and sea lions that still crowd the docks. After the short, easy Day-2 ride over the dramatic <b>Astoria–Megler Bridge</b>, this is a town made for wandering on tired legs.",
-    "For this family it hits every note at once. Galiya gets art galleries, historic homes, and one of the best small-city food-and-beer scenes on the coast; Ruslan gets big-river history and a genuinely great museum; and Aslan gets the <b>Goonies house</b>, balsa-glider launches from the Astoria Column, barking sea lions, and a rattling old trolley. It is a relaxed, rewarding second night before the trip pushes on."
+    "Astoria sits where the mighty Columbia River pours into the Pacific, ringed by green headlands and crowned with steep streets of <b>Victorian houses</b> that tumble down to a working waterfront. Founded in 1811 as John Jacob Astor's fur-trading post, it is the <b>oldest American settlement west of the Rockies</b>, and that long history shows everywhere — in the maritime museum, the grand sea-captain mansions, and the fishing boats and sea lions that still crowd the docks. Day 2 is the trip's longest ride — down the wild Olympic coast from Forks past Ruby Beach — and it ends with the dramatic 4-mile crossing of the <b>Astoria–Megler Bridge</b> and a night in style at the <b>Cannery Pier Hotel & Spa</b>, on stilts over the Columbia with the bridge filling the window.",
+    "For this family it hits every note at once. Galiya gets art galleries, historic homes, and one of the best small-city food-and-beer scenes on the coast; Ruslan gets big-river history and a genuinely great museum; and Aslan gets the <b>Goonies house</b>, balsa-glider launches from the Astoria Column, barking sea lions, and a rattling old trolley. It is a relaxed, rewarding second night before the trip pushes on. The evening arrival buys a slow Astoria morning on Day 3 — the Column, the sea lions, a Bowpicker lunch — before the short ride south to the capes."
   ],
   highlights: [
     "<b>Astoria Column</b> — Climb the 164-step spiral to the top of this hilltop tower for a 360° view of the river, bridge, and Coast Range; buy a <b>balsa-wood glider</b> at the gift shop and launch it off the summit (<b>a guaranteed Aslan win</b>).",
@@ -380,7 +379,7 @@ window.DESTINATIONS = [
     {
       "n": "Cannery Pier Hotel & Spa",
       "t": "Nice hotel",
-      "d": "Luxe rooms on stilts over the Columbia with bridge views; confirm secure motorcycle parking + family/passenger rules before booking.",
+      "d": "THE BOOKED PLAN — luxe rooms on stilts 600 ft out over the Columbia, every room facing the bridge and the ship traffic; spa, sauna and evening wine hour. Confirm secure motorcycle parking + family/passenger rules before booking.",
       "park": "On-site lot, pier setting",
       "price": "$300–$450"
     },
@@ -466,13 +465,13 @@ window.DESTINATIONS = [
   jp: "",
   region: "Oregon Coast · Clatsop County",
   type: "stop",
-  days: "Day 2 · 1 night (Thu Jul 2)",
-  legMiles: 125,
+  days: "Day 3 · morning stop en route to the capes (Mon Aug 17)",
+  legMiles: 26,
   lat: 45.89177, lng: -123.96153, zoom: 12,
-  tagline: "The picture-perfect Oregon Coast town where a 235-foot sea stack, tide pools full of starfish, and a wide flat beach make the ideal first-tour overnight.",
+  tagline: "The picture-perfect Oregon Coast town where a 235-foot sea stack, tide pools full of starfish, and a wide flat beach make the perfect mid-morning beach break.",
   intro: [
-    "Cannon Beach is the postcard of the Oregon Coast: a long, flat, walkable expanse of sand framed by <b>Haystack Rock</b>, one of the most photographed sea stacks in the world. After crossing the soaring <b>Astoria–Megler Bridge</b> and pausing in Astoria, the family rolls south on US-101 and Hwy-26 to drop down into this little resort town for the night. It is an easy, gentle arrival after a long day — park the bikes, walk straight onto the beach, and let the Pacific do the rest.",
-    "The town itself is tiny and very family-friendly: a few blocks of art galleries, candy stores, toy shops, bakeries, and seafood spots, all within strolling distance of the sand. <b>Aslan</b> can splash in the tide pools and hunt for puffins on the rock; <b>Galiya</b> gets fresh chowder, seafood, and the legendary local bakery; and <b>Ruslan</b> gets one of the most scenic stretches of coastline in the country. It is a pricey, popular town that fills up fast — especially over the July 4 weekend — so book early."
+    "Cannon Beach is the postcard of the Oregon Coast: a long, flat, walkable expanse of sand framed by <b>Haystack Rock</b>, one of the most photographed sea stacks in the world. On this trip it's the first stop of Day 3 — a short 26-mile hop south from the Cannery Pier morning in Astoria, timed so the family can park the bikes, walk straight onto the sand, and catch the tide pools before the day rolls on to Tillamook and the capes.",
+    "The town itself is tiny and very family-friendly: a few blocks of art galleries, candy stores, toy shops, bakeries, and seafood spots, all within strolling distance of the sand. <b>Aslan</b> can splash in the tide pools and hunt for puffins on the rock; <b>Galiya</b> gets a coast-famous bakery pastry and the postcard view; and <b>Ruslan</b> gets one of the most scenic stretches of coastline in the country — with Neahkahnie Mountain's ocean-cliff highway waiting just south."
   ],
   highlights: [
     "<b>Haystack Rock</b> — the 235-ft sea stack rising straight off the beach is the town's icon; at low tide you can walk right up to its base. (scenic + kid)",
@@ -510,39 +509,9 @@ window.DESTINATIONS = [
   ],
   hotels: [
     {
-      "n": "Surfsand Resort",
-      "t": "Resort",
-      "d": "Confirm secure motorcycle parking + family/passenger rules before booking; right on the sand at Haystack Rock, pricey, books up far ahead for the July 4 weekend.",
-      "park": "On-site lot, beachfront",
-      "price": "$400–$650"
-    },
-    {
-      "n": "Stephanie Inn",
-      "t": "Nice hotel",
-      "d": "Confirm secure motorcycle parking + family/passenger rules before booking; upscale and adults-leaning (check minimum age), a splurge oceanfront option.",
-      "park": "On-site valet/lot",
-      "price": "$550–$900"
-    },
-    {
-      "n": "Hallmark Resort",
-      "t": "Resort",
-      "d": "Confirm secure motorcycle parking + family/passenger rules before booking; family-friendly oceanfront with pool, fills fast over the holiday weekend.",
-      "park": "On-site lot",
-      "price": "$300–$550"
-    },
-    {
-      "n": "Tolovana Inn",
-      "t": "Inn",
-      "d": "Confirm secure motorcycle parking + family/passenger rules before booking; quieter Tolovana Park end of the beach, good-value family units.",
-      "park": "On-site lot",
-      "price": "$200–$400"
-    },
-    {
-      "n": "Inn at Cannon Beach",
-      "t": "Inn",
-      "d": "Confirm secure motorcycle parking + family/passenger rules before booking; cottage-style rooms a short walk from the beach, pet- and family-friendly.",
-      "park": "On-site lot",
-      "price": "$200–$350"
+      "n": "No overnight here",
+      "t": "Note",
+      "d": "No overnight here this trip — Cannon Beach is the Day-3 morning beach break between the Cannery Pier night in Astoria and the two-night glamping base at Two Capes Lookout. If plans change, the town has plenty of oceanfront lodging (Surfsand Resort, Hallmark Resort, Tolovana Inn), but it's pricey and books far ahead in August — confirm secure motorcycle parking + family/passenger rules before booking anywhere."
     }
   ],
   links: [
@@ -595,93 +564,129 @@ window.DESTINATIONS = [
   ]
 },
 {
-  id: "tillamook",
-  name: "Tillamook",
+  id: "two-capes",
+  name: "Two Capes Lookout — Tierra Del Mar",
   jp: "",
   region: "Oregon Coast · Tillamook County",
-  type: "stop",
-  days: "Day 3 · midday stop (Fri Jul 3, en route to Yachats)",
-  legMiles: 45,
-  lat: 45.4565, lng: -123.8437, zoom: 11,
-  tagline: "The cheese-and-ice-cream heart of the Oregon Coast — a green dairy valley with a giant blimp hangar full of aircraft and a scenic loop of dramatic capes.",
+  type: "stay",
+  days: "Days 3–4 · 2 nights (arrive Mon Aug 17 · rest day Tue Aug 18)",
+  legMiles: 100,
+  lat: 45.24999, lng: -123.96487, zoom: 11,
+  tagline: "Design-forward glamping between Cape Lookout and Cape Kiwanda — two nights of geodesic domes, dairy-country ice cream and the Three Capes at walking pace.",
   intro: [
-    "Tillamook is the lush, cow-dotted dairy valley that gives Oregon its most famous <b>cheese and ice cream</b>, and on this trip it is the marquee midday stop — a tasty, kid-joyful break that anchors the long Day-3 ride down the coast to Yachats. Riding in from Astoria past <b>Cannon Beach</b>, Garibaldi, and Rockaway Beach, you trade headlands and surf for a wide green floodplain where dairy herds graze under the Coast Range and the smell of the sea gives way to the smell of fresh-churned cheese.",
-    "For this family it is almost too good to be true. <b>Galiya</b> the foodie gets a working cheese factory with free tastings and legendary scoops; <b>Ruslan</b> and <b>Aslan</b> get the <b>Tillamook Air Museum</b>, an enormous WWII wooden blimp hangar packed with vintage aircraft; and <b>Aslan</b> also gets a petting farm, ice cream, and a shop full of toys and souvenirs. Just west of town, the <b>Three Capes Scenic Loop</b> strings together a lighthouse, a famous twisted tree, and a beach with dory boats and a giant dune — easy, low-speed detours that suit a brand-new rider."
+    "<b>Two Capes Lookout</b> is a 58-acre glamping resort at Tierra Del Mar, tucked between the forested headland of <b>Cape Lookout</b> to the north and the sandstone dune of <b>Cape Kiwanda</b> to the south — hence the name. Opened in 2025, it strings <b>geodesic domes and mirrored cabins</b> through old-growth forest, wetlands and a historic quarry with its own year-round waterfall; the beach is a short walk, Pacific City is five minutes down the road, and the whole <b>Three Capes Scenic Loop</b> is the neighborhood. This is the trip's first two-night base: bikes parked for a full day, a dome in the trees, and the coast at kid pace.",
+    "The ride in is a greatest-hits reel of the north Oregon coast: out of Astoria, under Haystack Rock at <b>Cannon Beach</b>, over Neahkahnie Mountain to Manzanita, around Tillamook Bay — and then the family's requested marquee stop, the <b>Tillamook Creamery</b>, before the little loop road out to <b>Cape Meares Lighthouse</b>, the Octopus Tree and the puffin colonies of <b>Three Arch Rocks</b> off Oceanside. The rest day belongs to the capes: the dory boats and giant climbable dune at Pacific City, fresh <b>Netarts Bay oysters</b>, the Cape Lookout trail through Sitka spruce — or nothing at all but the beach and the firepit."
   ],
   highlights: [
-    "<b>Tillamook Creamery</b> — The big one: a free self-guided <b>cheese-factory tour</b> on a glassed-in walkway over the production floor, <b>cheese tasting</b>, and the famous <b>Tillamook ice cream</b> scoop counter, plus a café and gift shop (<b>the headline foodie + kid win of the day</b>).",
-    "<b>Tillamook Air Museum</b> — Housed in <b>Hangar B</b>, a gigantic WWII wooden blimp hangar — one of the <b>largest wooden structures in the world</b> — filled with vintage and warbird aircraft; the sheer scale of the building alone is jaw-dropping (<b>a guaranteed Ruslan + Aslan win</b>).",
-    "<b>Blue Heron French Cheese Co.</b> — A barn-red farm shop with brie and other cheeses, a tasting room and wine, jams and gifts, plus a small <b>petting farm</b> with goats and friendly animals out back (<b>easy kid stop</b>).",
-    "<b>Cape Meares (lighthouse + the Octopus Tree)</b> — On the Three Capes Loop: a squat, picturesque <b>lighthouse</b> on the cliffs and the <b>Octopus Tree</b>, a giant candelabra-shaped Sitka spruce, with seabird views over Three Arch Rocks (<b>short walks, big payoff</b>).",
-    "<b>Cape Kiwanda / Pacific City</b> — A sandstone headland with colorful <b>dory boats</b> launched straight off the beach, a towering <b>sand dune</b> kids love to climb, and <b>Pelican Brewing</b> right on the sand looking at Pacific City's own offshore Haystack Rock (<b>foodie + kid combo</b>).",
-    "<b>Cape Lookout</b> — The middle cape: a forested headland trail and a long sandy spit, an optional leg-stretch if time allows on the loop.",
-    "<b>Cannon Beach · Haystack Rock</b> — The day's earlier coastal stop on the way in from Astoria: the iconic 235-ft sea stack with tide pools and puffins, framed by a long flat beach (<b>classic photo + tide-pool stop</b>).",
-    "<b>Garibaldi & Rockaway Beach</b> — Small fishing-port and beach towns you pass riding into Tillamook Bay — good for a quick coffee, a leg stretch, or beach-and-train photos."
+    "<b>The dome itself</b> — A geodesic dome (or mirror cabin) in the forest with real beds and heat; firepits, a quarry waterfall and trails on the property — for Aslan the lodging is the headline attraction (<b>glamping night 2 of the trip — the base</b>).",
+    "<b>Tillamook Creamery (on the way in)</b> — The famous free self-guided <b>cheese-factory viewing gallery</b>, cheese tasting and the legendary <b>ice-cream counter</b> — the marquee foodie-and-kid stop of the whole coast run (<b>Galiya + Aslan double win</b>).",
+    "<b>Cape Meares (lighthouse + the Octopus Tree)</b> — Oregon's shortest lighthouse on the cliffs and the giant candelabra-shaped Sitka spruce beside it, with seabird views over Three Arch Rocks (<b>short walks, big payoff</b>).",
+    "<b>Three Arch Rocks / Oceanside</b> — Three huge sea rocks half a mile off Oceanside's beach — the oldest wildlife refuge in the West, home to puffins, murres and sea lions; binoculars from the sand (<b>wildlife for Aslan</b>).",
+    "<b>Cape Kiwanda / Pacific City</b> — The sandstone headland with colorful <b>dory boats</b> launching straight off the beach, a towering <b>sand dune</b> kids climb and run down, and Pelican Brewing on the sand (<b>the rest day's main event</b>).",
+    "<b>Cape Lookout trail</b> — The middle cape: a 2.5-mile cliff-top trail through Sitka spruce to the tip of the promontory, with views from Cape Kiwanda to Cape Meares — go as far as small legs last (<b>easy family hike</b>).",
+    "<b>Netarts Bay</b> — The quiet oyster bay behind the spit: crabbing docks, herons, and the freshest oysters of the trip at the water's edge (<b>foodie + wildlife</b>).",
+    "<b>Tillamook Air Museum (optional)</b> — Vintage aircraft in the vast WWII wooden blimp hangar south of Tillamook — a Ruslan-and-Aslan detour if the rest day wants a motor (<b>hangar scale alone is worth it</b>)."
   ],
   food: [
     {
-      "n": "Tillamook ice cream",
-      "d": "Scoops at the Creamery counter (waffle cones, sundaes, the works) — the single most-requested treat of the day and an automatic crowd-pleaser for Aslan."
+      "n": "Tillamook Creamery",
+      "d": "Squeaky cheese curds, cheddar tastings, and waffle-cone scoops at the source — plus grilled cheese and mac-and-cheese for the easiest kid lunch on the coast."
     },
     {
-      "n": "Tillamook cheese & curds",
-      "d": "Sample squeaky fresh cheese curds and the famous cheddar at the Creamery tasting bar; grab a snack-pack to carry on the bike for Yachats."
+      "n": "The Schooner Restaurant & Lounge (Netarts)",
+      "d": "Netarts Bay oysters raw, grilled and fried, chowder and local catch with the bay at your feet — the grown-ups' dinner pick."
     },
     {
       "n": "Pelican Brewing — Pacific City",
-      "d": "Beachfront brewpub at Cape Kiwanda with chowder, fish tacos, burgers, and house beers, all with a Haystack Rock view (foodie + family favorite)."
+      "d": "Beachfront brewpub at the foot of Cape Kiwanda: chowder, fish tacos, burgers and house beers with a Haystack Rock view (family favorite)."
     },
     {
-      "n": "Tillamook seafood / chowder",
-      "d": "A bowl of Oregon-coast clam chowder or fish-and-chips in town or at the bay (the Garibaldi docks are known for fresh-off-the-boat seafood)."
+      "n": "Meridian Restaurant & Bar (Headlands Lodge)",
+      "d": "Pacific City's upscale coastal kitchen for a nicer night out five minutes from the domes."
     },
     {
-      "n": "The Creamery café",
-      "d": "Grilled cheese, mac-and-cheese, and simple kid plates right at the Creamery — an easy, no-fuss lunch before pushing south."
+      "n": "Stimulus Espresso Café (Pacific City)",
+      "d": "Proper espresso and pastries above the beach — the rest-day slow morning."
     },
     {
-      "n": "Blue Heron tastings",
-      "d": "Brie, smoked cheeses, jams and a glass of local wine for the grown-ups while Aslan visits the petting animals."
+      "n": "Doryland Pizza (Pacific City)",
+      "d": "Pizza in the old dory-fleet cannery building — Aslan's simplest win, steps from the dune."
     }
   ],
   hotels: [
     {
-      "n": "No overnight here",
-      "t": "Note",
-      "d": "No overnight here — Tillamook is purely a midday stop on the Day-3 ride from Astoria down to the Yachats base, timed for cheese, ice cream, the air museum, and a cape or two before the afternoon push. You could easily overnight in Tillamook or nearby Pacific City if you wanted to split this long coastal day into two and slow the pace for the new rider, but the plan is to soak up the creamery and capes, then ride on and sleep in Yachats."
+      "n": "Two Capes Lookout",
+      "t": "Glamping · geodesic domes & mirror cabins",
+      "d": "THE BOOKED PLAN — 2 nights. Domes share stylish bathhouses; mirror cabins have private baths and heated floors. Confirm the 3-guest/child fit, bedding and secure motorcycle parking with the resort before riding out.",
+      "park": "On-site at the sites",
+      "price": "$250–$450"
+    },
+    {
+      "n": "Headlands Coastal Lodge & Spa",
+      "t": "Nice hotel · oceanfront",
+      "d": "Pacific City's luxury lodge looking straight at Cape Kiwanda — the roofed splurge alternative. Confirm secure motorcycle parking + family/passenger rules before booking.",
+      "park": "On-site lot",
+      "price": "$400–$700"
+    },
+    {
+      "n": "Inn at Cape Kiwanda",
+      "t": "Hotel · oceanfront",
+      "d": "Comfortable rooms across from the dory beach and Pelican Brewing. Confirm secure motorcycle parking + family/passenger rules before booking.",
+      "park": "On-site lot",
+      "price": "$250–$400"
+    },
+    {
+      "n": "Surf & Sand Inn (Pacific City)",
+      "t": "Inn",
+      "d": "Simple, friendly budget option in town, walkable to dinner. Confirm secure motorcycle parking + family/passenger rules before booking.",
+      "park": "On-site lot",
+      "price": "$140–$220"
+    },
+    {
+      "n": "Sheltered Nook (Tillamook Bay)",
+      "t": "Tiny homes",
+      "d": "A pod of well-done tiny homes up at Tillamook Bay if the capes are booked out. Confirm secure motorcycle parking + family/passenger rules before booking.",
+      "park": "On-site",
+      "price": "$180–$260"
     }
   ],
   links: [
+    { "l": "Two Capes Lookout (official)", "u": "https://www.twocapeslookout.com/" },
     { "l": "Tillamook Creamery (official)", "u": "https://www.tillamook.com/creamery" },
-    { "l": "Tillamook Air Museum", "u": "https://www.tillamookair.com/" },
-    { "l": "Visit Tillamook Coast (official tourism)", "u": "https://tillamookcoast.com/" },
     {
       "l": "Three Capes Scenic Loop (Travel Oregon)",
       "u": "https://traveloregon.com/things-to-do/trip-ideas/scenic-drives/three-capes-scenic-loop/"
     },
-    { "l": "Wikipedia: Tillamook, Oregon", "u": "https://en.wikipedia.org/wiki/Tillamook,_Oregon" },
-    { "l": "Travel Oregon: Tillamook", "u": "https://traveloregon.com/places-to-go/cities/tillamook/" }
+    {
+      "l": "Cape Lookout State Park (Oregon State Parks)",
+      "u": "https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=134"
+    },
+    { "l": "Visit Tillamook Coast (official tourism)", "u": "https://tillamookcoast.com/" },
+    {
+      "l": "Wikipedia: Cape Kiwanda State Natural Area",
+      "u": "https://en.wikipedia.org/wiki/Cape_Kiwanda_State_Natural_Area"
+    }
   ],
   photos: [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Tillamook_Creamery_4.2025.jpg/960px-Tillamook_Creamery_4.2025.jpg",
-      "cap": "The Tillamook Creamery, home of the free cheese-factory tour, tastings, and ice cream."
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Haystack_Rock_%26_Cape_Kiwanda%2C_Pacific_City%2C_Oregon_%283229030211%29.jpg/960px-Haystack_Rock_%26_Cape_Kiwanda%2C_Pacific_City%2C_Oregon_%283229030211%29.jpg",
+      "cap": "Cape Kiwanda and Pacific City's offshore Haystack Rock — the southern of the two capes."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tillamook_Cheese_Factory_ice_cream_stall%2C_Tillamook%2C_2011.jpg/960px-Tillamook_Cheese_Factory_ice_cream_stall%2C_Tillamook%2C_2011.jpg",
-      "cap": "The ice cream counter at the Creamery — the most-requested treat of the day."
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Cape_Kiwanda%2C_Pacific_City%2C_United_States_%28Unsplash%29.jpg/960px-Cape_Kiwanda%2C_Pacific_City%2C_United_States_%28Unsplash%29.jpg",
+      "cap": "The sandstone cliffs and giant climbable dune of Cape Kiwanda."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Freezer_case_full_of_Tillamook_ice_cream.jpg/960px-Freezer_case_full_of_Tillamook_ice_cream.jpg",
-      "cap": "Tillamook's famous ice cream, made right here in the dairy valley."
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Three_Arch_Rocks_from_beach_-_Oregon.JPG/960px-Three_Arch_Rocks_from_beach_-_Oregon.JPG",
+      "cap": "Three Arch Rocks off Oceanside — puffin and sea-lion country, binoculars from the sand."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Tillamook_Air_Museum_Mini_Guppy_in_front_of_Hangar_door.jpg/960px-Tillamook_Air_Museum_Mini_Guppy_in_front_of_Hangar_door.jpg",
-      "cap": "The vast wooden blimp hangar of the Tillamook Air Museum, one of the largest wooden buildings on earth."
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Three_Arch_Rocks_National_Wildlife_Refuge_-_Oregon.jpg/960px-Three_Arch_Rocks_National_Wildlife_Refuge_-_Oregon.jpg",
+      "cap": "The oldest wildlife refuge west of the Mississippi, half a mile off Oceanside."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Tillamook_Air_Museum_Door.jpg/960px-Tillamook_Air_Museum_Door.jpg",
-      "cap": "The towering hangar doors give a sense of the building's WWII scale."
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cape_Lookout_South_Beach.jpg/960px-Cape_Lookout_South_Beach.jpg",
+      "cap": "The beach below Cape Lookout, the forested headland north of the resort."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cape_Meares_Lighthouse_wide_shot.jpg/960px-Cape_Meares_Lighthouse_wide_shot.jpg",
@@ -692,20 +697,20 @@ window.DESTINATIONS = [
       "cap": "The Octopus Tree, a giant candelabra-shaped Sitka spruce near the lighthouse."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Haystack_Rock_%26_Cape_Kiwanda%2C_Pacific_City%2C_Oregon_%283229030211%29.jpg/960px-Haystack_Rock_%26_Cape_Kiwanda%2C_Pacific_City%2C_Oregon_%283229030211%29.jpg",
-      "cap": "Cape Kiwanda and Pacific City's offshore Haystack Rock, home to dory boats and Pelican Brewing."
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Tillamook_Creamery_4.2025.jpg/960px-Tillamook_Creamery_4.2025.jpg",
+      "cap": "The Tillamook Creamery, the marquee cheese-and-ice-cream stop on the way in."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Cape_Kiwanda%2C_Pacific_City%2C_United_States_%28Unsplash%29.jpg/960px-Cape_Kiwanda%2C_Pacific_City%2C_United_States_%28Unsplash%29.jpg",
-      "cap": "The sandstone cliffs and giant dune of Cape Kiwanda at Pacific City."
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tillamook_Cheese_Factory_ice_cream_stall%2C_Tillamook%2C_2011.jpg/960px-Tillamook_Cheese_Factory_ice_cream_stall%2C_Tillamook%2C_2011.jpg",
+      "cap": "The ice-cream counter at the Creamery — the most-requested treat of the day."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Haystack_Rock%2C_Cannon_Beach%2C_Oregon%2C_USA%2C_14_Aug_2025.jpg/960px-Haystack_Rock%2C_Cannon_Beach%2C_Oregon%2C_USA%2C_14_Aug_2025.jpg",
-      "cap": "Haystack Rock at Cannon Beach, the day's earlier coastal stop on the way to Tillamook."
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Tillamook_Air_Museum_Mini_Guppy_in_front_of_Hangar_door.jpg/960px-Tillamook_Air_Museum_Mini_Guppy_in_front_of_Hangar_door.jpg",
+      "cap": "The vast wooden blimp hangar of the Tillamook Air Museum, an optional rest-day detour."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Western_Oregon_dairy_farm_%283718587160%29.jpg/960px-Western_Oregon_dairy_farm_%283718587160%29.jpg",
-      "cap": "The green dairy country around Tillamook that supplies the famous cheese and ice cream."
+      "cap": "The green Tillamook dairy country that supplies the famous cheese and ice cream."
     }
   ]
 },
@@ -715,13 +720,13 @@ window.DESTINATIONS = [
   jp: "",
   region: "Oregon Coast · Lincoln County",
   type: "stay",
-  days: "Days 3–4 · 2 nights (arrive Fri Jul 3; rest Sat Jul 4 — the 4th of July)",
-  legMiles: 161,
+  days: "Days 5–6 · 2 nights (arrive Wed Aug 19 · rest day Thu Aug 20)",
+  legMiles: 76,
   lat: 44.31123, lng: -124.10484, zoom: 13,
-  tagline: "The \"Gem of the Oregon Coast\" — a tiny village where old-growth forest meets crashing surf, and the trip's signature two-night stay over a fireworks-and-tidepools Fourth of July.",
+  tagline: "The \"Gem of the Oregon Coast\" — a tiny village where old-growth forest meets crashing surf, and the trip's signature two-night \"nice hotel\" stay.",
   intro: [
     "Yachats (pronounced <b>YAH-hots</b>) is a village of only a few hundred people wedged between the Siuslaw National Forest and the open Pacific, where rocky basalt headlands, hidden coves, and tidepools sit a short walk from the door. Locals call it the <b>\"Gem of the Oregon Coast,\"</b> and it earns it: no big resorts or chain glare, just a walkable little town, a river mouth, and the dramatic <b>Cape Perpetua Scenic Area</b> rising just to the south. This is the <b>emotional high point of the trip</b> and the destination the whole route is built around — the \"nice hotel\" goal, two unhurried nights with the bikes parked, and time to simply be on the coast.",
-    "The middle day here is the <b>Fourth of July</b>, and Yachats does it in its own quirky, beloved way. The morning brings the homespun <b>La De Da Parade</b> — a come-as-you-are, anyone-can-march procession through the village — and after dark the town gathers for <b>fireworks over the bay</b>. Between the two, there are tidepools to crouch over with Aslan, sea lions barking in their sea cave, an oceanfront trail to stroll, and one of the best small-town food scenes on the coast for Galiya — all without getting back on the highway. <b>Book far ahead:</b> Yachats is tiny and sells out completely for the Fourth."
+    "The middle day here is a pure, unhurried rest day — the bikes parked, and everything within a few easy miles. There are tidepools to crouch over with Aslan, sea lions barking in their sea cave, the churning theatrics of Thor's Well and Devil's Churn, an oceanfront trail to stroll, and one of the best small-town food scenes on the coast for Galiya — all without getting back on the highway for more than a few minutes. <b>Book ahead:</b> Yachats is tiny and August is its high season — the oceanfront places fill early."
   ],
   highlights: [
     "<b>Cape Perpetua Scenic Area</b> — The crown jewel just south of town: a Forest Service scenic area with a visitor center, the <b>highest paved viewpoint on the Oregon coast</b> (Cape Perpetua Overlook, ~800 ft), and trails into towering old-growth Sitka spruce — the <b>Giant Spruce Trail</b> and <b>Cook's Ridge</b> loops (<b>scenic + easy family hikes</b>).",
@@ -731,8 +736,8 @@ window.DESTINATIONS = [
     "<b>Sea Lion Caves</b> — A privately run elevator drops into America's largest sea cave, home to wild <b>Steller sea lions</b> year-round; viewpoints also look toward Heceta Head (<b>top kid + wildlife stop</b>).",
     "<b>804 Trail (Amanda's Trail / oceanfront)</b> — A flat, paved-and-gravel oceanfront path running along the bluff from town past tidepools and blowholes — an easy stroll with the whole family and a stroller-friendly intro to the shoreline.",
     "<b>Tidepooling</b> — Yachats has some of the richest, most accessible tidepools on the coast (around the 804 Trail and Cape Perpetua's rocky shelves); bring low-tide timing for sea stars, anemones, crabs, and urchins (<b>Aslan's favorite</b>).",
-    "<b>Yachats 4th of July La De Da Parade + fireworks</b> — The Independence-Day rest-day centerpiece: a quirky, all-welcome village parade in the morning and <b>fireworks over Yachats Bay</b> after dark — a small-town Fourth that's a once-a-year reason this stop is two nights.",
-    "<b>Oregon Coast Aquarium (Newport, ~25 mi north)</b> — An optional Day-3 stop on the way in: world-class aquarium with a walk-through ocean tunnel, sea otters, and the famous \"Passages of the Deep\" (<b>rainy-day / big kid option for Aslan</b>)."
+    "<b>Whale watching from the bluffs</b> — Late August brings resident gray whales feeding close inshore between Depoe Bay and Cape Perpetua; watch for spouts from the 804 Trail or the Cape Perpetua overlook (<b>free wildlife, binoculars help</b>).",
+    "<b>Oregon Coast Aquarium (Newport, ~25 mi north)</b> — An optional Day-5 stop on the way in: world-class aquarium with a walk-through ocean tunnel, sea otters, and the famous \"Passages of the Deep\" (<b>rainy-day / big kid option for Aslan</b>)."
   ],
   food: [
     {
@@ -768,7 +773,7 @@ window.DESTINATIONS = [
     {
       "n": "Overleaf Lodge & Spa",
       "t": "Nice hotel · oceanfront resort",
-      "d": "The trip's headline stay — oceanfront rooms, on-site spa, and a path to the 804 Trail. Confirm secure motorcycle parking + family/passenger rules and BOOK FAR AHEAD (sells out for the 4th of July).",
+      "d": "The trip's headline \"nice hotel\" — oceanfront rooms, on-site spa, and a path straight onto the 804 Trail. Confirm secure motorcycle parking + family/passenger rules and book early (August is peak season).",
       "park": "On-site lot, oceanfront",
       "price": "$300–$500"
     },
@@ -796,7 +801,7 @@ window.DESTINATIONS = [
     {
       "n": "Yachats vacation rentals (cottages)",
       "t": "Vacation rental",
-      "d": "Cottages and beach houses are popular for families; verify on-site parking and full kitchen. Confirm motorcycle parking + family/passenger/child rules before booking, and reserve very early for the Fourth.",
+      "d": "Cottages and beach houses are popular for families; verify on-site parking and full kitchen. Confirm motorcycle parking + family/passenger/child rules before booking, and reserve early for August.",
       "park": "Driveway/varies",
       "price": "$200–$450"
     }
@@ -856,263 +861,131 @@ window.DESTINATIONS = [
   ]
 },
 {
-  id: "st-helens",
-  name: "Mount St. Helens",
+  id: "portland",
+  name: "Portland",
   jp: "",
-  region: "Cascades · Cowlitz County, WA",
-  type: "stop",
-  days: "Day 5 · 1 night (Sun Jul 5)",
-  legMiles: 217,
-  lat: 46.1912, lng: -122.1944, zoom: 9,
-  tagline: "The volcano that blew its top in 1980 — eruption stories, recovering forests and big Cascade views, the family's overnight on the long turn for home.",
+  region: "Willamette Valley · Multnomah County, OR",
+  type: "end",
+  days: "Day 7 · 1 night (Fri Aug 21)",
+  legMiles: 156,
+  lat: 45.51523, lng: -122.67839, zoom: 11,
+  tagline: "The Rose City finale — books the size of a city block, roses over the skyline, food carts on every corner, and one last night before the ride home.",
   intro: [
-    "Day 5 is the trip's pivot. After four days hugging the Oregon coast you point the bikes <b>inland and north toward home</b>, climbing out of Yachats over the Coast Range to Alsea and Corvallis, then crossing the <b>Columbia River</b> back into Washington and rolling up into the Cascade foothills. At roughly <b>217 miles it's the longest day of the tour</b> — a true transfer day — so the plan is steady backroad pace, frequent breaks, and an easy arrival rather than heroics. <b>Galiya's comfort on her W230 sets the rhythm</b>; there's no need to rush a single mile of it.",
-    "The reward at the end is a real, recently-active <b>volcano</b>. You overnight at the mountain's southwest gateway — the small towns of <b>Castle Rock, Toutle and Silver Lake</b> along WA-504 — which is where the lodging, diners and the always-open visitor center all are. <b>Aslan gets the big payoff here</b>: the story of the morning of <b>May 18, 1980</b>, when Mount St. Helens lost 1,300 feet of its summit in a sideways blast, flattened forests for miles, and sent ash around the planet. Day 6 then runs the Spirit Lake Highway viewpoints before continuing on to Packwood."
+    "After a week of surf, capes and rainforest, the trip's last overnight trades the coast for the <b>Rose City</b>. The Day-7 ride is its own reward: the flowing <b>Alsea Highway (OR-34)</b> climbs out of Yachats through the Coast Range along the Alsea River, drops into Corvallis for lunch, then wanders north on the Willamette Valley's quiet farm-and-vineyard roads — Independence, Amity, the <b>Dundee Hills wine country</b> around Newberg — and slips into Portland on the old 99W approach, freeway-free the whole way.",
+    "Portland is an easy, rewarding city for one family night: compact, walkable, and food-obsessed. <b>Galiya</b> gets one of America's great food cities (carts, Salt & Straw scoops, a serious dinner if wanted) and the <b>International Rose Test Garden</b> in bloom above the skyline; <b>Aslan</b> gets <b>Powell's City of Books</b> — a bookstore filling a whole city block — plus donuts and hotel-pool time; <b>Ruslan</b> gets a proper hotel bed, secure parking for the bikes, and a short, scenic morning line home past the <b>St. Johns Bridge</b> and up the Columbia. In August the roses are at their late-summer best and the evenings are warm — the right last-night victory lap."
   ],
   highlights: [
-    "<b>Spirit Lake Memorial Highway (WA-504) drive</b> — The scenic spine of the monument: ~50 miles of smooth, sweeping two-lane climbing from Silver Lake toward the blast zone, with pull-offs framing the crater. A relaxed, low-stress ride for a new rider, all viewpoint-to-viewpoint. (Best ridden on Day 6.)",
-    "<b>Mount St. Helens Visitor Center at Silver Lake</b> — The state-park center right on WA-504, <b>always open</b> and the must-do here: walk-in lava-tube model, a step-in scale model of the volcano, seismographs, and the 1980 eruption story told for all ages. <b>Aslan's favorite kind of place</b> — hands-on, kid-pitched, and a short boardwalk over Silver Lake's wetland with the mountain on the horizon.",
-    "<b>The 1980 eruption story</b> — On May 18, 1980 a magnitude-5.1 quake triggered the largest landslide in recorded history and a lateral blast that leveled 230 square miles of forest. Great campfire-grade history for a six-year-old: the bulging north flank, the sideways explosion, the ashfall that darkened nearby towns.",
-    "<b>Hoffstadt Bluffs (Mount St. Helens Visitor Center at Hoffstadt Bluffs)</b> — A privately-run overlook up WA-504 at about milepost 27 with sweeping valley views, eruption photo displays, a gift shop and helicopter flightseeing. A good leg-stretch and photo stop along the highway.",
-    "<b>Coldwater Lake</b> — A lake <b>created by the eruption</b> when debris dammed Coldwater Creek; calm water, an accessible \"Birth of a Lake\" boardwalk trail, and reflected mountain views. A flat, easy stop the whole family can do.",
-    "<b>Blast zone & the recovering forest</b> — From the upper viewpoints you can read the landscape: silvered downed logs, pumice plains, and decades of returning wildflowers, alder and elk — a living lesson in how a flattened forest comes back.",
-    "<b>Elk & wildlife viewing</b> — The Toutle River valley and meadows along WA-504 are prime <b>Roosevelt elk</b> habitat, especially early and late in the day; deer and raptors too. Eyes up for a herd from a pull-off.",
-    "<b>Johnston Ridge Observatory — CLOSED (do not drive there)</b> — Heads up: the famous Johnston Ridge Observatory and the upper end of WA-504 have been <b>closed since a May 2023 landslide and bridge washout</b> near milepost 49. Road rebuilding runs through fall 2026 and the observatory is not expected to reopen until ~2027. <b>Treat WA-504 as a roadside-viewpoint drive up to the closure point</b> — the Silver Lake, Hoffstadt Bluffs and Coldwater Lake stops are the highlights instead."
+    "<b>Powell's City of Books</b> — The world's largest independent bookstore, a full city block and nine color-coded rooms deep; the kids' room is a wonderland and the perfect place for Aslan's end-of-trip souvenir book (<b>the family's first stop in town</b>).",
+    "<b>International Rose Test Garden</b> — 10,000 rose bushes terraced above the city in Washington Park, free and gorgeous in late August, with the downtown skyline and (on a clear day) Mount Hood beyond (<b>Galiya's golden-hour stop</b>).",
+    "<b>Food-cart pods</b> — Portland's signature: whole blocks of food carts where everyone orders exactly what they want — the easiest possible family dinner (<b>picky-six-year-old-proof</b>).",
+    "<b>Salt & Straw / Portland donuts</b> — The famous scoop shop's inventive flavors, or a next-morning box from Blue Star or Pip's — the city's sweet-tooth institutions (<b>kid + foodie double win</b>).",
+    "<b>Tom McCall Waterfront Park & the bridges</b> — An easy evening stroll along the Willamette under the city's dozen bridges; the Steel Bridge and cherry-tree esplanade are steps from downtown hotels.",
+    "<b>St. Johns Bridge & Cathedral Park (on the way out)</b> — Day 8 rolls north under the 1931 gothic suspension towers — the most beautiful bridge in the city and the official start of the ride home (<b>photo stop</b>).",
+    "<b>OMSI (optional)</b> — The Oregon Museum of Science and Industry on the east bank: submarine tours, hands-on labs and a planetarium — the wet-weather ace for Aslan.",
+    "<b>Washington Park extras (optional)</b> — The Oregon Zoo, Hoyt Arboretum and the Japanese Garden all share the hill with the roses if the family wants a slow morning before the ride."
   ],
   food: [
     {
-      "n": "Patty's Place at 19 Mile House (Toutle)",
-      "d": "Longtime family-run roadhouse on the way up WA-504, known for elk and beef burgers, sweet-potato fries and homemade cobbler — a fitting end-of-a-long-day meal. (Recently rebranded; confirm current name/hours.)"
+      "n": "A food-cart pod dinner",
+      "d": "Pick a pod, graze the carts — tacos, ramen, wood-fired pizza, dumplings — everyone wins, nobody compromises; Portland's defining meal."
     },
     {
-      "n": "Fire Mountain Grill at Hoffstadt Bluffs (Toutle)",
-      "d": "Hand-pressed burgers (the \"Bigfoot\"), salads and cobbler with a wall-of-windows view of the mountain. Seasonal — confirm it's open before counting on it."
+      "n": "Salt & Straw (NW 23rd)",
+      "d": "The line is worth it: honey-lavender and sea-salt-caramel scoops from Portland's famous ice-cream makers."
     },
     {
-      "n": "Parker's Steakhouse & Brewery / local diners (Castle Rock)",
-      "d": "Castle Rock at the I-5 exit has straightforward American sit-down and diner options — easy, kid-simple plates (grilled cheese, burgers, fries) after 217 miles in the saddle."
+      "n": "Blue Star Donuts / Pip's Original",
+      "d": "Brioche donuts downtown or made-to-order minis with chai — the Day-8 breakfast send-off."
     },
     {
-      "n": "Coffee in Castle Rock",
-      "d": "Grab espresso at a local drive-through stand or café on Huntington Ave before the morning push up the Spirit Lake Highway. A foodie warm-up for Galiya and caffeine for the riders."
+      "n": "Grassa / handmade pasta downtown",
+      "d": "Casual fresh-pasta counter that keeps both a foodie and a six-year-old happy."
+    },
+    {
+      "n": "Jake's Famous Crawfish",
+      "d": "The 1892 Portland seafood institution — white tablecloths, Dungeness crab and a last chowder if the family wants a proper sit-down finale."
+    },
+    {
+      "n": "Von Ebert Brewing",
+      "d": "Ruslan's celebratory end-of-tour pint, with a real food menu and family seating."
     }
   ],
   hotels: [
     {
-      "n": "Silver Lake Resort (Silverlake)",
-      "t": "Lakeside resort (motel rooms & cabins)",
-      "d": "Lakeside motel rooms & cabins ~1 mi from the Silver Lake visitor center; kitchens, fishing decks. Confirm secure motorcycle parking + family/passenger rules before booking.",
-      "park": "Open lot / drive-up by units",
-      "price": "$130–$220"
+      "n": "The Nines",
+      "t": "Nice hotel · downtown luxury",
+      "d": "The polished downtown splurge atop the old Meier & Frank building, steps from Pioneer Courthouse Square. Confirm secure motorcycle parking (garage height/valet rules) + family rooms before booking.",
+      "park": "Valet/garage",
+      "price": "$300–$450"
     },
     {
-      "n": "Mount St. Helens Motel (Castle Rock)",
-      "t": "Motel",
-      "d": "Simple, family-run motel on Mt St Helens Way near I-5 exit 49. Confirm secure motorcycle parking + family/passenger rules before booking.",
-      "park": "Drive-up door parking",
-      "price": "$100–$160"
+      "n": "Kimpton Hotel Vintage Portland",
+      "t": "Nice hotel · boutique",
+      "d": "Wine-themed boutique downtown; kid- and pet-welcoming. Confirm secure motorcycle parking + family/passenger rules before booking.",
+      "park": "Valet/garage",
+      "price": "$250–$400"
     },
     {
-      "n": "Timberland Inn & Suites (Castle Rock)",
-      "t": "Motel / Inn",
-      "d": "Independent inn at 1271 Mt Saint Helens Way NE, walk to Castle Rock dining. Confirm secure motorcycle parking + family/passenger rules before booking.",
-      "park": "Off-street lot",
-      "price": "$120–$190"
+      "n": "Hotel deLuxe",
+      "t": "Boutique",
+      "d": "Old-Hollywood boutique near the Goose Hollow edge of downtown, an easy ride to Washington Park. Confirm secure motorcycle parking + family rules before booking.",
+      "park": "Valet/lot",
+      "price": "$200–$320"
     },
     {
-      "n": "Eco Park Resort (Toutle)",
-      "t": "Resort (cabins & yurts)",
-      "d": "Closest cabins/yurts to the mountain on WA-504, on-site café; rustic (some shared baths). Confirm secure motorcycle parking + family/passenger rules before booking.",
-      "park": "Drive-up gravel sites",
-      "price": "$120–$200"
+      "n": "Embassy Suites by Hilton Portland Downtown",
+      "t": "Family suites",
+      "d": "Two-room suites + free breakfast in the grand old Multnomah Hotel — the practical family pick. Confirm secure motorcycle parking + family rules before booking.",
+      "park": "Garage nearby",
+      "price": "$220–$350"
+    },
+    {
+      "n": "McMenamins Kennedy School (NE Portland)",
+      "t": "Quirky inn",
+      "d": "A 1915 elementary school turned hotel: soaking pool, movie theater in the old gym, easy free parking — Aslan sleeps in a classroom. Confirm secure motorcycle parking + family rules before booking.",
+      "park": "Free on-site lot",
+      "price": "$180–$280"
     }
   ],
   links: [
+    { "l": "Travel Portland (official tourism)", "u": "https://www.travelportland.com/" },
+    { "l": "Powell's City of Books", "u": "https://www.powells.com/" },
     {
-      "l": "Mount St. Helens National Volcanic Monument (USFS)",
-      "u": "https://www.fs.usda.gov/giffordpinchot/recreation/mount-st-helens"
+      "l": "International Rose Test Garden (Portland Parks)",
+      "u": "https://www.portland.gov/parks/washington-park-international-rose-test-garden"
     },
-    {
-      "l": "Mount St. Helens Visitor Center at Silver Lake (WA State Parks)",
-      "u": "https://parks.wa.gov/mount-st-helens-visitor-center"
-    },
-    {
-      "l": "Upper SR 504 / Johnston Ridge closure & rebuild (WSDOT)",
-      "u": "https://wsdot.wa.gov/construction-planning/search-projects/sr-504-south-coldwater-slide-spirit-lake-outlet-bridge-washout"
-    },
-    { "l": "Visit Mount St. Helens (Cowlitz County tourism)", "u": "https://www.visitmtsthelens.com/" },
-    { "l": "Silver Lake Resort", "u": "https://silverlake-resort.com/" },
-    { "l": "Mount St. Helens — Wikipedia", "u": "https://en.wikipedia.org/wiki/Mount_St._Helens" }
+    { "l": "OMSI — Oregon Museum of Science and Industry", "u": "https://omsi.edu/" },
+    { "l": "Wikipedia: Portland, Oregon", "u": "https://en.wikipedia.org/wiki/Portland,_Oregon" },
+    { "l": "Travel Oregon: Portland", "u": "https://traveloregon.com/places-to-go/cities/portland/" }
   ],
   photos: [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/MSH80_eruption_mount_st_helens_05-18-80-dramatic-edit.jpg/960px-MSH80_eruption_mount_st_helens_05-18-80-dramatic-edit.jpg",
-      "cap": "The iconic 1980 eruption plume — the story Aslan comes for."
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Portland_Oregon_Aerial%2C_June_2024.jpg/960px-Portland_Oregon_Aerial%2C_June_2024.jpg",
+      "cap": "Portland on the Willamette — the trip's one city night."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mount_St._Helens_over_Spirit_Lake_Highway.jpg/960px-Mount_St._Helens_over_Spirit_Lake_Highway.jpg",
-      "cap": "The crater seen from WA-504, the scenic spine of the monument."
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Portland_and_Mt_Hood.jpg/960px-Portland_and_Mt_Hood.jpg",
+      "cap": "The downtown skyline with Mount Hood floating behind."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mt._St._Helens_and_Spirit_Lake%2C_Washington_%281292082798%29.jpg/960px-Mt._St._Helens_and_Spirit_Lake%2C_Washington_%281292082798%29.jpg",
-      "cap": "The volcano above Spirit Lake, still rimmed with floating eruption logs."
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Portland_International_Rose_Test_Garden_-_HCP_-_October_15%2C_2022_-_012.jpg/960px-Portland_International_Rose_Test_Garden_-_HCP_-_October_15%2C_2022_-_012.jpg",
+      "cap": "The International Rose Test Garden, terraced above the city in Washington Park."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Mt_St_Helens_Spirit_Lake_2017_04.jpg/960px-Mt_St_Helens_Spirit_Lake_2017_04.jpg",
-      "cap": "The horseshoe crater mirrored in Spirit Lake."
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Rose_Test_Garden%2C_Portland%2C_Oregon_%282022%29_-_031.jpg/960px-International_Rose_Test_Garden%2C_Portland%2C_Oregon_%282022%29_-_031.jpg",
+      "cap": "10,000 rose bushes of ~650 varieties — the Rose City's namesake garden."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mt_St_Helens_Spirit_Lake_2017_01.jpg/960px-Mt_St_Helens_Spirit_Lake_2017_01.jpg",
-      "cap": "Recovering shoreline and the breached summit beyond."
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Cathedral_Park_St_Johns_Bridge_-_Portland_Oregon.jpg/960px-Cathedral_Park_St_Johns_Bridge_-_Portland_Oregon.jpg",
+      "cap": "The gothic towers of the St. Johns Bridge from Cathedral Park — Day 8's first photo stop."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Coldwater_Lake_9015.jpg/960px-Coldwater_Lake_9015.jpg",
-      "cap": "Coldwater Lake, created when the eruption dammed the creek."
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/St._Johns_Bridge%2C_Portland%2C_Oregon_%2822767178235%29.jpg/960px-St._Johns_Bridge%2C_Portland%2C_Oregon_%2822767178235%29.jpg",
+      "cap": "Portland's most beautiful bridge, on the US-30 line home."
     },
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Coldwater_Lake_%282010-08-19%29%2C_04.jpg/960px-Coldwater_Lake_%282010-08-19%29%2C_04.jpg",
-      "cap": "Still water and recovering ridges along the Birth of a Lake trail."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mt._St._Helens_eruption_aftermath%2C_elk_-_USACE-p15141coll5-17062.jpeg/960px-Mt._St._Helens_eruption_aftermath%2C_elk_-_USACE-p15141coll5-17062.jpeg",
-      "cap": "Elk grazing the recovering meadows — common along WA-504."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Mount_St._Helens_Summit_Panorama.jpg/960px-Mount_St._Helens_Summit_Panorama.jpg",
-      "cap": "Looking into the crater and across the Cascades."
-    }
-  ]
-},
-{
-  id: "rainier",
-  name: "Mount Rainier",
-  jp: "",
-  region: "Cascades · Lewis County, WA",
-  type: "stop",
-  days: "Day 6 · 1 night in Packwood (Mon Jul 6) · Day 7 park ride home",
-  legMiles: 85,
-  lat: 46.85272, lng: -121.7604, zoom: 9,
-  tagline: "The grand finale: a mountain-town base for the ride home through wildflower meadows and over an alpine pass.",
-  intro: [
-    "<b>Packwood</b> is a tiny logging-turned-tourism town strung along US-12 in the upper Cowlitz valley, ringed by national forest and shadowed by the 14,411-foot bulk of Mount Rainier just to the north. Herds of <b>Roosevelt elk and black-tailed deer</b> wander the streets and lawns at dawn and dusk, which delights kids; the pace is slow, the air is cool, and the mountain is everywhere. Arriving here mid-afternoon on Day 6 after a short, easy 85-mile run leaves time to settle in, refuel the bikes, grab a burger, and rest up — because this is the <b>base camp for the trip's capstone day</b>.",
-    "On Day 7 the family rides home <i>through</i> <b>Mount Rainier National Park's</b> south side, and the road itself is the reward: <b>Stevens Canyon Road</b> climbs from the SE entrance past <b>Box Canyon</b> and <b>Reflection Lakes</b> up to <b>Paradise</b>, where July brings the park's legendary wildflower bloom right to the roadside. From there it's down past <b>Narada Falls</b>, out the east side, and up the dramatic switchbacks of <b>Chinook Pass (WA-410)</b> at the alpine <b>Tipsoo Lake</b> before the long, satisfying descent through Enumclaw back to Woodinville. These are scenic, low-speed mountain roads — a confidence-building <b>graduation ride</b> for a newly-endorsed rider, not a white-knuckle one."
-  ],
-  highlights: [
-    "<b>Paradise wildflower meadows</b> — at peak in mid-to-late July, the subalpine meadows below the mountain explode with lupine, paintbrush, and avalanche lilies; the easy paved start of the <b>Skyline Trail</b> loops straight into them <b>[SCENIC]</b>",
-    "<b>Myrtle Falls</b> — a short, mostly-paved walk from Paradise to a classic waterfall framed perfectly by Mount Rainier behind it — the park's most-photographed view <b>[SCENIC]</b>",
-    "<b>Reflection Lakes</b> — roadside tarns on Stevens Canyon Road that mirror the whole mountain on a calm morning; pull over for the postcard shot <b>[SCENIC][RIDING]</b>",
-    "<b>Stevens Canyon Road</b> — the heart of the Day-7 ride: a serpentine, low-traffic mountain highway with tunnels, overlooks, and constant mountain views, climbing toward Paradise <b>[RIDING][SCENIC]</b>",
-    "<b>Box Canyon of the Cowlitz</b> — a quick stop where the river has cut a startlingly narrow, deep slot through the rock; a short loop trail crosses it",
-    "<b>Narada Falls</b> — a 168-foot tiered waterfall right beside the road, often throwing a rainbow in its mist; a steep but short path reaches the lower viewpoint <b>[SCENIC]</b>",
-    "<b>Chinook Pass & Tipsoo Lake</b> — the high point of the ride home on WA-410 at ~5,430 ft, with an alpine lake, wildflowers, and the famous arched footbridge over the highway; the pass normally clears of snow and reopens by <b>early July</b> <b>[RIDING][SCENIC]</b>",
-    "<b>Sunrise</b> (if open) — at 6,400 ft the highest point you can drive to in the park, with in-your-face north-side views of the mountain and marmots in the meadows; the road typically opens early-to-mid July, so check status <b>[SCENIC]</b>",
-    "<b>Packwood elk & town</b> — roaming elk and deer on the lawns at dawn/dusk, plus easy access to <b>Packwood Lake</b> (a forest-road + trail outing) for a quiet pre-ride evening"
-  ],
-  food: [
-    {
-      "n": "Cliff Droppers",
-      "d": "Packwood's beloved burger shack; big hand-formed burgers and fries that are an easy, crowd-pleasing dinner after the ride in"
-    },
-    {
-      "n": "Mountain Goat Coffee",
-      "d": "local espresso and pastries for an early Day-7 fuel-up before heading into the park"
-    },
-    {
-      "n": "Blue Spruce Saloon & Diner",
-      "d": "classic small-town pub grub and breakfasts, a reliable sit-down option in the center of town"
-    },
-    { "n": "Cruiser's Pizza", "d": "straightforward pizza and a kid-simple, no-fuss family dinner" },
-    {
-      "n": "Paradise Inn dining room",
-      "d": "inside the park, the historic lodge serves lunch; a memorable mid-ride stop on Day 7 (seasonal hours — check ahead)"
-    }
-  ],
-  hotels: [
-    {
-      "n": "Cowlitz River Lodge",
-      "t": "Lodge",
-      "d": "Comfortable AAA-rated lodge on US-12 with mountain views; confirm secure motorcycle parking + family/passenger rules before booking.",
-      "park": "Open lot at door",
-      "price": "$130–190"
-    },
-    {
-      "n": "Crest Trail Lodge",
-      "t": "Motel",
-      "d": "Simple, well-kept rooms central to town and walkable to food; confirm secure motorcycle parking + family/passenger rules before booking.",
-      "park": "Open lot at door",
-      "price": "$120–180"
-    },
-    {
-      "n": "Hotel Packwood",
-      "t": "Historic Inn",
-      "d": "Charming budget 1912 inn with shared/character rooms; confirm secure motorcycle parking + family/passenger rules before booking.",
-      "park": "Street / lot",
-      "price": "$70–120"
-    },
-    {
-      "n": "Packwood Lodge & Cabins",
-      "t": "Lodge / Cabins",
-      "d": "Cabins and rooms good for families wanting more space; confirm secure motorcycle parking + family/passenger rules before booking.",
-      "park": "On-site",
-      "price": "$150–250"
-    },
-    {
-      "n": "Paradise Inn (in park)",
-      "t": "Historic Lodge",
-      "d": "Iconic 1916 lodge inside the park at Paradise — books out far ahead and is well off the route home; confirm secure motorcycle parking + family/passenger rules before booking.",
-      "park": "Park lot",
-      "price": "$200–350"
-    }
-  ],
-  links: [
-    { "l": "Mount Rainier National Park (NPS)", "u": "https://www.nps.gov/mora/index.htm" },
-    { "l": "Visit Rainier — regional travel guide", "u": "https://visitrainier.com/" },
-    { "l": "Destination Packwood", "u": "https://destinationpackwood.com/" },
-    {
-      "l": "WSDOT — Chinook Pass (SR-410) pass report",
-      "u": "https://wsdot.com/travel/real-time/mountainpasses/chinook"
-    },
-    {
-      "l": "Wikipedia — Mount Rainier National Park",
-      "u": "https://en.wikipedia.org/wiki/Mount_Rainier_National_Park"
-    }
-  ],
-  photos: [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tipsoo_Lake_wildflowers_-_48607493656.jpg/960px-Tipsoo_Lake_wildflowers_-_48607493656.jpg",
-      "cap": "July wildflowers at Tipsoo Lake near Chinook Pass"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Reflection_Lakes%2C_Mt_Rainier_%2848656886908%29.jpg/960px-Reflection_Lakes%2C_Mt_Rainier_%2848656886908%29.jpg",
-      "cap": "Reflection Lakes mirroring the mountain on Stevens Canyon Road"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tipsoo_Lake_And_Yakima_Peak_%28231590909%29.jpeg/960px-Tipsoo_Lake_And_Yakima_Peak_%28231590909%29.jpeg",
-      "cap": "Alpine Tipsoo Lake at Chinook Pass"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Myrtle_Falls_and_Mount_Rainier.jpg/960px-Myrtle_Falls_and_Mount_Rainier.jpg",
-      "cap": "Myrtle Falls framed by Mount Rainier at Paradise"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Narada_Falls.jpg/960px-Narada_Falls.jpg",
-      "cap": "The tiered Narada Falls beside the park road"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Stevens_Canyon%2C_Mount_Rainier_-_Flickr_-_brewbooks.jpg/960px-Stevens_Canyon%2C_Mount_Rainier_-_Flickr_-_brewbooks.jpg",
-      "cap": "The mountain from Stevens Canyon Road"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Chinook_Pass_panorama_7538.jpg/960px-Chinook_Pass_panorama_7538.jpg",
-      "cap": "The alpine landscape at Chinook Pass on WA-410"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mount_Rainier_and_lake_reflection.jpg/960px-Mount_Rainier_and_lake_reflection.jpg",
-      "cap": "Mount Rainier mirrored in a still mountain lake"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mount_Rainier_from_above_Myrtle_Falls_in_August.JPG/960px-Mount_Rainier_from_above_Myrtle_Falls_in_August.JPG",
-      "cap": "The mountain above the subalpine meadows near Paradise"
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/PowellsBookstore.jpg/960px-PowellsBookstore.jpg",
+      "cap": "Powell's City of Books — a bookstore the size of a city block."
     }
   ]
 }
@@ -1120,70 +993,70 @@ window.DESTINATIONS = [
 
 window.HOME = { city: "Woodinville", state: "WA" };
 window.FLIGHTS = {
-  "intro": "There are no flights and no rental counters — this tour starts in your own garage in Woodinville and ends there a week later. The only logistics are a tank of gas, a packed top-box, and the Edmonds–Kingston ferry that opens Day 1. It's a deliberately simple round trip, designed so a brand-new rider can focus on the riding, not the paperwork.",
-  "season": "Depart Wednesday 1 July 2026, home Tuesday 7 July — seven days. Early July is prime Pacific Northwest touring weather: long daylight, dry mountain passes (Chinook Pass is open) and the warmest the coast gets. The catch is the Fourth-of-July crowds — the rest day lands on the 4th in Yachats, so book all coast lodging months ahead.",
+  "intro": "There are no flights and no rental counters — this tour starts in your own garage in Woodinville and ends there eight days later. The only logistics are a tank of gas, a packed top-box, and the Edmonds–Kingston ferry that opens Day 1. It's a deliberately simple grand loop, designed so a still-new rider can focus on the riding — and so almost every night (safari tent, pier hotel, geodesic dome, oceanfront lodge, city hotel) is its own small adventure.",
+  "season": "Depart Saturday 15 August 2026, home Saturday 22 August — eight days, seven nights. Mid-August is the Pacific Northwest's driest, warmest window: morning marine fog burns off by late morning, resident gray whales feed off Depoe Bay, and Portland's roses are in late-summer bloom. The catch is peak season — book every coast night and both glamping camps well ahead.",
   "legs": [
     {
-      "dir": "Outbound · down the coast",
+      "dir": "Outbound · the peninsula & the coast",
       "from": "Home · Woodinville, WA",
-      "to": "Yachats, OR (the ★ base)",
-      "sample": "Days 1–3 · Wed 1 – Fri 3 Jul 2026",
+      "to": "Yachats, OR (the ★ hotel base)",
+      "sample": "Days 1–5 · Sat 15 – Wed 19 Aug 2026",
       "type": "Ride + ferry",
-      "duration": "≈ 436 mi over 3 gentle days",
-      "note": "A short ride to the Edmonds waterfront, the ferry across Puget Sound, then quiet roads down Hood Canal and the whole length of the Washington and Oregon coast on Highway 101 — Westport and Astoria overnights, Tillamook cheese and the Three Capes en route to the Yachats base. No freeways, breaks every 60–90 minutes."
+      "duration": "≈ 570 mi over 5 days (2-night glamping base en route)",
+      "note": "The ferry across Puget Sound, then US-101 around the wild Olympic Peninsula — Lake Crescent, a Forks safari tent, Ruby Beach — down the Long Beach Peninsula to Astoria's Cannery Pier, and the whole northern Oregon coast to the Two Capes Lookout domes and Yachats. No freeways, breaks every 60–90 minutes."
     },
     {
-      "dir": "Return · over the mountains",
+      "dir": "Return · the valley & the Columbia",
       "from": "Yachats, OR",
       "to": "Home · Woodinville, WA",
-      "sample": "Days 5–7 · Sun 5 – Tue 7 Jul 2026",
+      "sample": "Days 7–8 · Fri 21 – Sat 22 Aug 2026",
       "type": "Ride",
-      "duration": "≈ 534 mi over 3 days",
-      "note": "The loop turns inland: across the Coast Range and the Columbia to Mount St. Helens, a short day to Packwood, then the graduation ride home through Mount Rainier National Park over Chinook Pass. The longest single day (~216 mi to St. Helens) is broken with frequent stops."
+      "duration": "≈ 376 mi over 2 days",
+      "note": "The loop turns inland: the flowing Alsea Highway over the Coast Range, the 99W wine country to a Portland city night, then US-30 up the Columbia and the Rainier-foothill backroads home. The longest day (~220 mi, Day 8) follows a two-rest-day week and an easy city evening."
     }
   ],
-  "estimate": "Budget is modest: gas for two bikes over ~970 miles, six nights of lodging (the Yachats oceanfront stay is the splurge; coast motels and Packwood lodges are cheaper), the Edmonds–Kingston ferry (~$9 per motorcycle + rider), and a Mount Rainier National Park entry pass (or the America the Beautiful annual pass). Food is the fun line item — see the Coast Food Trail.",
+  "estimate": "Budget is modest: gas for two bikes over ~975 miles, seven nights of lodging (the Cannery Pier and the Yachats oceanfront are the splurges; the glamping camps sit in between), the Edmonds–Kingston ferry (~$9 per motorcycle + rider), and small site fees (Cape Lookout day-use, Sea Lion Caves). Food is the fun line item — see the Coast Food Trail.",
   "tips": [
-    "Book all coast lodging months ahead — the Fourth-of-July weekend sells Yachats and the whole coast out early.",
-    "The Kawasaki W230's tank is small (~3.4 gal) — top up at every reasonable chance; fuel is sparse on the coast and around the mountains.",
-    "Pack for everything: cold coastal fog and wind, possible rain, and alpine chill at Chinook Pass — layers and waterproofs for all three.",
-    "Pair the intercoms before Day 1; Galiya rides up front and sets the pace, with Aslan and the GS behind.",
-    "Check WSDOT for Chinook Pass (SR-410) status and the Mount Rainier timed-entry reservation system before Days 6–7."
+    "Book everything months ahead — August is peak season, and the safari tent, the Two Capes domes and oceanfront Yachats all sell out.",
+    "The Kawasaki W230's tank is small (~3.4 gal) — top up at every reasonable chance; fuel is sparse on the Olympic west end and the backroad legs.",
+    "Pack for two climates: cool, foggy coast mornings AND warm valley afternoons — layers, waterproofs, and sun cream all get used.",
+    "Confirm the guest count, child fit and bedding at both glamping camps before riding out, and carry side-stand pucks for soft ground.",
+    "Pair the intercoms before Day 1; Galiya rides up front and sets the pace, with Aslan and the GS behind. Leave Portland before rush hour both ways."
   ],
   "links": [
     {
       "l": "Washington State Ferries — Edmonds/Kingston",
       "u": "https://wsdot.wa.gov/travel/washington-state-ferries/schedules/edmonds-kingston"
     },
-    { "l": "Mount Rainier National Park (NPS)", "u": "https://www.nps.gov/mora/index.htm" },
-    { "l": "Mount St. Helens National Volcanic Monument", "u": "https://www.fs.usda.gov/mountsthelens" },
-    { "l": "WSDOT — mountain pass reports (Chinook Pass)", "u": "https://wsdot.com/travel/real-time/mountainpasses" },
+    { "l": "Olympic National Park (NPS)", "u": "https://www.nps.gov/olym/index.htm" },
+    { "l": "Two Capes Lookout (glamping)", "u": "https://www.twocapeslookout.com/" },
     { "l": "Visit the Oregon Coast", "u": "https://visittheoregoncoast.com/" },
-    { "l": "Visit Yachats", "u": "https://yachats.org/" }
+    { "l": "Visit Yachats", "u": "https://yachats.org/" },
+    { "l": "Travel Portland", "u": "https://www.travelportland.com/" }
   ]
 };
 
-/* Day-by-day schedule (Day 1–7). day.html builds a timed routine per day. */
+/* Day-by-day schedule (Day 1–8). day.html builds a timed routine per day. */
 window.DAYS = [
 {
     "d": 1,
-    "id": "westport",
-    "miles": 176,
-    "dmin": 275,
+    "id": "forks",
+    "miles": 140,
+    "dmin": 241,
     "ferry": true,
     "rest": false,
-    "region": "Puget Sound → Washington Coast",
-    "title": "Ferry, Fjord & First Miles",
-    "route": "Woodinville → Edmonds–Kingston ferry → Hood Canal (Hama Hama oysters) → Westport",
-    "desc": "The trip begins the gentle way. Ride the short hop from Woodinville to the Edmonds waterfront and roll the bikes onto the Edmonds–Kingston ferry — a calm half-hour across Puget Sound that skips Seattle's traffic entirely and lets Galiya settle in before the first real miles. From Kingston, quiet two-lane roads trace the west shore of Hood Canal, the long glacial fjord with the Olympics rising across the water — with a stop at the family's favourite, the Hama Hama Oyster Saloon in Lilliwaup, for a fresh oyster lunch right on the water. Then drop south through Shelton to Aberdeen and out to the Pacific at Westport. It's a forgiving, scenic first day built around the ferry break and frequent stops — the W230's confidence-building shakedown and Aslan's easy introduction to life on the back of the GS. Arrive at the salty fishing-and-surf town of Westport with the afternoon to walk the marina and climb the lighthouse.",
-    "tags": ["ride", "skill", "scenic", "food", "kid"],
+    "region": "Puget Sound → Olympic Peninsula",
+    "title": "Ferry to the Rainforest",
+    "route": "Woodinville → Edmonds–Kingston ferry → Port Angeles → Lake Crescent → Forks",
+    "desc": "The trip begins the gentle way. Ride the short hop from Woodinville to the Edmonds waterfront and roll the bikes onto the Edmonds–Kingston ferry — a calm half-hour across Puget Sound that skips Seattle's traffic entirely and lets Galiya settle in before the first real miles. From Kingston, quiet two-lanes pass the preserved 1850s mill town of Port Gamble and cross the floating Hood Canal Bridge onto the Olympic Peninsula. US-101 runs the north side through Sequim to a Port Angeles chowder lunch, then delivers the day's showstopper: ten miles right along the shore of fjord-blue Lake Crescent beneath Mount Storm King. The last hour rolls south through the timber country to Forks — Twilight town — where a canvas safari tent under giant spruce is the trip's first glamping night. Aslan gets a real expedition camp; the riders get an easy, spectacular 140-mile opener with no freeways anywhere.",
+    "tags": ["ride", "skill", "scenic", "kid"],
     "gfrom": "Woodinville, WA",
-    "gto": "Westport, WA",
-    "gvia": "Edmonds Ferry Terminal, Edmonds, WA|Hama Hama Oyster Saloon, Lilliwaup, WA|Hoodsport, WA|Aberdeen, WA",
+    "gto": "Forks, WA",
+    "gvia": "Edmonds Ferry Terminal, Edmonds, WA|Port Gamble, WA|Port Angeles, WA|Lake Crescent, WA",
     "poi": [
       {
         "name": "Edmonds–Kingston Ferry",
-        "what": "Roll the bikes aboard for a ~30-minute Puget Sound crossing — the relaxed, traffic-free start to the tour and Galiya's first ferry load-on. Aim for the <b>10:20 AM</b> summer sailing (Wed Jul 1; weekday departures run 9:35 / 10:20 / 11:05 / 11:55 AM) and arrive ~15 min early — motorcycles load first. No reservation needed for bikes.",
+        "what": "Roll the bikes aboard for a ~30-minute Puget Sound crossing — the relaxed, traffic-free start to the tour. Motorcycles stage and load first; arrive ~20 min early, no reservation needed for bikes.",
         "q": "Edmonds Ferry Terminal, Edmonds, WA",
         "slot": "activity",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Washington_State_Ferry_MV_Spokane_at_the_Edmonds_Ferry_Terminal_01.jpg/960px-Washington_State_Ferry_MV_Spokane_at_the_Edmonds_Ferry_Terminal_01.jpg",
@@ -1192,247 +1065,228 @@ window.DAYS = [
         "kid": true
       },
       {
-        "name": "Hama Hama Oyster Saloon",
-        "what": "The family's favourite Hood Canal stop — just-shucked oysters (raw, grilled, or fried in a po'boy) and steamer clams at the Hama Hama oyster farm's roadside saloon in Lilliwaup, right on US-101 over the water. The perfect first-day lunch; check the seasonal days/hours before you count on it.",
-        "q": "Hama Hama Oyster Saloon, Lilliwaup, WA",
-        "slot": "lunch",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hood_Canal_Bridge.jpg/960px-Hood_Canal_Bridge.jpg",
-        "it": ["food", "scenic"]
-      },
-      {
-        "name": "Hood Canal",
-        "what": "Quiet shoreline two-lanes along the long glacial fjord, the Olympic Mountains across the water — easy, gorgeous riding to build confidence on Day 1.",
-        "q": "Hoodsport, WA",
-        "slot": "scenic",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hood_Canal_Overlook_5869.jpg/960px-Hood_Canal_Overlook_5869.jpg",
-        "wiki": "https://en.wikipedia.org/wiki/Hood_Canal",
-        "it": ["scenic", "coast", "skill"]
-      },
-      {
-        "name": "Aberdeen & Grays Harbor",
-        "what": "Coffee and a fuel stop at the harbor city (Kurt Cobain's hometown) before the last run out to the coast.",
-        "q": "Aberdeen, WA",
+        "name": "Port Gamble",
+        "what": "A perfectly preserved New-England-style 1850s mill town on the bluff above the bay — coffee, a general store from another century, and the first leg-stretch.",
+        "q": "Port Gamble, WA",
         "slot": "coffee",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Woodinville_WA_-_Sammamish_River_Trail.jpg/960px-Woodinville_WA_-_Sammamish_River_Trail.jpg",
-        "it": ["food", "coast"]
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kingston%2C_Washington_ferry_dock_02.jpg/960px-Kingston%2C_Washington_ferry_dock_02.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Port_Gamble,_Washington",
+        "it": ["history", "scenic", "food"]
       },
       {
-        "name": "Grays Harbor Lighthouse",
-        "what": "Washington's tallest lighthouse, on arrival in Westport — a fitting first landmark of the Pacific.",
-        "q": "Grays Harbor Lighthouse, Westport, WA",
+        "name": "Port Angeles",
+        "what": "Lunch and fuel on the Strait of Juan de Fuca — the last real services before the wild west end. Yodelin's chowder bowls are the pick.",
+        "q": "Port Angeles, WA",
+        "slot": "lunch",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Lake_Crescent_Lodge_WA.JPG/960px-Lake_Crescent_Lodge_WA.JPG",
+        "wiki": "https://en.wikipedia.org/wiki/Port_Angeles,_Washington",
+        "it": ["food"]
+      },
+      {
+        "name": "Lake Crescent",
+        "what": "US-101 hugs the shore of the deep, glacial-blue lake for ~10 miles under Mount Storm King — the scenic highlight of Day 1. Pull off at Barnes Point for the classic lodge-lawn view.",
+        "q": "Lake Crescent, WA",
         "slot": "scenic",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Grays_Harbor_%28Westport%29_Lighthouse_01.jpg/960px-Grays_Harbor_%28Westport%29_Lighthouse_01.jpg",
-        "wiki": "https://en.wikipedia.org/wiki/Grays_Harbor_Light",
-        "it": ["lighthouse", "coast"]
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mount_Storm_King_and_Lake_Crescent_seen_from_Highway_101.jpg/960px-Mount_Storm_King_and_Lake_Crescent_seen_from_Highway_101.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Lake_Crescent",
+        "it": ["scenic", "moto", "lighthouse"]
       },
       {
-        "name": "Westhaven State Park",
-        "what": "Westport's surf beach and south jetty — a leg-stretch on the sand to celebrate reaching the ocean on day one.",
-        "q": "Westhaven State Park, Westport, WA",
+        "name": "Forks & the safari tent",
+        "what": "Arrive in the logging-town-turned-Twilight-town, grab the 'Welcome to Forks' photo and the Timber Museum, then check into the canvas safari tent under the spruce — the night IS the activity.",
+        "q": "Forks, WA",
         "slot": "activity",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Westport%2C_WA_-_beach_scene.jpg/960px-Westport%2C_WA_-_beach_scene.jpg",
-        "it": ["coast", "kid"],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Twilight_signs_in_Forks%2C_Washington.JPG/960px-Twilight_signs_in_Forks%2C_Washington.JPG",
+        "wiki": "https://en.wikipedia.org/wiki/Forks,_Washington",
+        "it": ["kid", "history"],
         "kid": true
-      }
-    ],
-    "foodTrail": [
-      {
-        "style": "Dungeness crab & fish-and-chips",
-        "shop": "Bennett's Fish Shack",
-        "shopUrl": "https://www.google.com/maps/search/?api=1&query=Bennett%27s%20Fish%20Shack%20Westport%20WA",
-        "city": "Westport",
-        "slot": "dinner"
       }
     ],
     "eats": [
       {
-        "slot": "coffee",
-        "area": "Edmonds waterfront",
+        "slot": "breakfast",
+        "area": "Woodinville / Edmonds (before the boat)",
         "picks": [
           {
-            "name": "Walnut Street Coffee",
-            "cuisine": "coffee / espresso & pastries",
-            "rating": 4.7,
-            "why": "Ruslan & Galiya — top-rated local espresso to start the trip; grab a pastry for Aslan",
-            "kid": false,
-            "map": "https://maps.google.com/?cid=9866092700006776997",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Cappuccino_at_Sightglass_Coffee.jpg/960px-Cappuccino_at_Sightglass_Coffee.jpg"
-          },
-          {
-            "name": "Waterfront Coffee Company",
-            "cuisine": "coffee / cafe",
-            "rating": 4.6,
-            "why": "Ruslan — right by the ferry dock, easy in-and-out before boarding",
-            "kid": false,
-            "map": "https://maps.google.com/?cid=16325238489058569722"
+            "name": "Downtown Edmonds bakeries",
+            "cuisine": "coffee & pastries near the dock",
+            "rating": 4.5,
+            "why": "Ruslan & Galiya — a proper sit-down a few blocks up from the terminal while waiting for the sailing",
+            "kid": true,
+            "map": "https://www.google.com/maps/search/?api=1&query=bakery+downtown+Edmonds+WA",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Caffe_Latte_cup.jpg/960px-Caffe_Latte_cup.jpg"
           }
         ]
       },
       {
         "slot": "lunch",
-        "area": "Hama Hama Oyster Saloon · Lilliwaup (on Hood Canal)",
+        "area": "Port Angeles",
         "picks": [
           {
-            "name": "Hama Hama Oyster Saloon",
-            "cuisine": "oysters / Hood Canal seafood",
-            "cuisine_note": "the family favourite",
-            "rating": 4.6,
-            "why": "Ruslan & Galiya — your favourite stop: just-shucked Hood Canal oysters (raw, grilled or fried) and chowder, right on the water at the oyster farm",
-            "kid": false,
-            "map": "https://www.google.com/maps/search/?api=1&query=Hama+Hama+Oyster+Saloon+Lilliwaup+WA",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Pacific_oysters.jpg/960px-Pacific_oysters.jpg"
+            "name": "Yodelin Broth Company",
+            "cuisine": "chowders, broth bowls & seafood",
+            "rating": 4.7,
+            "why": "Galiya — the town's best-loved bowl of chowder, warm after the Strait's breeze",
+            "kid": true,
+            "map": "https://www.google.com/maps/search/?api=1&query=Yodelin+Broth+Company+Port+Angeles",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cup_of_clam_chowder%2C_with_saltines.jpg/960px-Cup_of_clam_chowder%2C_with_saltines.jpg"
           },
           {
-            "name": "Hama Hama Saloon — non-oyster plates",
-            "cuisine": "fries, clam chowder, simple plates",
-            "rating": 4.6,
-            "why": "Aslan — the saloon has fries, chowder and non-oyster bites; the menu is oyster-focused, so pack a snack as backup",
+            "name": "Dead Low Pizza Company",
+            "cuisine": "pizza by the slice",
+            "rating": 4.9,
+            "why": "Aslan — the simplest, best-rated kid win in Port Angeles",
             "kid": true,
-            "map": "https://www.google.com/maps/search/?api=1&query=Hama+Hama+Oyster+Saloon+Lilliwaup+WA",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cup_of_clam_chowder%2C_with_saltines.jpg/960px-Cup_of_clam_chowder%2C_with_saltines.jpg"
+            "map": "https://www.google.com/maps/search/?api=1&query=Dead+Low+Pizza+Port+Angeles",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/960px-Eq_it-na_pizza-margherita_sep2005_sml.jpg"
+          },
+          {
+            "name": "Downriggers on the Water",
+            "cuisine": "waterfront seafood & burgers",
+            "rating": 4.3,
+            "why": "whole family — harbor-view sit-down with a kids' menu if the day wants a longer break",
+            "kid": true,
+            "map": "https://www.google.com/maps/search/?api=1&query=Downriggers+on+the+Water+Port+Angeles"
           }
         ]
       },
       {
         "slot": "dinner",
-        "area": "Westport marina",
+        "area": "Forks",
         "picks": [
           {
-            "name": "Blue Buoy",
-            "cuisine": "fresh seafood / Pacific Northwest",
-            "rating": 4.5,
-            "why": "Galiya — celebratory fresh-off-the-boat Westport seafood right at the marina",
-            "kid": false,
-            "map": "https://maps.google.com/?cid=3139538248414449400",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cup_of_clam_chowder%2C_with_saltines.jpg/960px-Cup_of_clam_chowder%2C_with_saltines.jpg"
-          },
-          {
-            "name": "Bennett's Fish Shack",
-            "cuisine": "fish & chips / family seafood",
-            "rating": 4.3,
-            "why": "Aslan — classic fish & chips, burgers and fries; busy, casual, kid-easy harbor favorite",
+            "name": "Blakeslees Bar and Grill",
+            "cuisine": "burgers, steaks & family grill",
+            "rating": 4.1,
+            "why": "whole family — Forks' reliable sit-down with a kids' menu; big portions after a big day",
             "kid": true,
-            "map": "https://maps.google.com/?cid=688763201149346829",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Fish_and_Chips_Bath%2C_UK.jpg/960px-Fish_and_Chips_Bath%2C_UK.jpg"
+            "map": "https://www.google.com/maps/search/?api=1&query=Blakeslees+Bar+and+Grill+Forks+WA",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cheeseburger_and_Fries_2.jpg/960px-Cheeseburger_and_Fries_2.jpg"
           },
           {
-            "name": "Merino's Seafood Market",
-            "cuisine": "seafood market / cooked-to-order crab & shrimp",
-            "rating": 4.7,
-            "why": "Ruslan & Galiya — buy fresh Dungeness crab and cocktails dockside; the most local option",
+            "name": "Sully's Drive-In",
+            "cuisine": "burger shack & milkshakes",
+            "rating": 4.3,
+            "why": "Aslan — the Twilight-famous 'Bella Burger' and a milkshake; quick and fun",
+            "kid": true,
+            "map": "https://www.google.com/maps/search/?api=1&query=Sully's+Drive-In+Forks+WA",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/NCI_Visuals_Food_Hamburger.jpg/960px-NCI_Visuals_Food_Hamburger.jpg"
+          },
+          {
+            "name": "Marble & Oak",
+            "cuisine": "Pacific Northwest bistro",
+            "rating": 4.3,
+            "why": "Galiya — Forks' newest and nicest table if the family wants a real dinner out",
             "kid": false,
-            "map": "https://maps.google.com/?cid=17492398225141631717"
+            "map": "https://www.google.com/maps/search/?api=1&query=Marble+and+Oak+Forks+WA"
           }
         ]
       }
     ],
     "localTodo": [
       {
-        "time": "10:20 AM",
-        "name": "Edmonds–Kingston Ferry",
-        "what": "the trip's first big moment — catch the 10:20 AM summer sailing (weekday departures: 9:35/10:20/11:05/11:55 AM; ~30-min crossing). No reservation for bikes — arrive ~15 min early, motorcycles load first",
-        "map": "https://www.google.com/maps/search/?api=1&query=Edmonds+Ferry+Terminal+WA"
+        "time": "~10:00",
+        "name": "Edmonds–Kingston ferry",
+        "what": "roll the bikes on early — motorcycles stage first; ~30 min across Puget Sound with the Olympics ahead",
+        "map": "https://www.google.com/maps/search/?api=1&query=Edmonds+Ferry+Terminal"
       },
       {
-        "time": "~11:30",
-        "name": "Hood Canal / US-101",
-        "what": "flowing fjord-side cruise — easy paved sweepers along the water, perfect first-day riding",
-        "map": "https://www.google.com/maps/search/?api=1&query=Hood+Canal+US-101+Washington"
+        "time": "~11:00",
+        "name": "Port Gamble",
+        "what": "a perfectly preserved 1850s New-England-style mill town on the bluff — coffee, general store and a leg-stretch",
+        "map": "https://www.google.com/maps/search/?api=1&query=Port+Gamble+WA"
+      },
+      {
+        "time": "~14:30",
+        "name": "Lake Crescent (Barnes Point / Lake Crescent Lodge)",
+        "what": "US-101 rides the shore of the fjord-blue lake for ~10 miles; stop at the lodge lawn for the Mount Storm King view",
+        "map": "https://www.google.com/maps/search/?api=1&query=Lake+Crescent+Lodge"
       },
       {
         "time": "~16:15",
-        "name": "Westport Marina & Float 20",
-        "what": "stroll the working harbor and watch the fishing boats unload; toy/souvenir shops nearby for Aslan",
-        "map": "https://www.google.com/maps/search/?api=1&query=Westport+Marina+WA"
+        "name": "Forks Timber Museum & the Forks sign",
+        "what": "the town's logging century in one small museum, plus the 'Welcome to Forks' Twilight photo op next door",
+        "map": "https://www.google.com/maps/search/?api=1&query=Forks+Timber+Museum"
       },
       {
-        "time": "~16:45",
-        "name": "Westport Light State Park / Dune Trail",
-        "what": "short paved walk to the lighthouse and beach to stretch legs after the ride",
-        "map": "https://www.google.com/maps/search/?api=1&query=Westport+Light+State+Park+WA"
+        "time": "~17:00",
+        "name": "The safari tent",
+        "what": "check in, park the bikes on solid ground (side-stand pucks), and let Aslan claim his expedition bed before dinner",
+        "map": "https://www.google.com/maps/search/?api=1&query=Forks+WA"
       }
     ]
   },
 {
     "d": 2,
-    "id": "cannon-beach",
-    "miles": 125,
-    "dmin": 173,
+    "id": "astoria",
+    "miles": 200,
+    "dmin": 258,
     "rest": false,
-    "region": "Washington Coast → Oregon",
-    "title": "Across the Columbia to Cannon Beach",
-    "route": "Westport → Long Beach → Astoria → Cannon Beach",
-    "desc": "A relaxed second day with a beach payoff. Roll south through the oyster country of South Bend and Raymond, out onto the Long Beach Peninsula — one of the longest drivable beaches in the world — past the windswept headland of Cape Disappointment, then over the Astoria–Megler Bridge (four-plus miles across the mighty Columbia into Oregon). Spend the afternoon in Astoria, a hilly Victorian riverport full of kid wins — the Astoria Column with its balsa-glider launch, barking sea lions on the docks, and the excellent Columbia River Maritime Museum — then drop the last ~25 miles south to sleep at Cannon Beach, right under the 235-foot Haystack Rock. Wake up on the beach.",
-    "tags": ["ride", "kid", "history", "coast"],
-    "gfrom": "Westport, WA",
-    "gto": "Cannon Beach, OR",
-    "gvia": "Raymond, WA|Long Beach, WA|Astoria, OR",
+    "region": "Olympic Coast → Columbia",
+    "title": "Ruby Beach & the Long Coast",
+    "route": "Forks → Ruby Beach → Kalaloch → Lake Quinault → Long Beach → Astoria",
+    "desc": "The trip's longest ride, made easy by what it's made of: beach stops. Twenty-five minutes south of the tent, US-101 touches the Pacific at Ruby Beach — sea stacks, drift-log jumbles and Abbey Island in the morning mist, the whole reason last night was Forks. The highway rides the wild Olympic coast past the Kalaloch bluffs and the gravity-defying Tree of Life, turns inland through the rainforest at Lake Quinault (coffee at the 1926 lodge), then runs south through Aberdeen into the oyster country of Raymond and Willapa Bay. A leg-stretch on the Long Beach Peninsula, and then the grand finale: the soaring 4-mile Astoria–Megler Bridge over the mouth of the Columbia into Oregon — with the Cannery Pier Hotel & Spa waiting on its stilts practically underneath it, ships sliding past the bedroom windows.",
+    "tags": ["ride", "coast", "scenic", "kid"],
+    "gfrom": "Forks, WA",
+    "gto": "Astoria, OR",
+    "gvia": "Ruby Beach, WA|Kalaloch, WA|Lake Quinault, Amanda Park, WA|Aberdeen, WA|Long Beach, WA",
     "poi": [
       {
-        "name": "South Bend & Raymond",
-        "what": "Oyster-country leg-stretch along Willapa Bay — 'the Oyster Capital of the World' — on quiet Highway 101.",
-        "q": "Raymond, WA",
+        "name": "Ruby Beach",
+        "what": "The famous Olympic National Park beach — sea stacks, tide pools, drift logs and Abbey Island — walked fresh in the morning before the crowds. The headline stop of the whole peninsula run.",
+        "q": "Ruby Beach, WA",
+        "slot": "scenic",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Abbey_Island_at_Ruby_Beach.jpg/960px-Abbey_Island_at_Ruby_Beach.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Ruby_Beach",
+        "it": ["coast", "scenic", "kid"],
+        "kid": true
+      },
+      {
+        "name": "Kalaloch & the Tree of Life",
+        "what": "Bluff-top beaches and the famous Sitka spruce clinging over its washed-out root cave — a two-minute walk from the campground lot and a guaranteed 'whoa' from a six-year-old.",
+        "q": "Kalaloch, WA",
+        "slot": "scenic",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ruby_Beach_rocks_on_the_Washington_coast.jpg/960px-Ruby_Beach_rocks_on_the_Washington_coast.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Kalaloch,_Washington",
+        "it": ["coast", "kid"],
+        "kid": true
+      },
+      {
+        "name": "Lake Quinault",
+        "what": "The rainforest lake and its 1926 lodge — coffee on the lake lawn, giant trees all around; the classic mid-morning break before the long southbound leg.",
+        "q": "Lake Quinault, Amanda Park, WA",
         "slot": "coffee",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Lk_Quinault_%28frm_east%29_1316.jpg/960px-Lk_Quinault_%28frm_east%29_1316.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Lake_Quinault",
+        "it": ["scenic", "food"]
+      },
+      {
+        "name": "Raymond & Willapa Bay",
+        "what": "Oyster country on quiet 101 — 'the Oyster Capital of the World' — with Raymond's quirky roadside metal sculptures.",
+        "q": "Raymond, WA",
+        "slot": "stop",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Westport%2C_WA_-_fishing_boat_%27Patriot%27.jpg/960px-Westport%2C_WA_-_fishing_boat_%27Patriot%27.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Willapa_Bay",
         "it": ["food", "coast"]
       },
       {
         "name": "Long Beach Peninsula",
-        "what": "A 28-mile ribbon of sand you can ride a bike or fly a kite on; the boardwalk and the World Kite Museum are easy fun for Aslan.",
+        "what": "A 28-mile ribbon of drivable sand — boardwalk, kites and a last Washington leg-stretch before the Columbia.",
         "q": "Long Beach, WA",
         "slot": "scenic",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/View_from_atop_the_ridge_at_Westhaven_State_Park_-_panoramio.jpg/960px-View_from_atop_the_ridge_at_Westhaven_State_Park_-_panoramio.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Westport%2C_WA_-_beach_scene.jpg/960px-Westport%2C_WA_-_beach_scene.jpg",
         "wiki": "https://en.wikipedia.org/wiki/Long_Beach_Peninsula",
         "it": ["coast", "kid", "toys"],
         "kid": true
       },
       {
         "name": "Astoria–Megler Bridge",
-        "what": "The 4.1-mile bridge across the Columbia into Oregon — the longest continuous truss bridge in North America and a memorable ride-over.",
+        "what": "The 4.1-mile crossing of the Columbia into Oregon — the longest continuous truss bridge in North America and a memorable ride-over, with the night's hotel on stilts right beside it.",
         "q": "Astoria-Megler Bridge",
         "slot": "scenic",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astoria-Megler_Bridge_from_West_Mooring_Basin_Docks.jpg/960px-Astoria-Megler_Bridge_from_West_Mooring_Basin_Docks.jpg",
         "wiki": "https://en.wikipedia.org/wiki/Astoria%E2%80%93Megler_Bridge",
         "it": ["scenic", "history"]
-      },
-      {
-        "name": "Astoria Column",
-        "what": "Climb the 164-step painted tower for a 360° view, then launch a balsa-wood glider from the top — a classic kid thrill.",
-        "q": "Astoria Column, Astoria, OR",
-        "slot": "activity",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Astoria_Column%2C_angled.jpg/960px-Astoria_Column%2C_angled.jpg",
-        "wiki": "https://en.wikipedia.org/wiki/Astoria_Column",
-        "it": ["history", "scenic", "kid"],
-        "kid": true
-      },
-      {
-        "name": "Columbia River Maritime Museum",
-        "what": "One of the best maritime museums on the West Coast — lightships, a Coast Guard rescue-boat display and shipwreck lore that grabs a 6-year-old.",
-        "q": "Columbia River Maritime Museum, Astoria, OR",
-        "slot": "lunch",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Columbia_River_Maritime_Museum_exterior_in_2012.jpg/960px-Columbia_River_Maritime_Museum_exterior_in_2012.jpg",
-        "wiki": "https://en.wikipedia.org/wiki/Columbia_River_Maritime_Museum",
-        "it": ["history", "kid", "food"],
-        "kid": true
-      },
-      {
-        "name": "Astoria sea lions",
-        "what": "Hundreds of barking sea lions haul out on the East Mooring Basin docks — free, loud and a guaranteed Aslan favourite.",
-        "q": "Astoria, OR",
-        "slot": "scenic",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sea_lions_%28Astoria%2C_Oregon%29.jpg/960px-Sea_lions_%28Astoria%2C_Oregon%29.jpg",
-        "it": ["wildlife", "kid"],
-        "kid": true
-      },
-      {
-        "name": "Haystack Rock, Cannon Beach",
-        "what": "Arrive at the iconic 235-foot sea stack — tide pools, nesting puffins and a long flat beach right outside the night's lodging. Sunset on the sand caps the day.",
-        "q": "Haystack Rock, Cannon Beach, OR",
-        "slot": "activity",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Haystack_Rock%2C_Cannon_Beach%2C_Oregon%2C_USA%2C_14_Aug_2025.jpg/960px-Haystack_Rock%2C_Cannon_Beach%2C_Oregon%2C_USA%2C_14_Aug_2025.jpg",
-        "wiki": "https://en.wikipedia.org/wiki/Haystack_Rock",
-        "it": ["coast", "wildlife", "scenic"],
-        "kid": true
       }
     ],
     "foodTrail": [
@@ -1441,52 +1295,78 @@ window.DAYS = [
         "shop": "Bowpicker Fish & Chips",
         "shopUrl": "https://www.google.com/maps/search/?api=1&query=Bowpicker%20Fish%20and%20Chips%20Astoria%20OR",
         "city": "Astoria",
-        "slot": "lunch"
+        "slot": "dinner"
       }
     ],
     "eats": [
       {
         "slot": "breakfast",
-        "area": "Westport",
+        "area": "Forks",
         "picks": [
           {
-            "name": "Capt'n Jack's",
-            "cuisine": "coffee shop / breakfast",
-            "rating": 4.6,
-            "why": "Ruslan — strong coffee and a relaxed start before the ride",
+            "name": "A Shot In the Dark",
+            "cuisine": "drive-through espresso & breakfast bites",
+            "rating": 4.5,
+            "why": "Ruslan & Galiya — the town's best coffee, grabbed on the way out",
             "kid": true,
-            "map": "https://maps.google.com/?cid=17216258680165636564"
+            "map": "https://www.google.com/maps/search/?api=1&query=A+Shot+In+the+Dark+Forks+WA",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Caffe_Latte_cup.jpg/960px-Caffe_Latte_cup.jpg"
           },
           {
-            "name": "Blue Buoy",
-            "cuisine": "diner / seafood breakfast",
-            "rating": 4.5,
-            "why": "Galiya — big harbor-town breakfast; Aslan gets plain eggs, toast & hashbrowns",
+            "name": "Longhouse Cafe",
+            "cuisine": "diner breakfast — hotcakes, eggs",
+            "rating": 4.3,
+            "why": "Aslan — plain hotcakes and eggs done fast; fuel for the big day",
             "kid": true,
-            "map": "https://maps.google.com/?cid=3139538248414449400"
+            "map": "https://www.google.com/maps/search/?api=1&query=Longhouse+Cafe+Forks+WA",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Honey_Run_Covered_Bridge_2024_Pancake_Breakfast-104A2111.jpg/960px-Honey_Run_Covered_Bridge_2024_Pancake_Breakfast-104A2111.jpg"
           }
         ]
       },
       {
         "slot": "lunch",
-        "area": "Astoria riverfront",
+        "area": "Lake Quinault / Aberdeen",
         "picks": [
           {
-            "name": "Bowpicker Fish and Chips",
-            "cuisine": "battered albacore tuna fish & chips",
-            "rating": 4.8,
-            "why": "whole family — Astoria's legendary boat-shaped stand; crispy and kid-friendly (cash only, limited hours — check before going)",
+            "name": "The Salmon House Restaurant (Lake Quinault)",
+            "cuisine": "cedar-plank salmon & lake views",
+            "rating": 4.4,
+            "why": "Galiya — rainforest-lake salmon if the family wants the long lunch here",
             "kid": true,
-            "map": "https://maps.google.com/?cid=10661837831491802640",
+            "map": "https://www.google.com/maps/search/?api=1&query=Salmon+House+Restaurant+Lake+Quinault",
             "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Fish_and_chips.jpg/960px-Fish_and_chips.jpg"
           },
+          {
+            "name": "Aberdeen quick stop",
+            "cuisine": "fuel-stop lunch — sandwiches & espresso",
+            "rating": 4.2,
+            "why": "the pragmatic option — fuel both bikes and grab something quick so the afternoon stays on schedule",
+            "kid": true,
+            "map": "https://www.google.com/maps/search/?api=1&query=lunch+Aberdeen+WA"
+          }
+        ]
+      },
+      {
+        "slot": "dinner",
+        "area": "Astoria riverfront",
+        "picks": [
           {
             "name": "Buoy Beer Co. Taproom",
             "cuisine": "riverfront brewpub / seafood",
             "rating": 4.5,
-            "why": "Galiya & Ruslan — on-pier seafood and local beer with a glass-floor sea-lion window Aslan will love",
+            "why": "Galiya & Ruslan — on-pier seafood and local beer a short walk from the Cannery Pier, with a glass-floor sea-lion window Aslan will love",
             "kid": true,
-            "map": "https://maps.google.com/?cid=11352265591615845826"
+            "map": "https://maps.google.com/?cid=11352265591615845826",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Fish_and_chips.jpg/960px-Fish_and_chips.jpg"
+          },
+          {
+            "name": "South Bay Wild Fish House",
+            "cuisine": "boat-to-table fresh seafood",
+            "rating": 4.6,
+            "why": "Galiya — the fishing family's own restaurant; the catch-of-the-day dinner of the trip",
+            "kid": false,
+            "map": "https://www.google.com/maps/search/?api=1&query=South+Bay+Wild+Fish+House+Astoria",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fish_and_chips_plate_with_peas.jpg/960px-Fish_and_chips_plate_with_peas.jpg"
           },
           {
             "name": "Fort George Brewery",
@@ -1498,86 +1378,88 @@ window.DAYS = [
             "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/NCI_Visuals_Food_Hamburger.jpg/960px-NCI_Visuals_Food_Hamburger.jpg"
           }
         ]
-      },
-      {
-        "slot": "dinner",
-        "area": "Cannon Beach (under Haystack Rock)",
-        "picks": [
-          {
-            "name": "Ecola Seafood Restaurant & Market",
-            "cuisine": "fresh Dungeness crab / clam chowder / fish & chips",
-            "rating": 4.4,
-            "why": "Galiya — off-the-boat Dungeness crab and a proper clam chowder at the village fish market",
-            "kid": false,
-            "map": "https://maps.google.com/?cid=6963953583807006938",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cup_of_clam_chowder%2C_with_saltines.jpg/960px-Cup_of_clam_chowder%2C_with_saltines.jpg"
-          },
-          {
-            "name": "Public Coast Brewing Co",
-            "cuisine": "brewpub burgers & seafood",
-            "rating": 4.3,
-            "why": "whole family — local beer for Ruslan, fresh fish for Galiya, and burgers/fries plus a kids' menu for Aslan",
-            "kid": true,
-            "map": "https://maps.google.com/?cid=10044052816328267324",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/NCI_Visuals_Food_Hamburger.jpg/960px-NCI_Visuals_Food_Hamburger.jpg"
-          },
-          {
-            "name": "Pizza A' Fetta Cannon Beach",
-            "cuisine": "wood-style pizza by the slice",
-            "rating": 4.3,
-            "why": "Aslan — easy hand-tossed pizza right on Hemlock St, the simplest win of the day",
-            "kid": true,
-            "map": "https://maps.google.com/?cid=10796748354004653791",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/960px-Eq_it-na_pizza-margherita_sep2005_sml.jpg"
-          }
-        ]
       }
     ],
     "localTodo": [
       {
-        "time": "~13:00",
-        "name": "Astoria–Megler Bridge",
-        "what": "the 4-mile bridge across the mouth of the Columbia into Oregon — the day's signature ride",
-        "map": "https://www.google.com/maps/search/?api=1&query=Astoria-Megler+Bridge"
+        "time": "~09:30",
+        "name": "Ruby Beach",
+        "what": "the sea-stack beach 25 min south of the tent — drift logs, Abbey Island and morning mist before the crowds; 60–90 min of wandering",
+        "map": "https://www.google.com/maps/search/?api=1&query=Ruby+Beach+WA"
       },
       {
-        "time": "~14:00",
-        "name": "The Astoria Column",
-        "what": "160-step painted tower with a panorama over the river, town and Coast Range; Aslan can toss balsa gliders from the top (4.8★)",
-        "map": "https://maps.google.com/?cid=12946077969317517854"
+        "time": "~10:45",
+        "name": "Kalaloch Tree of Life",
+        "what": "the famous Sitka spruce clinging over its washed-out root cave at Kalaloch Campground beach — a two-minute walk from the parking lot",
+        "map": "https://www.google.com/maps/search/?api=1&query=Kalaloch+Tree+of+Life"
       },
       {
-        "time": "~15:00",
-        "name": "Columbia River Maritime Museum & riverfront sea lions",
-        "what": "hands-on maritime history for Aslan, plus the barking sea-lion haul-out on the docks below the Riverwalk",
-        "map": "https://www.google.com/maps/search/?api=1&query=Columbia+River+Maritime+Museum+Astoria"
+        "time": "~11:45",
+        "name": "Lake Quinault Lodge",
+        "what": "coffee on the 1926 lodge's lake lawn in the rainforest — the classic mid-morning break",
+        "map": "https://www.google.com/maps/search/?api=1&query=Lake+Quinault+Lodge"
+      },
+      {
+        "time": "~15:45",
+        "name": "Long Beach Peninsula",
+        "what": "a quick boardwalk leg-stretch on the 'world's longest beach' before the final run",
+        "map": "https://www.google.com/maps/search/?api=1&query=Long+Beach+WA+boardwalk"
       },
       {
         "time": "~17:00",
-        "name": "Haystack Rock, Cannon Beach",
-        "what": "walk straight onto the beach at the 235-ft sea stack — tidepools, puffins and the postcard view from your overnight town",
-        "map": "https://www.google.com/maps/search/?api=1&query=Haystack+Rock+Cannon+Beach"
+        "name": "Astoria–Megler Bridge & Cannery Pier check-in",
+        "what": "the soaring 4-mile Columbia crossing, then the hotel on stilts practically beneath it — watch the ships from the room's window",
+        "map": "https://www.google.com/maps/search/?api=1&query=Cannery+Pier+Hotel+Astoria"
       }
     ]
   },
 {
     "d": 3,
-    "id": "yachats",
-    "miles": 136,
-    "dmin": 192,
+    "id": "two-capes",
+    "miles": 100,
+    "dmin": 165,
     "rest": false,
-    "region": "Oregon Coast",
-    "title": "Cheese, Capes & the Coast Run",
-    "route": "Cannon Beach → Tillamook → Pacific City → Newport → Yachats",
-    "desc": "The signature coast day, and the most varied riding of the trip — all on scenic Highway 101 and the Three Capes byway, no freeways. Wake under Haystack Rock, then roll south to the marquee mid-day stop the family asked for: the Tillamook Creamery for a cheese-factory tour and famous ice cream, with the giant wooden blimp hangar of the Tillamook Air Museum next door. Detour the Three Capes Scenic Loop past Cape Meares Lighthouse and the dory-boat beach and big dune at Pacific City. Carry on down the coast — Lincoln City, Depoe Bay, the Oregon Coast Aquarium at Newport — and arrive by early evening at Yachats, the tiny gem where forest meets surf, your two-night base for the Fourth of July.",
+    "region": "North Oregon Coast",
+    "title": "Haystack Rock to the Two Capes",
+    "route": "Astoria → Cannon Beach → Tillamook Creamery → Cape Meares → Oceanside → Tierra Del Mar",
+    "desc": "A slow Cannery Pier morning first — the Astoria Column's balsa-glider launch, the barking sea lions, an early Bowpicker fish-and-chips at opening — then an easy hundred coastal miles stacked with icons. Walk the sand beneath Haystack Rock at Cannon Beach, climb over Neahkahnie Mountain's cliff-edge highway to Manzanita, and round Tillamook Bay to the family's marquee stop: the Tillamook Creamery, with its factory viewing gallery, squeaky curds and famous scoops. Then leave 101 for the little Three Capes road — Cape Meares Lighthouse and the Octopus Tree, the puffin colonies of Three Arch Rocks off Oceanside, quiet Netarts Bay — and roll into Two Capes Lookout at Tierra Del Mar: a geodesic dome in the forest between Cape Lookout and Cape Kiwanda, home for two nights.",
     "tags": ["ride", "food", "kid", "scenic"],
-    "gfrom": "Cannon Beach, OR",
-    "gto": "Yachats, OR",
-    "gvia": "Tillamook Creamery, Tillamook, OR|Pacific City, OR|Newport, OR",
+    "gfrom": "Astoria, OR",
+    "gto": "Tierra Del Mar, OR",
+    "gvia": "Cannon Beach, OR|Tillamook Creamery, Tillamook, OR|Cape Meares Lighthouse, OR|Oceanside, OR|Netarts, OR",
     "poi": [
       {
+        "name": "Astoria Column",
+        "what": "Climb the 164-step painted tower for a 360° river panorama, launch a balsa glider from the top — the morning's kid win before rolling south.",
+        "q": "Astoria Column, Astoria, OR",
+        "slot": "activity",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Astoria_Column%2C_angled.jpg/960px-Astoria_Column%2C_angled.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Astoria_Column",
+        "it": ["history", "scenic", "kid"],
+        "kid": true
+      },
+      {
+        "name": "Haystack Rock, Cannon Beach",
+        "what": "The iconic 235-foot sea stack right off the sand — tide pools and nesting puffins at low tide, and the postcard mid-morning beach break.",
+        "q": "Haystack Rock, Cannon Beach, OR",
+        "slot": "scenic",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Haystack_Rock%2C_Cannon_Beach%2C_Oregon%2C_USA%2C_14_Aug_2025.jpg/960px-Haystack_Rock%2C_Cannon_Beach%2C_Oregon%2C_USA%2C_14_Aug_2025.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Haystack_Rock",
+        "it": ["coast", "wildlife", "scenic"],
+        "kid": true
+      },
+      {
+        "name": "Neahkahnie Mountain",
+        "what": "US-101 climbs to a cliff-edge viewpoint hundreds of feet above the surf — the best road-view photo of the day, just before Manzanita.",
+        "q": "Neahkahnie Mountain viewpoint, OR",
+        "slot": "scenic",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Oregon_coastline_looking_south_from_Ecola_State_Park.jpg/960px-Oregon_coastline_looking_south_from_Ecola_State_Park.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Neahkahnie_Mountain",
+        "it": ["scenic", "moto", "coast"]
+      },
+      {
         "name": "Tillamook Creamery",
-        "what": "The marquee stop: a free self-guided cheese-factory viewing gallery, samples, and the legendary ice-cream counter — the trip's biggest foodie-and-kid double win.",
+        "what": "The marquee stop: free self-guided cheese-factory viewing gallery, samples, and the legendary ice-cream counter — the trip's biggest foodie-and-kid double win.",
         "q": "Tillamook Creamery, Tillamook, OR",
         "slot": "lunch",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Tillamook_Creamery_4.2025.jpg/960px-Tillamook_Creamery_4.2025.jpg",
@@ -1586,41 +1468,32 @@ window.DAYS = [
         "kid": true
       },
       {
-        "name": "Tillamook Air Museum",
-        "what": "Vintage aircraft inside one of the world's largest wooden structures — a WWII blimp hangar. Catnip for Ruslan and Aslan alike.",
-        "q": "Tillamook Air Museum, Tillamook, OR",
-        "slot": "activity",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Tillamook_Air_Museum_Mini_Guppy_in_front_of_Hangar_door.jpg/960px-Tillamook_Air_Museum_Mini_Guppy_in_front_of_Hangar_door.jpg",
-        "wiki": "https://en.wikipedia.org/wiki/Tillamook_Air_Museum",
-        "it": ["history", "kid"],
-        "kid": true
-      },
-      {
-        "name": "Cape Meares Lighthouse",
-        "what": "Oregon's shortest lighthouse on a clifftop headland, beside the gnarled, many-trunked Octopus Tree — a short Three-Capes detour.",
+        "name": "Cape Meares Lighthouse & Octopus Tree",
+        "what": "Oregon's shortest lighthouse on the cliffs beside the giant candelabra-shaped Sitka spruce — a short Three-Capes detour with seabird views.",
         "q": "Cape Meares Lighthouse, OR",
         "slot": "scenic",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cape_Meares_Lighthouse_wide_shot.jpg/960px-Cape_Meares_Lighthouse_wide_shot.jpg",
         "wiki": "https://en.wikipedia.org/wiki/Cape_Meares_Light",
-        "it": ["lighthouse", "scenic", "coast"]
+        "it": ["lighthouse", "scenic"]
       },
       {
-        "name": "Cape Kiwanda / Pacific City",
-        "what": "Dory boats launched straight off the beach, a giant sand dune to climb and Pelican Brewing on the sand — a lively coastal stop.",
-        "q": "Cape Kiwanda, Pacific City, OR",
+        "name": "Oceanside & Three Arch Rocks",
+        "what": "Three huge sea rocks half a mile off the sand — the oldest wildlife refuge in the West, loud with puffins, murres and sea lions.",
+        "q": "Oceanside, OR",
         "slot": "scenic",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Haystack_Rock_%26_Cape_Kiwanda%2C_Pacific_City%2C_Oregon_%283229030211%29.jpg/960px-Haystack_Rock_%26_Cape_Kiwanda%2C_Pacific_City%2C_Oregon_%283229030211%29.jpg",
-        "it": ["coast", "scenic", "food"],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Three_Arch_Rocks_from_beach_-_Oregon.JPG/960px-Three_Arch_Rocks_from_beach_-_Oregon.JPG",
+        "wiki": "https://en.wikipedia.org/wiki/Three_Arch_Rocks_National_Wildlife_Refuge",
+        "it": ["wildlife", "coast", "kid"],
         "kid": true
       },
       {
-        "name": "Oregon Coast Aquarium",
-        "what": "A optional Newport stop ~25 mi before Yachats — sea otters, a walk-through shark tunnel and a giant Pacific octopus; great if the day's running early.",
-        "q": "Oregon Coast Aquarium, Newport, OR",
-        "slot": "stop",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sea_lions_%28Astoria%2C_Oregon%29.jpg/960px-Sea_lions_%28Astoria%2C_Oregon%29.jpg",
-        "wiki": "https://en.wikipedia.org/wiki/Oregon_Coast_Aquarium",
-        "it": ["wildlife", "kid"],
+        "name": "Two Capes Lookout",
+        "what": "Check into the geodesic dome in the forest between the capes — firepits, a quarry waterfall, trails and the beach a short walk away.",
+        "q": "Two Capes Lookout, Tierra Del Mar, OR",
+        "slot": "activity",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Cape_Kiwanda%2C_Pacific_City%2C_United_States_%28Unsplash%29.jpg/960px-Cape_Kiwanda%2C_Pacific_City%2C_United_States_%28Unsplash%29.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Tillamook_County,_Oregon",
+        "it": ["kid", "scenic", "coast"],
         "kid": true
       }
     ],
@@ -1636,48 +1509,385 @@ window.DAYS = [
     "eats": [
       {
         "slot": "breakfast",
-        "area": "Cannon Beach",
+        "area": "Astoria",
         "picks": [
           {
-            "name": "Lazy Susan Cafe",
-            "cuisine": "Pacific NW breakfast (waffles, hash, oatmeal)",
-            "rating": 4.6,
-            "why": "Galiya & Ruslan — beloved Cannon Beach breakfast institution",
-            "kid": false,
-            "map": "https://maps.google.com/?cid=9539713796856644525",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Honey_Run_Covered_Bridge_2024_Pancake_Breakfast-104A2111.jpg/960px-Honey_Run_Covered_Bridge_2024_Pancake_Breakfast-104A2111.jpg"
-          },
-          {
-            "name": "Sea Level Bakery + Coffee",
-            "cuisine": "bakery, pastries & espresso",
-            "rating": 4.6,
-            "why": "Aslan — plain pastries/muffins he'll eat; great coffee for Ruslan, quick to-go before the ride",
+            "name": "Blue Scorcher Bakery & Cafe",
+            "cuisine": "worker-owned bakery — pastries & hearth bread",
+            "rating": 4.5,
+            "why": "Galiya — Astoria's beloved bakery morning; easy plain rolls for Aslan",
             "kid": true,
-            "map": "https://maps.google.com/?cid=5140496243597652907"
+            "map": "https://www.google.com/maps/search/?api=1&query=Blue+Scorcher+Bakery+Astoria",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Caffe_Latte_cup.jpg/960px-Caffe_Latte_cup.jpg"
           }
         ]
       },
       {
         "slot": "lunch",
-        "area": "Tillamook",
+        "area": "Astoria (early, before rolling south)",
         "picks": [
           {
-            "name": "Tillamook Creamery",
-            "cuisine": "cheese, grilled cheese, mac & cheese + famous ice cream",
-            "rating": 4.5,
-            "why": "Aslan — grilled cheese, mac & cheese and a huge ice-cream cone (the day's kid win); Galiya — see the cheese made on-site",
+            "name": "Bowpicker Fish and Chips",
+            "cuisine": "battered albacore tuna fish & chips",
+            "rating": 4.8,
+            "why": "whole family — Astoria's legendary boat-shaped stand; crispy and kid-friendly (cash only, day hours — go at open ~11:00)",
             "kid": true,
-            "map": "https://maps.google.com/?cid=16409213061769628058",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ice_cream_in_cones.jpg/960px-Ice_cream_in_cones.jpg"
+            "map": "https://maps.google.com/?cid=10661837831491802640",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Fish_and_chips.jpg/960px-Fish_and_chips.jpg"
+          },
+          {
+            "name": "Tillamook Creamery cafe (backup lunch)",
+            "cuisine": "grilled cheese, mac & cheese, ice cream",
+            "rating": 4.6,
+            "why": "Aslan — if Bowpicker's line is long, hold out for the Creamery's kid-perfect lunch at 15:00",
+            "kid": true,
+            "map": "https://www.google.com/maps/search/?api=1&query=Tillamook+Creamery"
+          }
+        ]
+      },
+      {
+        "slot": "dinner",
+        "area": "Netarts / Pacific City",
+        "picks": [
+          {
+            "name": "The Schooner Restaurant & Lounge",
+            "cuisine": "Netarts Bay oysters & coastal kitchen",
+            "rating": 4.2,
+            "why": "Galiya — first-night oysters at the water's edge, ten minutes from the dome",
+            "kid": true,
+            "map": "https://www.google.com/maps/search/?api=1&query=The+Schooner+Restaurant+Netarts",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cup_of_clam_chowder%2C_with_saltines.jpg/960px-Cup_of_clam_chowder%2C_with_saltines.jpg"
           },
           {
             "name": "Pelican Brewing – Pacific City",
-            "cuisine": "brewpub — chowder, fish & chips, burgers, craft beer",
+            "cuisine": "beachfront brewpub — fish tacos, burgers",
             "rating": 4.1,
-            "why": "Ruslan — pint on the beach at Cape Kiwanda; Galiya — clam chowder; an easy second stop ~30 min south of the Creamery",
+            "why": "whole family — dinner on the sand at Cape Kiwanda; kids' menu and Ruslan's beer",
+            "kid": true,
+            "map": "https://www.google.com/maps/search/?api=1&query=Pelican+Brewing+Pacific+City",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/NCI_Visuals_Food_Hamburger.jpg/960px-NCI_Visuals_Food_Hamburger.jpg"
+          },
+          {
+            "name": "Doryland Pizza",
+            "cuisine": "pizza in the old dory cannery",
+            "rating": 4.1,
+            "why": "Aslan — the simplest win, steps from the Kiwanda dune",
+            "kid": true,
+            "map": "https://www.google.com/maps/search/?api=1&query=Doryland+Pizza+Pacific+City",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/960px-Eq_it-na_pizza-margherita_sep2005_sml.jpg"
+          }
+        ]
+      }
+    ],
+    "localTodo": [
+      {
+        "time": "~09:30",
+        "name": "The Astoria Column",
+        "what": "climb the 164-step painted tower and launch a balsa glider from the top — the morning's kid win before rolling south",
+        "map": "https://maps.google.com/?cid=12946077969317517854"
+      },
+      {
+        "time": "~12:15",
+        "name": "Haystack Rock, Cannon Beach",
+        "what": "walk the sand to the 235-ft sea stack — tidepools and puffins at low tide",
+        "map": "https://www.google.com/maps/search/?api=1&query=Haystack+Rock+Cannon+Beach"
+      },
+      {
+        "time": "~13:30",
+        "name": "Neahkahnie Mountain viewpoint",
+        "what": "US-101's cliff-edge pullout high above the surf — the best road-view photo of the day",
+        "map": "https://www.google.com/maps/search/?api=1&query=Neahkahnie+Mountain+viewpoint"
+      },
+      {
+        "time": "~15:00",
+        "name": "Tillamook Creamery",
+        "what": "the marquee stop: free cheese-factory viewing gallery, curds, and the famous scoop counter",
+        "map": "https://www.google.com/maps/search/?api=1&query=Tillamook+Creamery"
+      },
+      {
+        "time": "~16:15",
+        "name": "Cape Meares Lighthouse & the Octopus Tree",
+        "what": "Oregon's shortest lighthouse and the giant candelabra spruce, a short Three-Capes detour",
+        "map": "https://www.google.com/maps/search/?api=1&query=Cape+Meares+Lighthouse"
+      },
+      {
+        "time": "~17:30",
+        "name": "Two Capes Lookout check-in",
+        "what": "claim the geodesic dome, park the bikes at the site, and walk the resort's quarry-waterfall trail before dinner",
+        "map": "https://www.google.com/maps/search/?api=1&query=Two+Capes+Lookout+Tierra+Del+Mar"
+      }
+    ]
+  },
+{
+    "d": 4,
+    "id": "two-capes",
+    "miles": 53,
+    "dmin": 80,
+    "rest": true,
+    "region": "North Oregon Coast",
+    "title": "Three Capes Rest Day",
+    "route": "Cape Lookout · Netarts oysters · Cape Kiwanda dune (light riding)",
+    "desc": "The first rest day, at kid pace and dome-side. The only riding is an optional easy local loop: the Cape Lookout trailhead for a cliff-top walk into the Sitka spruce (whale spouts on calm days), fresh Netarts Bay oysters at the Schooner for lunch — the Coast Food Trail's oyster stop — and maybe a run up to the Tillamook Air Museum's colossal WWII blimp hangar. The afternoon belongs to Cape Kiwanda: dory boats surf-launching straight off the beach, the giant sand dune to climb and roll down, and Pelican Brewing on the sand. Or skip all of it — the resort has trails, firepits and the quiet home beach at Tierra Del Mar.",
+    "tags": ["rest", "kid", "food", "scenic"],
+    "gfrom": "Tierra Del Mar, OR",
+    "gto": "Tierra Del Mar, OR",
+    "gvia": "Cape Lookout State Park, OR|Netarts, OR|Tillamook Creamery, Tillamook, OR|Pacific City, OR",
+    "poi": [
+      {
+        "name": "Cape Lookout trail",
+        "what": "The middle cape: a cliff-top trail through Sitka spruce out the 1.5-mile promontory, with views from Kiwanda to Meares — go as far as small legs last.",
+        "q": "Cape Lookout Trailhead, OR",
+        "slot": "activity",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cape_Lookout_South_Beach.jpg/960px-Cape_Lookout_South_Beach.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Cape_Lookout_State_Park",
+        "it": ["scenic", "coast"]
+      },
+      {
+        "name": "The Schooner & Netarts Bay",
+        "what": "Netarts Bay oysters raw, grilled and fried at the water's edge — grown a few hundred yards from the table. The rest day's foodie centerpiece.",
+        "q": "The Schooner Restaurant, Netarts, OR",
+        "slot": "lunch",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Three_Arch_Rocks_National_Wildlife_Refuge_-_Oregon.jpg/960px-Three_Arch_Rocks_National_Wildlife_Refuge_-_Oregon.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Netarts_Bay",
+        "it": ["food", "wildlife", "coast"]
+      },
+      {
+        "name": "Tillamook Air Museum",
+        "what": "Vintage aircraft inside one of the world's largest wooden structures — a WWII blimp hangar. The optional dad-and-Aslan motor for the rest day.",
+        "q": "Tillamook Air Museum, Tillamook, OR",
+        "slot": "activity",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Tillamook_Air_Museum_Mini_Guppy_in_front_of_Hangar_door.jpg/960px-Tillamook_Air_Museum_Mini_Guppy_in_front_of_Hangar_door.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Tillamook_Air_Museum",
+        "it": ["history", "kid"],
+        "kid": true
+      },
+      {
+        "name": "Cape Kiwanda & the giant dune",
+        "what": "Dory boats launched straight off the beach, the towering climbable dune, and Pelican Brewing on the sand — Aslan's day-maker.",
+        "q": "Cape Kiwanda, Pacific City, OR",
+        "slot": "activity",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Haystack_Rock_%26_Cape_Kiwanda%2C_Pacific_City%2C_Oregon_%283229030211%29.jpg/960px-Haystack_Rock_%26_Cape_Kiwanda%2C_Pacific_City%2C_Oregon_%283229030211%29.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Cape_Kiwanda_State_Natural_Area",
+        "it": ["kid", "coast", "food"],
+        "kid": true
+      }
+    ],
+    "foodTrail": [
+      {
+        "style": "Netarts Bay oysters",
+        "shop": "The Schooner Restaurant & Lounge",
+        "shopUrl": "https://www.google.com/maps/search/?api=1&query=The%20Schooner%20Restaurant%20Netarts%20OR",
+        "city": "Netarts",
+        "slot": "lunch"
+      }
+    ],
+    "eats": [
+      {
+        "slot": "breakfast",
+        "area": "Pacific City",
+        "picks": [
+          {
+            "name": "Stimulus Coffee + Bakery",
+            "cuisine": "espresso & bakery above the beach",
+            "rating": 4.2,
+            "why": "Ruslan & Galiya — proper coffee with the Kiwanda view",
+            "kid": true,
+            "map": "https://www.google.com/maps/search/?api=1&query=Stimulus+Coffee+Pacific+City",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Caffe_Latte_cup.jpg/960px-Caffe_Latte_cup.jpg"
+          },
+          {
+            "name": "Cold Water & Coffee",
+            "cuisine": "coffee & breakfast bites",
+            "rating": 4.6,
+            "why": "the locals' pick on Brooten Rd — quieter than the beachfront",
+            "kid": true,
+            "map": "https://www.google.com/maps/search/?api=1&query=Cold+Water+and+Coffee+Pacific+City"
+          }
+        ]
+      },
+      {
+        "slot": "lunch",
+        "area": "Netarts Bay",
+        "picks": [
+          {
+            "name": "The Schooner Restaurant & Lounge",
+            "cuisine": "Netarts Bay oysters — raw, grilled, fried",
+            "rating": 4.2,
+            "why": "Galiya — THE Coast Food Trail stop: oysters grown a few hundred yards from the table",
+            "kid": true,
+            "map": "https://www.google.com/maps/search/?api=1&query=The+Schooner+Restaurant+Netarts",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cup_of_clam_chowder%2C_with_saltines.jpg/960px-Cup_of_clam_chowder%2C_with_saltines.jpg"
+          },
+          {
+            "name": "JAndy Oyster Co",
+            "cuisine": "oyster-farm stand & tastings",
+            "rating": 4.8,
+            "why": "Ruslan — the farm's own stand toward Cloverdale; the freshest possible half-shell",
             "kid": false,
-            "map": "https://maps.google.com/?cid=6312434849402413715",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Fish_and_chips.jpg/960px-Fish_and_chips.jpg"
+            "map": "https://www.google.com/maps/search/?api=1&query=JAndy+Oyster+Co+Cloverdale+OR"
+          },
+          {
+            "name": "Sportsman's Pub-n-Grub",
+            "cuisine": "pub burgers & fish baskets",
+            "rating": 4.3,
+            "why": "Aslan — the no-oysters escape hatch in Pacific City",
+            "kid": true,
+            "map": "https://www.google.com/maps/search/?api=1&query=Sportsman's+Pub-n-Grub+Pacific+City",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/NCI_Visuals_Food_Hamburger.jpg/960px-NCI_Visuals_Food_Hamburger.jpg"
+          }
+        ]
+      },
+      {
+        "slot": "dinner",
+        "area": "Pacific City",
+        "picks": [
+          {
+            "name": "The Riverhouse Restaurant",
+            "cuisine": "riverside Pacific NW kitchen",
+            "rating": 4.6,
+            "why": "Galiya — Pacific City's best-rated table, on the Nestucca River",
+            "kid": true,
+            "map": "https://www.google.com/maps/search/?api=1&query=Riverhouse+Restaurant+Pacific+City",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fish_and_chips_plate_with_peas.jpg/960px-Fish_and_chips_plate_with_peas.jpg"
+          },
+          {
+            "name": "Meridian Restaurant & Bar",
+            "cuisine": "upscale coastal, at Headlands Lodge",
+            "rating": 4.3,
+            "why": "the nicer night out, five minutes from the domes",
+            "kid": true,
+            "map": "https://www.google.com/maps/search/?api=1&query=Meridian+Restaurant+Pacific+City"
+          },
+          {
+            "name": "Pelican Brewing – Pacific City",
+            "cuisine": "beachfront brewpub",
+            "rating": 4.1,
+            "why": "whole family — if last night went to the Schooner, tonight's the beach-sunset brewpub",
+            "kid": true,
+            "map": "https://www.google.com/maps/search/?api=1&query=Pelican+Brewing+Pacific+City",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cheeseburger_and_Fries_2.jpg/960px-Cheeseburger_and_Fries_2.jpg"
+          }
+        ]
+      }
+    ],
+    "localTodo": [
+      {
+        "time": "~10:30",
+        "name": "Cape Lookout trail",
+        "what": "the cliff-top Sitka-spruce trail out the promontory — walk as far as small legs last; whale spouts on calm days",
+        "map": "https://www.google.com/maps/search/?api=1&query=Cape+Lookout+Trailhead+OR"
+      },
+      {
+        "time": "~14:00",
+        "name": "Tillamook Air Museum (optional)",
+        "what": "warbirds inside a colossal WWII wooden blimp hangar — the dad-and-Aslan motor for the rest day",
+        "map": "https://www.google.com/maps/search/?api=1&query=Tillamook+Air+Museum"
+      },
+      {
+        "time": "~15:30",
+        "name": "Cape Kiwanda & the giant dune",
+        "what": "climb the dune, run down it, watch the dory boats surf-launch straight off the sand — Aslan's day-maker",
+        "map": "https://www.google.com/maps/search/?api=1&query=Cape+Kiwanda+Pacific+City"
+      },
+      {
+        "time": "~17:00",
+        "name": "Tierra Del Mar beach",
+        "what": "the quiet home beach a short walk from the dome — sandcastles and agate-hunting before dinner",
+        "map": "https://www.google.com/maps/search/?api=1&query=Tierra+Del+Mar+Beach+OR"
+      }
+    ]
+  },
+{
+    "d": 5,
+    "id": "yachats",
+    "miles": 76,
+    "dmin": 117,
+    "rest": false,
+    "region": "Central Oregon Coast",
+    "title": "Capes to Yachats",
+    "route": "Tierra Del Mar → Pacific City → Depoe Bay → Newport → Yachats",
+    "desc": "The shortest riding day, straight down the central coast's greatest-hits reel. Roll out past Cape Kiwanda and Neskowin (peek at the Ghost Forest stumps at low tide), through Lincoln City, and into Depoe Bay — the world's smallest harbor and Oregon's whale-watching capital, where resident gray whales feed just off the seawall all August. South of it the black-basalt headland of Yaquina Head raises Oregon's tallest lighthouse; Newport offers a famous dock-front lunch at Local Ocean and the Oregon Coast Aquarium if the day wants more. Then the last easy miles to Yachats, the tiny gem where forest meets surf — check into the oceanfront nice hotel, walk the 804 Trail over the basalt shelf, and let the second two-night base begin.",
+    "tags": ["ride", "coast", "kid", "scenic"],
+    "gfrom": "Tierra Del Mar, OR",
+    "gto": "Yachats, OR",
+    "gvia": "Pacific City, OR|Lincoln City, OR|Depoe Bay, OR|Newport, OR",
+    "poi": [
+      {
+        "name": "Depoe Bay whales",
+        "what": "The world's smallest navigable harbor, spouting horns in the seawall, and resident gray whales feeding just offshore all summer — free wildlife from the sidewalk.",
+        "q": "Depoe Bay Whale Watching Center, OR",
+        "slot": "scenic",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Harbor_of_Depoe_Bay_Harbor%2C_Oregon.jpg/960px-Harbor_of_Depoe_Bay_Harbor%2C_Oregon.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Depoe_Bay,_Oregon",
+        "it": ["wildlife", "coast", "kid"],
+        "kid": true
+      },
+      {
+        "name": "Yaquina Head Lighthouse",
+        "what": "Oregon's tallest lighthouse (93 ft) on its black-basalt headland — harbor seals on the rocks below and cobble beaches that clatter with the waves.",
+        "q": "Yaquina Head Lighthouse, Newport, OR",
+        "slot": "scenic",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Yaquina_Head_Lighthouse_-_Oregon.jpg/960px-Yaquina_Head_Lighthouse_-_Oregon.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Yaquina_Head_Light",
+        "it": ["lighthouse", "coast", "wildlife"]
+      },
+      {
+        "name": "Oregon Coast Aquarium",
+        "what": "An optional Newport stop — sea otters, a walk-through shark tunnel and a giant Pacific octopus; great if the short day wants a big afternoon.",
+        "q": "Oregon Coast Aquarium, Newport, OR",
+        "slot": "stop",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sea_lions_%28Astoria%2C_Oregon%29.jpg/960px-Sea_lions_%28Astoria%2C_Oregon%29.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Oregon_Coast_Aquarium",
+        "it": ["wildlife", "kid"],
+        "kid": true
+      },
+      {
+        "name": "Yachats & the 804 Trail",
+        "what": "Arrive at the village where old-growth forest meets crashing surf — check in, then walk the flat oceanfront path over tide pools right from the hotel.",
+        "q": "804 Trail, Yachats, OR",
+        "slot": "activity",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/OREGON_COAST_-_CLEAR_TIDE_POOL_2024.jpg/960px-OREGON_COAST_-_CLEAR_TIDE_POOL_2024.jpg",
+        "it": ["coast", "wildlife", "scenic"],
+        "kid": true
+      }
+    ],
+    "eats": [
+      {
+        "slot": "breakfast",
+        "area": "Pacific City",
+        "picks": [
+          {
+            "name": "Stimulus Coffee + Bakery",
+            "cuisine": "espresso & pastries above the beach",
+            "rating": 4.2,
+            "why": "one more Kiwanda-view coffee before rolling south",
+            "kid": true,
+            "map": "https://www.google.com/maps/search/?api=1&query=Stimulus+Coffee+Pacific+City",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Caffe_Latte_cup.jpg/960px-Caffe_Latte_cup.jpg"
+          }
+        ]
+      },
+      {
+        "slot": "lunch",
+        "area": "Newport",
+        "picks": [
+          {
+            "name": "Local Ocean Seafoods",
+            "cuisine": "dock-front fish market & kitchen",
+            "rating": 4.6,
+            "why": "Galiya — Newport's famous fishing-fleet-to-table spot on the bayfront; worth the possible wait",
+            "kid": true,
+            "map": "https://www.google.com/maps/search/?api=1&query=Local+Ocean+Seafoods+Newport",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fish_and_chips_plate_with_peas.jpg/960px-Fish_and_chips_plate_with_peas.jpg"
+          },
+          {
+            "name": "Gracie's Sea Hag (Depoe Bay)",
+            "cuisine": "old-school chowder house",
+            "rating": 4.4,
+            "why": "the earlier option — award-winning chowder right on the Depoe Bay seawall",
+            "kid": true,
+            "map": "https://www.google.com/maps/search/?api=1&query=Gracie's+Sea+Hag+Depoe+Bay",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cup_of_clam_chowder%2C_with_saltines.jpg/960px-Cup_of_clam_chowder%2C_with_saltines.jpg"
           }
         ]
       },
@@ -1686,89 +1896,79 @@ window.DAYS = [
         "area": "Yachats",
         "picks": [
           {
-            "name": "The Drift Inn Hotel & Restaurant",
-            "cuisine": "American comfort food, seafood, live music",
-            "rating": 4.3,
-            "why": "Whole family — confirmed open, lively, broad menu with burgers/pasta/fries for Aslan and fresh seafood for Galiya & Ruslan",
+            "name": "The Drift Inn Hotel and Restaurant",
+            "cuisine": "American comfort food & seafood, live music",
+            "rating": 4.4,
+            "why": "whole family — lively arrival-night dinner; kids' menu with burgers, mac & cheese and chicken strips for Aslan",
             "kid": true,
             "map": "https://maps.google.com/?cid=15878405420698897937",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Fish_and_chips.jpg/960px-Fish_and_chips.jpg"
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cheeseburger_and_Fries_2.jpg/960px-Cheeseburger_and_Fries_2.jpg"
           },
           {
             "name": "Luna Sea Fish House (Seal Rock)",
-            "cuisine": "fresh local seafood, fish & chips, chowder",
+            "cuisine": "dockside fish & chips, chowder",
             "rating": 4.5,
-            "why": "Galiya & Ruslan — the genuinely great Luna Sea (the tiny Yachats counter is mediocre); 12 min north, dock-to-table fish & chips Aslan will also eat",
+            "why": "Ruslan — own-boat-caught fish & chips 12 min north; casual, fast, Aslan-friendly",
             "kid": true,
             "map": "https://maps.google.com/?cid=14291681410554983807",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Fish_and_Chips_Bath%2C_UK.jpg/960px-Fish_and_Chips_Bath%2C_UK.jpg"
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Fish_and_chips.jpg/960px-Fish_and_chips.jpg"
           },
           {
-            "name": "Yachats Underground Pub & Grub",
-            "cuisine": "pub fare — burgers, fries, fish & chips",
-            "rating": 4.0,
-            "why": "Aslan — casual cellar pub with simple burger-and-fries kids' fare; walkable in town if the Drift Inn has a wait",
-            "kid": true,
-            "map": "https://maps.google.com/?cid=1754061589375500362"
+            "name": "Ona Restaurant & Lounge",
+            "cuisine": "Pacific Northwest seafood, riverfront",
+            "rating": 4.3,
+            "why": "Galiya — save it for tomorrow if tonight runs late; Yachats' fine-casual standout (book ahead in August)",
+            "kid": false,
+            "map": "https://maps.google.com/?cid=130354226211525660"
           }
         ]
       }
     ],
     "localTodo": [
       {
-        "time": "~09:45",
-        "name": "Haystack Rock, Cannon Beach",
-        "what": "235-ft sea stack with tidepools and puffins — quick beach stretch before the ride south",
-        "map": "https://www.google.com/maps/search/?api=1&query=Haystack+Rock+Cannon+Beach+Oregon"
+        "time": "~11:00",
+        "name": "Depoe Bay seawall & Whale Watching Center",
+        "what": "the world's smallest harbor, spouting horns in the seawall, and resident gray whales feeding just offshore all August",
+        "map": "https://www.google.com/maps/search/?api=1&query=Depoe+Bay+Whale+Watching+Center"
       },
       {
-        "time": "~12:30",
-        "name": "Tillamook Creamery",
-        "what": "self-guided cheese-making viewing gallery, free samples, and the famous scoop counter — Aslan's ice-cream highlight of the trip",
-        "map": "https://maps.google.com/?cid=16409213061769628058"
+        "time": "~12:00",
+        "name": "Yaquina Head Lighthouse",
+        "what": "Oregon's tallest light (93 ft) on its black-basalt headland — harbor seals on the rocks below",
+        "map": "https://www.google.com/maps/search/?api=1&query=Yaquina+Head+Lighthouse"
       },
       {
-        "time": "~14:30",
-        "name": "Cape Kiwanda & the Pacific City dory beach",
-        "what": "giant sandstone headland and dune right beside Pelican Brewing — climb, watch the dory boats, easy family stop",
-        "map": "https://www.google.com/maps/search/?api=1&query=Cape+Kiwanda+Pacific+City+Oregon"
+        "time": "~14:00",
+        "name": "Oregon Coast Aquarium (optional)",
+        "what": "sea otters, the walk-through 'Passages of the Deep' tunnel and touch tanks — if the family wants a big afternoon stop",
+        "map": "https://www.google.com/maps/search/?api=1&query=Oregon+Coast+Aquarium+Newport"
       },
       {
         "time": "~16:30",
-        "name": "Yaquina Head / Newport Bayfront (optional)",
-        "what": "lighthouse and sea-lion docks if you have time before pushing the last 25 min to Yachats",
-        "map": "https://www.google.com/maps/search/?api=1&query=Yaquina+Head+Lighthouse+Newport+Oregon"
+        "name": "804 Trail from the hotel",
+        "what": "check in, then walk the flat oceanfront path over the basalt shelf — tidepools at low tide, whale spouts at any tide",
+        "map": "https://www.google.com/maps/search/?api=1&query=804+Trail+Yachats"
       }
     ]
   },
 {
-    "d": 4,
+    "d": 6,
     "id": "yachats",
     "miles": 31,
     "dmin": 51,
     "rest": true,
-    "region": "Oregon Coast",
-    "title": "Yachats & the Fourth of July",
-    "route": "Yachats · Cape Perpetua · Heceta Head (light riding)",
-    "desc": "The rest day — and it falls on the Fourth of July, in one of the coast's most beloved spots to spend it. Sleep in, then take a short, easy loop south to Cape Perpetua: the highest viewpoint on the Oregon coast, the churning Thor's Well and Devil's Churn, and the photogenic Heceta Head Lighthouse, with the Sea Lion Caves and rich tide pools for Aslan. Back in the village, Yachats throws its famously quirky La De Da Parade and caps the night with fireworks over the bay. No real riding pressure today — it's about tide pools, chowder, a beach walk on the 804 Trail and the holiday. (Book everything here far ahead — Yachats sells out for the Fourth.)",
+    "region": "Central Oregon Coast",
+    "title": "Yachats Rest Day",
+    "route": "Yachats · Cape Perpetua · Heceta Head · Sea Lion Caves (light riding)",
+    "desc": "The second rest day, in the coast's prettiest square mile. A short, easy loop south serves up the drama: Cape Perpetua with Thor's Well, the Spouting Horn and Devil's Churn (best around an incoming tide), the highest paved overlook on the Oregon coast, the much-photographed Heceta Head Lighthouse, and the Sea Lion Caves elevator down into America's largest sea cave, barking with wild Steller sea lions. Back in the village: tide pools on the 804 Trail, chowder, and the Ona splurge dinner for Galiya. August bonus — gray-whale spouts from every bluff. No riding pressure; it's about the tide table, not the odometer.",
     "tags": ["rest", "kid", "scenic"],
     "gfrom": "Yachats, OR",
     "gto": "Cape Perpetua, Yachats, OR",
     "gvia": "Heceta Head Lighthouse, OR|Sea Lion Caves, OR",
     "poi": [
       {
-        "name": "Yachats 4th of July",
-        "what": "The village's beloved, tongue-in-cheek La De Da Parade by day and fireworks over the bay at night — small-town Americana at its best.",
-        "q": "Yachats, OR",
-        "slot": "activity",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Yachats.jpg/960px-Yachats.jpg",
-        "wiki": "https://en.wikipedia.org/wiki/Yachats,_Oregon",
-        "it": ["kid", "history", "coast"],
-        "kid": true
-      },
-      {
         "name": "Thor's Well & Cape Perpetua",
-        "what": "The Pacific drains into a churning sinkhole at Thor's Well, with Devil's Churn and Spouting Horn nearby and the coast's highest overlook above — Cape Perpetua's signature scenery.",
+        "what": "The Pacific drains into a churning sinkhole at Thor's Well, with Devil's Churn and Spouting Horn nearby — Cape Perpetua's signature theatrics. Keep Aslan well back from the wet rocks.",
         "q": "Cape Perpetua, Yachats, OR",
         "slot": "scenic",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Thor%27s_Well_%2837402149210%29.jpg/960px-Thor%27s_Well_%2837402149210%29.jpg",
@@ -1776,8 +1976,17 @@ window.DAYS = [
         "it": ["scenic", "coast"]
       },
       {
+        "name": "Cape Perpetua Overlook",
+        "what": "The highest paved viewpoint on the Oregon coast (~800 ft) — whale-spotting scopes, and the visitor center's tide-pool tips below.",
+        "q": "Cape Perpetua Overlook, OR",
+        "slot": "scenic",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Cape_Perpetua_from_Visitor_Center_01.jpg/960px-Cape_Perpetua_from_Visitor_Center_01.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Cape_Perpetua",
+        "it": ["scenic", "coast", "wildlife"]
+      },
+      {
         "name": "Heceta Head Lighthouse",
-        "what": "One of the most photographed lighthouses in the United States, glowing white on its forested headland.",
+        "what": "One of the most photographed lighthouses in the United States, glowing white on its forested headland — a short trail past the keeper's house.",
         "q": "Heceta Head Lighthouse, OR",
         "slot": "scenic",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/HecetaHeadLighthouse.jpg/960px-HecetaHeadLighthouse.jpg",
@@ -1807,7 +2016,7 @@ window.DAYS = [
       {
         "style": "Wild Pacific seafood & chowder",
         "shop": "Luna Sea Fish House",
-        "shopUrl": "https://www.google.com/maps/search/?api=1&query=Luna%20Sea%20Fish%20House%20Yachats%20OR",
+        "shopUrl": "https://www.google.com/maps/search/?api=1&query=Luna%20Sea%20Fish%20House%20Seal%20Rock%20OR",
         "city": "Yachats",
         "slot": "dinner"
       }
@@ -1819,18 +2028,18 @@ window.DAYS = [
         "picks": [
           {
             "name": "Green Salmon Coffee Company",
-            "cuisine": "coffee house, pastries & breakfast",
+            "cuisine": "organic coffee house & pastries",
             "rating": 4.5,
-            "why": "Ruslan & Galiya — the town's beloved organic coffee + scratch baked goods to fuel the morning loop",
+            "why": "Ruslan & Galiya — the town's beloved coffee + scratch baked goods",
             "kid": false,
             "map": "https://maps.google.com/?cid=15236297694368532859",
             "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Caffe_Latte_cup.jpg/960px-Caffe_Latte_cup.jpg"
           },
           {
             "name": "Bread & Roses Bakery",
-            "cuisine": "bakery — pastries, sticky buns, plain rolls",
+            "cuisine": "cottage bakery — pastries & rolls",
             "rating": 4.6,
-            "why": "Aslan — simple sweet pastry and plain bread he'll happily eat; grab extras for the trail",
+            "why": "Aslan — simple sweet pastry he'll happily eat; grab extras for the loop",
             "kid": true,
             "map": "https://maps.google.com/?cid=10779718063421500113",
             "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Honey_Run_Covered_Bridge_2024_Pancake_Breakfast-104A2111.jpg/960px-Honey_Run_Covered_Bridge_2024_Pancake_Breakfast-104A2111.jpg"
@@ -1839,13 +2048,13 @@ window.DAYS = [
       },
       {
         "slot": "lunch",
-        "area": "Cape Perpetua / Yachats (picnic or cafe)",
+        "area": "Yachats village",
         "picks": [
           {
             "name": "Beach Street Kitchen",
-            "cuisine": "casual cafe — sandwiches, salads, soups",
+            "cuisine": "casual cafe — sandwiches, soups",
             "rating": 4.7,
-            "why": "Galiya — fresh, well-rated lunch in town; great to grab before or after the parade",
+            "why": "Galiya — fresh, well-rated lunch between cape stops",
             "kid": false,
             "map": "https://maps.google.com/?cid=9912055002029852844",
             "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cup_of_clam_chowder%2C_with_saltines.jpg/960px-Cup_of_clam_chowder%2C_with_saltines.jpg"
@@ -1854,10 +2063,9 @@ window.DAYS = [
             "name": "The Village Bean",
             "cuisine": "coffee shop — paninis, bagels, grab-and-go",
             "rating": 4.5,
-            "why": "Aslan — easy bagel/grilled-cheese-style picks and a picnic to take up to Cape Perpetua; plain and predictable",
+            "why": "Aslan — bagel/grilled-cheese picks and a picnic to carry up Cape Perpetua",
             "kid": true,
-            "map": "https://maps.google.com/?cid=4628231565601770751",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Caffe_Latte_cup.jpg/960px-Caffe_Latte_cup.jpg"
+            "map": "https://maps.google.com/?cid=4628231565601770751"
           }
         ]
       },
@@ -1869,138 +2077,149 @@ window.DAYS = [
             "name": "Ona Restaurant & Lounge",
             "cuisine": "Pacific Northwest seafood, riverfront",
             "rating": 4.3,
-            "why": "Galiya — Yachats' standout fine-casual spot, local fish on the Yachats River; book ahead on the 4th",
+            "why": "Galiya — the rest-day splurge: local fish on the Yachats River; book ahead in August",
             "kid": false,
             "map": "https://maps.google.com/?cid=130354226211525660",
             "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fish_and_chips_plate_with_peas.jpg/960px-Fish_and_chips_plate_with_peas.jpg"
           },
           {
             "name": "The Drift Inn Hotel and Restaurant",
-            "cuisine": "American comfort food & seafood, live music",
-            "rating": 4.3,
-            "why": "Whole family — big varied menu, lively holiday vibe, and a kids' menu with burgers, mac & cheese and chicken strips for Aslan",
+            "cuisine": "comfort food & seafood, live music",
+            "rating": 4.4,
+            "why": "whole family — the easy repeat if the splurge feels like too much",
             "kid": true,
             "map": "https://maps.google.com/?cid=15878405420698897937",
             "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cheeseburger_and_Fries_2.jpg/960px-Cheeseburger_and_Fries_2.jpg"
           },
           {
-            "name": "Luna Sea Fish House (Seal Rock)",
-            "cuisine": "dockside fish & chips, chowder",
-            "rating": 4.5,
-            "why": "Ruslan — own-boat-caught fish & chips a short ride north; casual, fast, and Aslan-friendly fries & plain fish",
+            "name": "Yachats Underground Pub & Grub",
+            "cuisine": "pub burgers & fish and chips",
+            "rating": 4.0,
+            "why": "Aslan — casual cellar pub with simple kids' fare, walkable in town",
             "kid": true,
-            "map": "https://maps.google.com/?cid=14291681410554983807",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fish_and_chips_plate_with_peas.jpg/960px-Fish_and_chips_plate_with_peas.jpg"
+            "map": "https://maps.google.com/?cid=1754061589375500362",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/NCI_Visuals_Food_Hamburger.jpg/960px-NCI_Visuals_Food_Hamburger.jpg"
           }
         ]
       }
     ],
     "localTodo": [
       {
-        "time": "~08:30",
-        "name": "Cape Perpetua & Thor's Well",
-        "what": "Short drive south for the headland viewpoint, Thor's Well and the Spouting Horn at the right tide; easy boardwalk options for Aslan. Beat the holiday crowds early.",
-        "map": "https://www.google.com/maps/search/?api=1&query=Cape+Perpetua+Scenic+Area+Yachats+Oregon"
+        "time": "~10:30",
+        "name": "Cape Perpetua — Thor's Well & Devil's Churn",
+        "what": "the drainpipe of the Pacific, Spouting Horn and the churn — best around an incoming tide; keep Aslan well back from the wet rocks",
+        "map": "https://www.google.com/maps/search/?api=1&query=Thor's+Well+Cape+Perpetua"
       },
       {
-        "time": "~09:30",
-        "name": "Heceta Head Lighthouse & Sea Lion Caves",
-        "what": "Postcard lighthouse and the sea-lion sea cave just south on 101 — a kid hit. Both are short stops, back in town before the parade.",
-        "map": "https://www.google.com/maps/search/?api=1&query=Heceta+Head+Lighthouse+Oregon"
+        "time": "~11:30",
+        "name": "Cape Perpetua Overlook & visitor center",
+        "what": "the highest paved viewpoint on the Oregon coast, whale-spotting scopes and ranger tide-pool tips",
+        "map": "https://www.google.com/maps/search/?api=1&query=Cape+Perpetua+Overlook"
       },
       {
-        "time": "~12:00",
-        "name": "La De Da Parade",
-        "what": "Yachats' famously quirky Fourth of July parade marches up Hwy 101 through downtown at noon — grab a curb spot 15-20 min early. Treats, games, art and live music around town before and after.",
-        "map": "https://www.google.com/maps/search/?api=1&query=Yachats+Oregon+downtown+Highway+101"
+        "time": "~14:00",
+        "name": "Heceta Head Lighthouse",
+        "what": "the short trail past the keeper's house to one of America's most photographed lighthouses",
+        "map": "https://www.google.com/maps/search/?api=1&query=Heceta+Head+Lighthouse"
       },
       {
         "time": "~15:00",
-        "name": "804 Trail & tide pools",
-        "what": "Flat, stroller-easy oceanfront path along the bluff with tide pools at low tide — perfect afternoon leg-stretch for the family.",
-        "map": "https://www.google.com/maps/search/?api=1&query=Yachats+804+Trail"
+        "name": "Sea Lion Caves",
+        "what": "the elevator down into America's largest sea cave — wild Steller sea lions barking below",
+        "map": "https://www.google.com/maps/search/?api=1&query=Sea+Lion+Caves+Oregon"
       },
       {
-        "time": "~22:00",
-        "name": "Fireworks over Yachats Bay",
-        "what": "Fireworks launch over the mouth of the Yachats River at dusk (~10 PM in early July). Watch from the 804 Trail, the bayfront or Yachats Commons; bring a blanket and a jacket — coast nights are cold.",
-        "map": "https://www.google.com/maps/search/?api=1&query=Yachats+Bay+Oregon"
+        "time": "~16:30",
+        "name": "804 Trail tidepools",
+        "what": "low-tide sea stars, anemones and hermit crabs on the basalt shelf right below the hotel",
+        "map": "https://www.google.com/maps/search/?api=1&query=804+Trail+Yachats"
       }
     ]
   },
 {
-    "d": 5,
-    "id": "st-helens",
-    "miles": 216,
-    "dmin": 247,
+    "d": 7,
+    "id": "portland",
+    "miles": 156,
+    "dmin": 226,
     "rest": false,
-    "region": "Coast → Cascades",
-    "title": "Inland to the Volcano",
-    "route": "Yachats → Alsea → Corvallis → cross the Columbia → Mount St. Helens",
-    "desc": "The return turns inland and the scenery changes completely. Leave the coast on the quiet, twisting Alsea River road over the Coast Range to Corvallis and the Willamette Valley for lunch, then cross the Columbia back into Washington near Longview. This is the trip's longest transfer — paced with regular breaks — but the payoff is enormous: rolling up the Spirit Lake Highway into the blast zone of Mount St. Helens, the volcano that famously blew its top in 1980. Settle in at the Castle Rock / Silver Lake gateway, where the always-open Visitor Center tells the eruption story, and save the high viewpoints for tomorrow's short, easy morning.",
-    "tags": ["ride", "scenic", "volcano"],
+    "region": "Coast Range → Willamette Valley",
+    "title": "Over the Coast Range to Portland",
+    "route": "Yachats → Alsea Hwy → Corvallis → 99W wine country → Portland",
+    "desc": "Goodbye to the Pacific, the pretty way. The flowing Alsea Highway (OR-34) climbs out of Yachats through the Coast Range along the Alsea River — forest two-lane all the way to a Corvallis food-hall lunch. Then the valley takes over: quiet farm roads north through Independence and the 99W wine country past Amity, Dundee and Newberg, vineyard rows striping the hills. The day ends with the trip's one city arrival — Portland on the old southwest approach, before the evening rush, no freeways — and a nice downtown hotel: Powell's City of Books before dinner, a food-cart-pod feast where everyone orders exactly what they want, and Salt & Straw for dessert. Roses over the skyline at golden hour if legs allow.",
+    "tags": ["ride", "scenic", "food"],
     "gfrom": "Yachats, OR",
-    "gto": "Castle Rock, WA",
-    "gvia": "Alsea, OR|Corvallis, OR|Longview, WA",
+    "gto": "Portland, OR",
+    "gvia": "Alsea, OR|Corvallis, OR|Independence, OR|Newberg, OR",
     "poi": [
       {
-        "name": "Alsea River road",
-        "what": "A gentle, scenic two-lane over the Coast Range along the Alsea River — the calm way off the coast and a lovely warm-up to the day's miles.",
+        "name": "Alsea Highway",
+        "what": "A gentle, flowing two-lane over the Coast Range along the Alsea River — the calm, scenic way off the coast and the day's riding reward.",
         "q": "Alsea, OR",
         "slot": "scenic",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Cape_Perpetua_%285802047887%29.jpg",
-        "it": ["scenic", "moto", "skill"]
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/68/View_of_Yachats_from_Perpetua.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Oregon_Route_34",
+        "it": ["scenic", "moto"]
       },
       {
         "name": "Corvallis",
-        "what": "Willamette Valley lunch stop — a relaxed college town to break the long transfer roughly halfway.",
+        "what": "Willamette Valley lunch stop — Common Fields' food-cart yard is a preview of Portland's pods. Fuel here; the wine country ahead is stationless.",
         "q": "Corvallis, OR",
         "slot": "lunch",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Coldwater_Lake_%282010-08-19%29%2C_04.jpg/960px-Coldwater_Lake_%282010-08-19%29%2C_04.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Willamette_Valley_Vineyards.jpg/960px-Willamette_Valley_Vineyards.jpg",
         "wiki": "https://en.wikipedia.org/wiki/Corvallis,_Oregon",
         "it": ["food"]
       },
       {
-        "name": "Columbia River crossing",
-        "what": "Recross the Columbia near Longview/Rainier back into Washington, leaving the coast behind for the Cascades.",
-        "q": "Longview, WA",
-        "slot": "stop",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astoria-Megler_Bridge_from_West_Mooring_Basin_Docks.jpg/960px-Astoria-Megler_Bridge_from_West_Mooring_Basin_Docks.jpg",
-        "it": ["scenic", "history"]
+        "name": "99W wine country",
+        "what": "Vineyard hills through Amity, Dundee and Newberg — the Willamette Valley's famous pinot country at touring pace.",
+        "q": "Newberg, OR",
+        "slot": "scenic",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Willamette_Valley_Vineyards.jpg/960px-Willamette_Valley_Vineyards.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Willamette_Valley",
+        "it": ["scenic"]
       },
       {
-        "name": "Mount St. Helens Visitor Center",
-        "what": "The always-open Visitor Center at Silver Lake — eruption exhibits, a walk-in model volcano and the first close look at the mountain. (Johnston Ridge Observatory remains closed since 2023.)",
-        "q": "Mount St. Helens Visitor Center, Silver Lake, WA",
+        "name": "Powell's City of Books",
+        "what": "The world's largest independent bookstore — a whole city block, nine color-coded rooms; Aslan picks the trip's souvenir book in the kids' room.",
+        "q": "Powell's City of Books, Portland, OR",
         "slot": "activity",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mount_St._Helens_over_Spirit_Lake_Highway.jpg/960px-Mount_St._Helens_over_Spirit_Lake_Highway.jpg",
-        "wiki": "https://en.wikipedia.org/wiki/Mount_St._Helens",
-        "it": ["volcano", "kid", "scenic"],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/PowellsBookstore.jpg/960px-PowellsBookstore.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Powell%27s_Books",
+        "it": ["kid", "history", "toys"],
         "kid": true
+      },
+      {
+        "name": "International Rose Test Garden",
+        "what": "10,000 rose bushes terraced above the city in Washington Park — free, in late-summer bloom, with the skyline and Mount Hood beyond. Golden-hour option.",
+        "q": "International Rose Test Garden, Portland, OR",
+        "slot": "scenic",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Portland_International_Rose_Test_Garden_-_HCP_-_October_15%2C_2022_-_012.jpg/960px-Portland_International_Rose_Test_Garden_-_HCP_-_October_15%2C_2022_-_012.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/International_Rose_Test_Garden",
+        "it": ["scenic"]
+      }
+    ],
+    "foodTrail": [
+      {
+        "style": "Food-cart pod & Salt & Straw",
+        "shop": "A downtown food-cart pod",
+        "shopUrl": "https://www.google.com/maps/search/?api=1&query=food%20cart%20pod%20downtown%20Portland%20OR",
+        "city": "Portland",
+        "slot": "dinner"
       }
     ],
     "eats": [
       {
         "slot": "breakfast",
-        "area": "Yachats",
+        "area": "Yachats (before rolling)",
         "picks": [
           {
             "name": "Green Salmon Coffee Company",
-            "cuisine": "coffee house / bakery breakfast",
+            "cuisine": "organic coffee house & pastries",
             "rating": 4.5,
-            "why": "Galiya & Ruslan — beloved Yachats roaster, pastries and a strong coffee for the long ride",
-            "kid": false,
-            "map": "https://maps.google.com/?cid=15236297694368532859",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pancake_stack.jpg/330px-Pancake_stack.jpg"
-          },
-          {
-            "name": "Beach Street Kitchen",
-            "cuisine": "American breakfast / brunch",
-            "rating": 4.7,
-            "why": "Aslan — eggs, pancakes and plain toast he'll eat before a big day",
+            "why": "the proper send-off from the coast",
             "kid": true,
-            "map": "https://maps.google.com/?cid=9912055002029852844",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pancake_stack.jpg/330px-Pancake_stack.jpg"
+            "map": "https://maps.google.com/?cid=15236297694368532859",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Caffe_Latte_cup.jpg/960px-Caffe_Latte_cup.jpg"
           }
         ]
       },
@@ -2009,409 +2228,222 @@ window.DAYS = [
         "area": "Corvallis",
         "picks": [
           {
-            "name": "Swan Dive Sandwiches + Bar",
-            "cuisine": "chef-driven sandwiches",
-            "rating": 4.8,
-            "why": "Galiya — inventive Willamette Valley sandwiches, top-rated downtown spot",
-            "kid": false,
-            "map": "https://maps.google.com/?cid=15979286481041514821",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Club-sandwich.jpg/330px-Club-sandwich.jpg"
-          },
-          {
-            "name": "Block 15 Brewing Downtown Pub",
-            "cuisine": "brewpub / American",
-            "rating": 4.5,
-            "why": "Ruslan — well-known Corvallis brewery with hearty pub plates",
-            "kid": false,
-            "map": "https://maps.google.com/?cid=5868937247190344687",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cheeseburger.jpg/330px-Cheeseburger.jpg"
+            "name": "Common Fields",
+            "cuisine": "food-hall & beer garden",
+            "rating": 4.7,
+            "why": "whole family — Corvallis' food-cart yard: everyone picks their own, a preview of Portland's pods",
+            "kid": true,
+            "map": "https://www.google.com/maps/search/?api=1&query=Common+Fields+Corvallis",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/NCI_Visuals_Food_Hamburger.jpg/960px-NCI_Visuals_Food_Hamburger.jpg"
           },
           {
             "name": "Old World Deli",
-            "cuisine": "deli sandwiches",
-            "rating": 4.5,
-            "why": "Aslan — simple grilled cheese / plain deli sandwich, casual and quick",
-            "kid": true,
-            "map": "https://maps.google.com/?cid=7965508546757815127",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Club-sandwich.jpg/330px-Club-sandwich.jpg"
-          }
-        ]
-      },
-      {
-        "slot": "dinner",
-        "area": "Castle Rock / Silver Lake / Toutle",
-        "picks": [
-          {
-            "name": "Amaro's Table Castle Rock",
-            "cuisine": "Pacific Northwest / American",
-            "rating": 4.8,
-            "why": "Galiya & Ruslan — the standout sit-down restaurant at the volcano gateway",
-            "kid": false,
-            "map": "https://maps.google.com/?cid=16172930673490403158",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cheeseburger.jpg/330px-Cheeseburger.jpg"
-          },
-          {
-            "name": "Peper's 49ER Restaurant",
-            "cuisine": "classic American family diner",
-            "rating": 4.2,
-            "why": "Aslan — old-school diner with burgers, fries, grilled cheese and pancakes; reliable kid food",
-            "kid": true,
-            "map": "https://maps.google.com/?cid=4506938187642784906",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cheeseburger.jpg/330px-Cheeseburger.jpg"
-          },
-          {
-            "name": "El Compadre Restaurant",
-            "cuisine": "Mexican",
-            "rating": 4.4,
-            "why": "whole family — generous, casual Mexican with plain rice/beans/quesadilla for Aslan",
-            "kid": true,
-            "map": "https://maps.google.com/?cid=17521742468811933775",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Mexican_cuisine_1.jpg/330px-Mexican_cuisine_1.jpg"
-          }
-        ]
-      }
-    ],
-    "localTodo": [
-      {
-        "time": "~08:00",
-        "name": "Yachats State Recreation Area",
-        "what": "quick last look at the surf and tide pools before turning inland",
-        "map": "https://www.google.com/maps/search/?api=1&query=Yachats+State+Recreation+Area"
-      },
-      {
-        "time": "~10:30",
-        "name": "Alsea Falls (short detour)",
-        "what": "easy forest waterfall stop to stretch legs on the canyon run",
-        "map": "https://www.google.com/maps/search/?api=1&query=Alsea+Falls+Recreation+Site+Oregon"
-      },
-      {
-        "time": "~13:30",
-        "name": "Oregon State University / downtown Corvallis",
-        "what": "leafy college-town stroll after lunch",
-        "map": "https://www.google.com/maps/search/?api=1&query=Oregon+State+University+Corvallis"
-      },
-      {
-        "time": "~17:30",
-        "name": "Mount St. Helens Visitor Center at Silver Lake",
-        "what": "eruption story, models and a kid-friendly walk-through volcano (check closing time)",
-        "map": "https://www.google.com/maps/search/?api=1&query=Mount+St.+Helens+Visitor+Center+Silver+Lake+WA"
-      }
-    ]
-  },
-{
-    "d": 6,
-    "id": "rainier",
-    "miles": 153,
-    "dmin": 180,
-    "rest": false,
-    "region": "Cascades",
-    "title": "Spirit Lake & the Road to Rainier",
-    "route": "Castle Rock → Spirit Lake Hwy viewpoints → US-12 → Packwood",
-    "desc": "A deliberately short, relaxed day so the volcano gets a proper morning. Ride the rest of the Spirit Lake Highway up into the blast zone for the big roadside viewpoints over the crater, the recovering forest and Coldwater Lake (the upper road to Johnston Ridge is closed, so this is an out-and-back to the open viewpoints). Then drop back down and cross over on US-12 through Mossyrock and Morton to Packwood, the small mountain town that's the southern gateway to Mount Rainier — elk wander the meadows at the edge of town. Easy afternoon: rest up, because tomorrow is the grand finale ride home over the mountain.",
-    "tags": ["ride", "volcano", "scenic", "kid"],
-    "gfrom": "Castle Rock, WA",
-    "gto": "Packwood, WA",
-    "gvia": "Coldwater Lake, WA|Mossyrock, WA|Morton, WA",
-    "poi": [
-      {
-        "name": "Spirit Lake Highway viewpoints",
-        "what": "WA-504 climbs into the 1980 blast zone — sweeping pullouts at Hoffstadt Bluffs and beyond frame the crater and the regrowing forest.",
-        "q": "Hoffstadt Bluffs, WA",
-        "slot": "scenic",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mt._St._Helens_and_Spirit_Lake%2C_Washington_%281292082798%29.jpg/960px-Mt._St._Helens_and_Spirit_Lake%2C_Washington_%281292082798%29.jpg",
-        "wiki": "https://en.wikipedia.org/wiki/Spirit_Lake_(Washington)",
-        "it": ["volcano", "scenic", "history"]
-      },
-      {
-        "name": "Coldwater Lake",
-        "what": "A lake born in the eruption, ringed by the blast zone — an easy boardwalk and the turnaround point of the morning's volcano spur.",
-        "q": "Coldwater Lake, WA",
-        "slot": "activity",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Coldwater_Lake_9015.jpg/960px-Coldwater_Lake_9015.jpg",
-        "wiki": "https://en.wikipedia.org/wiki/Coldwater_Lake",
-        "it": ["volcano", "scenic", "wildlife"],
-        "kid": true
-      },
-      {
-        "name": "Mount St. Helens",
-        "what": "The truncated, steaming volcano itself, seen up close from the highway — a geology lesson a 6-year-old won't forget.",
-        "q": "Mount St. Helens",
-        "slot": "scenic",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/MSH80_eruption_mount_st_helens_05-18-80-dramatic-edit.jpg/960px-MSH80_eruption_mount_st_helens_05-18-80-dramatic-edit.jpg",
-        "wiki": "https://en.wikipedia.org/wiki/Mount_St._Helens",
-        "it": ["volcano", "scenic"]
-      },
-      {
-        "name": "Packwood",
-        "what": "A quiet US-12 mountain town and the south gateway to Mount Rainier — resident elk often graze the meadows at dusk.",
-        "q": "Packwood, WA",
-        "slot": "activity",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mount_Rainier_and_lake_reflection.jpg/960px-Mount_Rainier_and_lake_reflection.jpg",
-        "wiki": "https://en.wikipedia.org/wiki/Packwood,_Washington",
-        "it": ["wildlife", "kid", "scenic"],
-        "kid": true
-      }
-    ],
-    "eats": [
-      {
-        "slot": "breakfast",
-        "area": "Castle Rock",
-        "picks": [
-          {
-            "name": "Peper's 49ER Restaurant",
-            "cuisine": "American diner breakfast",
-            "rating": 4.2,
-            "why": "Galiya & Ruslan — hearty pre-ride diner plates; Aslan gets plain pancakes/eggs",
-            "kid": true,
-            "map": "https://maps.google.com/?cid=4506938187642784906",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Pancakes_%281%29.jpg/330px-Pancakes_%281%29.jpg"
-          },
-          {
-            "name": "The Oasis Bar & Grill",
-            "cuisine": "American bar & grill",
-            "rating": 4.5,
-            "why": "backup in town if Peper's is busy — fuel up before the SR-504 climb",
-            "kid": true,
-            "map": "https://maps.google.com/?cid=9411642080220914546"
-          }
-        ]
-      },
-      {
-        "slot": "lunch",
-        "area": "Mount St. Helens / Castle Rock (SR-504 junction)",
-        "picks": [
-          {
-            "name": "Amaro's Table",
-            "cuisine": "Pacific NW / American",
-            "rating": 4.8,
-            "why": "Galiya — best-rated kitchen right where Spirit Lake Hwy meets I-5, perfect after the viewpoints",
-            "kid": true,
-            "map": "https://maps.google.com/?cid=16172930673490403158",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cheeseburger.jpg/330px-Cheeseburger.jpg"
-          },
-          {
-            "name": "Lone Fir Cafe",
-            "cuisine": "casual American diner",
-            "rating": 4.4,
-            "why": "Ruslan — classic volcano-country roadhouse if you loop down the Cougar side instead",
-            "kid": true,
-            "map": "https://maps.google.com/?cid=6753037004800324019"
-          }
-        ]
-      },
-      {
-        "slot": "dinner",
-        "area": "Packwood",
-        "picks": [
-          {
-            "name": "Cliff Droppers",
-            "cuisine": "burgers",
+            "cuisine": "classic deli sandwiches",
             "rating": 4.6,
-            "why": "Galiya & Ruslan — Packwood's standout burger joint; Aslan gets a plain burger + fries",
+            "why": "the quick, solid indoor alternative downtown",
             "kid": true,
-            "map": "https://maps.google.com/?cid=1323618167841938218",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cheeseburger.jpg/330px-Cheeseburger.jpg"
+            "map": "https://www.google.com/maps/search/?api=1&query=Old+World+Deli+Corvallis"
+          }
+        ]
+      },
+      {
+        "slot": "dinner",
+        "area": "Portland",
+        "picks": [
+          {
+            "name": "A downtown food-cart pod",
+            "cuisine": "Portland's signature — every cuisine at once",
+            "rating": 4.6,
+            "why": "whole family — everyone orders exactly what they want; the picky-six-year-old-proof dinner",
+            "kid": true,
+            "map": "https://www.google.com/maps/search/?api=1&query=food+cart+pod+downtown+Portland",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/960px-Eq_it-na_pizza-margherita_sep2005_sml.jpg"
           },
           {
-            "name": "Cruiser's Pizza",
-            "cuisine": "pizza",
-            "rating": 4.2,
-            "why": "Aslan — easiest kid pick in town, plain cheese pizza; busiest/most-reviewed spot in Packwood",
+            "name": "Mother's Bistro & Bar",
+            "cuisine": "comfort food done grandly",
+            "rating": 4.6,
+            "why": "the sit-down option — mac & cheese for Aslan, pot roast and a proper cocktail for the grown-ups",
             "kid": true,
-            "map": "https://maps.google.com/?cid=5640658349503661047",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Pizza.jpg/330px-Pizza.jpg"
+            "map": "https://www.google.com/maps/search/?api=1&query=Mother's+Bistro+Portland"
           },
           {
-            "name": "Blue Spruce Saloon And Diner",
-            "cuisine": "American saloon / diner",
-            "rating": 4.3,
-            "why": "Ruslan — hearty local saloon with a full diner menu and a beer after the ride",
+            "name": "Salt & Straw (NW 23rd)",
+            "cuisine": "Portland's famous scoop shop",
+            "rating": 4.7,
+            "why": "dessert — honey-lavender and sea-salt-caramel; the line moves fast",
             "kid": true,
-            "map": "https://maps.google.com/?cid=3407359734120354488"
+            "map": "https://www.google.com/maps/search/?api=1&query=Salt+and+Straw+NW+23rd+Portland"
           }
         ]
       }
     ],
     "localTodo": [
       {
-        "time": "~09:30",
-        "name": "Coldwater Lake Recreation Area",
-        "what": "calm lake formed by the 1980 eruption — short boardwalk, easy legs-stretch the whole family can do, big views back at the crater",
-        "map": "https://www.google.com/maps/search/?api=1&query=Coldwater+Lake+Recreation+Area+Mount+St+Helens"
+        "time": "~10:00",
+        "name": "Alsea Highway (OR-34)",
+        "what": "the flowing Coast Range river road out of Yachats — forest two-lane along the Alsea, the trip's prettiest inland riding",
+        "map": "https://www.google.com/maps/search/?api=1&query=Alsea+OR"
       },
       {
-        "time": "~10:30",
-        "name": "Johnston Ridge / Spirit Lake Hwy viewpoints",
-        "what": "the dramatic end-of-road blast-zone overlooks straight into the crater (check road status — upper SR-504 has had closures); turn around where open",
-        "map": "https://www.google.com/maps/search/?api=1&query=Spirit+Lake+Highway+viewpoint+Mount+St+Helens"
+        "time": "~14:00",
+        "name": "99W wine country",
+        "what": "vineyard hills through Amity, Dundee and Newberg — a tasting-room stop is possible but optional (riders stay dry)",
+        "map": "https://www.google.com/maps/search/?api=1&query=Dundee+OR+wine+country"
       },
       {
-        "time": "~12:15",
-        "name": "North Fork Survivors",
-        "what": "quirky roadside stop with the volcano museum, a real ash-buried A-frame and a gift shop — easy souvenir win for Aslan",
-        "map": "https://maps.google.com/?cid=11273759739720209341"
+        "time": "~16:30",
+        "name": "Powell's City of Books",
+        "what": "the world's largest independent bookstore — a whole city block, nine color-coded rooms; Aslan picks the trip's souvenir book in the kids' room",
+        "map": "https://www.google.com/maps/search/?api=1&query=Powell's+City+of+Books+Portland"
       },
       {
-        "time": "~15:30",
-        "name": "Mossyrock / Riffe Lake pull-off on US-12",
-        "what": "scenic reservoir stop to break up the eastbound leg toward Packwood",
-        "map": "https://www.google.com/maps/search/?api=1&query=Riffe+Lake+viewpoint+Mossyrock+WA"
+        "time": "~19:30",
+        "name": "International Rose Test Garden (golden hour, optional)",
+        "what": "10,000 roses terraced over the skyline in Washington Park — Galiya's evening photo stop if legs allow",
+        "map": "https://www.google.com/maps/search/?api=1&query=International+Rose+Test+Garden+Portland"
       }
     ]
   },
 {
-    "d": 7,
+    "d": 8,
     "id": "home",
-    "miles": 165,
-    "dmin": 247,
+    "miles": 220,
+    "dmin": 322,
     "rest": false,
-    "region": "Mount Rainier → Home",
-    "title": "Over Rainier, Home",
-    "route": "Packwood → Paradise → Chinook Pass → Enumclaw → Home",
-    "desc": "The graduation ride. Climb into Mount Rainier National Park to Paradise, where July wildflower meadows spread beneath the glaciers and Myrtle Falls frames the peak. Drop along Stevens Canyon past Reflection Lakes and Narada Falls, then up over Chinook Pass (5,430 ft) at Tipsoo Lake — a spectacular, low-speed alpine pass and the most rewarding riding of the trip, a fitting capstone for a brand-new rider. Descend the eastern flank to Enumclaw for a celebratory lunch, then quiet roads home to Woodinville. Seven days, a ferry, the whole Oregon coast, a volcano and a mountain pass — and a rider who left a beginner and came home a tourer.",
-    "tags": ["ride", "moto", "scenic", "kid"],
-    "gfrom": "Packwood, WA",
+    "region": "Columbia River → Puget Sound",
+    "title": "The Columbia & Backroads Home",
+    "route": "Portland → St. Johns Bridge → US-30 → Longview → Rainier foothills → Home",
+    "desc": "The long, satisfying ride home — the trip's biggest day, planned like a tour in miniature and run on an early start. Roll out under the gothic towers of the St. Johns Bridge before the city wakes, then follow US-30 up the Columbia — the big river alongside all morning — to the Lewis & Clark Bridge crossing at Longview, back into Washington one last time. An early Castle Rock lunch, then the backroads take over: the Cowlitz farm valleys through Toledo, over to the Rainier foothills where Mount Rainier fills the sky above the Orting valley on a clear day, and the final familiar run through Maple Valley to the Woodinville driveway. Eight days, a ferry, two glamping camps, the whole coast — and a rider with a real tour in her mirrors.",
+    "tags": ["ride", "scenic", "moto"],
+    "gfrom": "Portland, OR",
     "gto": "Woodinville, WA",
-    "gvia": "Paradise, Mount Rainier National Park, WA|Reflection Lakes, Mount Rainier, WA|Tipsoo Lake, WA|Enumclaw, WA",
+    "gvia": "St. Johns Bridge, Portland, OR|Rainier, OR|Toledo, WA|Orting, WA|Maple Valley, WA",
     "poi": [
       {
-        "name": "Paradise, Mount Rainier",
-        "what": "The park's famous subalpine meadow — peak July wildflowers, the Skyline Trail and Myrtle Falls with Rainier towering behind.",
-        "q": "Paradise, Mount Rainier National Park, WA",
-        "slot": "activity",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Myrtle_Falls_and_Mount_Rainier.jpg/960px-Myrtle_Falls_and_Mount_Rainier.jpg",
-        "wiki": "https://en.wikipedia.org/wiki/Paradise,_Mount_Rainier_National_Park",
-        "it": ["scenic", "wildlife"],
-        "kid": true
-      },
-      {
-        "name": "Reflection Lakes",
-        "what": "Mount Rainier mirrored in still tarns right beside Stevens Canyon Road — the classic postcard stop.",
-        "q": "Reflection Lakes, Mount Rainier, WA",
+        "name": "St. Johns Bridge",
+        "what": "Portland's 1931 gothic suspension masterpiece over the Willamette — the departure photo from Cathedral Park and the official start of the ride home.",
+        "q": "St. Johns Bridge, Portland, OR",
         "slot": "scenic",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Reflection_Lakes%2C_Mt_Rainier_%2848656886908%29.jpg/960px-Reflection_Lakes%2C_Mt_Rainier_%2848656886908%29.jpg",
-        "wiki": "https://en.wikipedia.org/wiki/Mount_Rainier_National_Park",
-        "it": ["scenic", "moto"]
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Cathedral_Park_St_Johns_Bridge_-_Portland_Oregon.jpg/960px-Cathedral_Park_St_Johns_Bridge_-_Portland_Oregon.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/St._Johns_Bridge",
+        "it": ["scenic", "history"]
       },
       {
-        "name": "Narada Falls",
-        "what": "A 168-foot waterfall a few steps from the road, often hung with rainbows in the spray.",
-        "q": "Narada Falls, Mount Rainier, WA",
-        "slot": "scenic",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Narada_Falls.jpg/960px-Narada_Falls.jpg",
-        "wiki": "https://en.wikipedia.org/wiki/Narada_Falls",
-        "it": ["scenic", "moto"]
-      },
-      {
-        "name": "Tipsoo Lake & Chinook Pass",
-        "what": "The alpine high point — a wildflower-rimmed lake at 5,430 ft on the dramatic, sweeping Chinook Pass (WA-410). The ride of the trip.",
-        "q": "Tipsoo Lake, WA",
-        "slot": "scenic",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tipsoo_Lake_wildflowers_-_48607493656.jpg/960px-Tipsoo_Lake_wildflowers_-_48607493656.jpg",
-        "wiki": "https://en.wikipedia.org/wiki/Chinook_Pass",
-        "it": ["moto", "scenic"]
-      },
-      {
-        "name": "Enumclaw",
-        "what": "Descend the east side for a celebration lunch in the farm town below Rainier, then the easy run home.",
-        "q": "Enumclaw, WA",
+        "name": "Lewis & Clark Bridge & Longview",
+        "what": "US-30's Columbia-side run ends at the last river crossing — over the Lewis & Clark Bridge into Washington, with an early lunch and fuel at Castle Rock just up the road.",
+        "q": "Lewis and Clark Bridge, Longview, WA",
         "slot": "lunch",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mount_Rainier_from_above_Myrtle_Falls_in_August.JPG/960px-Mount_Rainier_from_above_Myrtle_Falls_in_August.JPG",
-        "wiki": "https://en.wikipedia.org/wiki/Enumclaw,_Washington",
-        "it": ["food"]
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cheeseburger_and_Fries_2.jpg/960px-Cheeseburger_and_Fries_2.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Lewis_and_Clark_Bridge",
+        "it": ["scenic", "history", "food"]
+      },
+      {
+        "name": "Orting valley Rainier views",
+        "what": "On a clear day Mount Rainier fills the sky over the farm roads — the mountain escorting the family home through the foothills.",
+        "q": "Orting, WA",
+        "slot": "scenic",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mount_Rainier_and_lake_reflection.jpg/960px-Mount_Rainier_and_lake_reflection.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Orting,_Washington",
+        "it": ["scenic", "kid"],
+        "kid": true
       },
       {
         "name": "Home — Woodinville",
-        "what": "Back where it started — bikes parked, a 6-year-old asleep, and a brand-new rider who is now a tourer.",
+        "what": "Back where it started — bikes parked, a 6-year-old asleep, and a coast tour in the books.",
         "q": "Woodinville, WA",
         "slot": "activity",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Edmonds_Ferry_from_Edmonds_Beach_-_Edmonds_Washington.jpg/960px-Edmonds_Ferry_from_Edmonds_Beach_-_Edmonds_Washington.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Woodinville_WA_-_Sammamish_River_Trail.jpg/960px-Woodinville_WA_-_Sammamish_River_Trail.jpg",
         "it": ["skill"]
       }
     ],
     "eats": [
       {
-        "slot": "coffee",
-        "area": "Packwood",
+        "slot": "breakfast",
+        "area": "Portland (early)",
         "picks": [
           {
-            "name": "Mountain Goat Coffee",
-            "cuisine": "espresso bar / breakfast pastries",
-            "rating": 4.6,
-            "why": "Ruslan & Galiya — strong PNW coffee before the park; the standout fuel stop in town",
-            "kid": false,
-            "map": "https://maps.google.com/?cid=2351003668736349144",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Latte.jpg/330px-Latte.jpg"
+            "name": "Blue Star Donuts",
+            "cuisine": "brioche donuts & coffee",
+            "rating": 4.4,
+            "why": "the classy send-off box — blueberry-bourbon-basil for the grown-ups",
+            "kid": true,
+            "map": "https://www.google.com/maps/search/?api=1&query=Blue+Star+Donuts+Portland",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Caffe_Latte_cup.jpg/960px-Caffe_Latte_cup.jpg"
           },
           {
-            "name": "Base Camp Coffee",
-            "cuisine": "drive-up coffee stand",
-            "rating": 4.7,
-            "why": "Aslan — quick hot cocoa / muffin and a no-fuss stop on the way out",
+            "name": "Voodoo Doughnut",
+            "cuisine": "the pink-box Portland icon",
+            "rating": 4.4,
+            "why": "Aslan — a maple bar with a face on it; pure Portland",
             "kid": true,
-            "map": "https://maps.google.com/?cid=7730475893704290194",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Pancakes.jpg/330px-Pancakes.jpg"
+            "map": "https://www.google.com/maps/search/?api=1&query=Voodoo+Doughnut+Portland"
           }
         ]
       },
       {
         "slot": "lunch",
-        "area": "Enumclaw",
+        "area": "Castle Rock / Longview",
         "picks": [
           {
-            "name": "Casting Iron",
-            "cuisine": "scratch bar & grill (PNW comfort food)",
-            "rating": 4.7,
-            "why": "Galiya & Ruslan — top-rated celebration lunch to toast finishing the tour",
-            "kid": false,
-            "map": "https://maps.google.com/?cid=10184653972172552891",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cheeseburger.jpg/330px-Cheeseburger.jpg"
+            "name": "The Oasis (Castle Rock)",
+            "cuisine": "small-town diner & burgers",
+            "rating": 4.5,
+            "why": "whole family — the halfway-mark refuel; burgers and fries done right",
+            "kid": true,
+            "map": "https://www.google.com/maps/search/?api=1&query=The+Oasis+Castle+Rock+WA",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cheeseburger_and_Fries_2.jpg/960px-Cheeseburger_and_Fries_2.jpg"
           },
           {
-            "name": "Burger Buds",
-            "cuisine": "smash burgers & fries",
-            "rating": 4.9,
-            "why": "Aslan — plain burger, fries and a milkshake he'll actually eat; highest-rated spot in town",
+            "name": "Amaro's Table (Castle Rock)",
+            "cuisine": "modern American kitchen",
+            "rating": 4.8,
+            "why": "the nicer sit-down if the family wants a proper last road lunch",
             "kid": true,
-            "map": "https://maps.google.com/?cid=6820249718495195552",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/French_Fries.jpg/330px-French_Fries.jpg"
-          },
+            "map": "https://www.google.com/maps/search/?api=1&query=Amaro's+Table+Castle+Rock+WA"
+          }
+        ]
+      },
+      {
+        "slot": "dinner",
+        "area": "Home — Woodinville",
+        "picks": [
           {
-            "name": "The Historic Mint Restaurant & Alehouse",
-            "cuisine": "American pub / family alehouse",
-            "rating": 4.3,
-            "why": "whole family — roomy historic spot with a kids menu and burgers, good fallback if there's a wait",
+            "name": "Your own kitchen (or a favorite Woodinville table)",
+            "cuisine": "the homecoming dinner",
+            "rating": 5.0,
+            "why": "the best meal is the one you don't have to ride to — unload, shower, toast the finished tour",
             "kid": true,
-            "map": "https://maps.google.com/?cid=11528093723048268309",
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cheeseburger.jpg/330px-Cheeseburger.jpg"
+            "map": "https://www.google.com/maps/search/?api=1&query=Woodinville+WA",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/960px-Eq_it-na_pizza-margherita_sep2005_sml.jpg"
           }
         ]
       }
     ],
     "localTodo": [
       {
-        "time": "~09:30",
-        "name": "Paradise, Mount Rainier NP",
-        "what": "peak-summer subalpine wildflower meadows under the mountain; short stroll on the Skyline/Nisqually Vista paths",
-        "map": "https://www.google.com/maps/search/?api=1&query=Paradise+Mount+Rainier+National+Park"
+        "time": "~08:45",
+        "name": "St. Johns Bridge & Cathedral Park",
+        "what": "roll out under the 1931 gothic suspension towers — the departure photo and the official start of the ride home",
+        "map": "https://www.google.com/maps/search/?api=1&query=Cathedral+Park+Portland"
       },
       {
-        "time": "~10:30",
-        "name": "Reflection Lakes",
-        "what": "classic mirror view of Rainier just off Stevens Canyon Rd — a quick photo pull-out the whole family will love",
-        "map": "https://www.google.com/maps/search/?api=1&query=Reflection+Lakes+Mount+Rainier"
+        "time": "~10:15",
+        "name": "Lewis & Clark Bridge (Longview)",
+        "what": "the last river crossing — over the Columbia and back into Washington",
+        "map": "https://www.google.com/maps/search/?api=1&query=Lewis+and+Clark+Bridge+Longview"
       },
       {
-        "time": "~11:00",
-        "name": "Narada Falls",
-        "what": "168-ft falls with a short, kid-doable viewpoint walk; mist and rainbows on a sunny day",
-        "map": "https://www.google.com/maps/search/?api=1&query=Narada+Falls+Mount+Rainier"
+        "time": "~14:30",
+        "name": "Orting valley Rainier views",
+        "what": "on a clear day Mount Rainier fills the sky over the farm roads — the mountain escorting the family home",
+        "map": "https://www.google.com/maps/search/?api=1&query=Orting+WA"
       },
       {
-        "time": "~12:00",
-        "name": "Chinook Pass (SR-410)",
-        "what": "5,430-ft pass and one of the best motorcycle roads in the state — the grand finale ride down toward Enumclaw",
-        "map": "https://www.google.com/maps/search/?api=1&query=Chinook+Pass+SR-410"
+        "time": "~17:00",
+        "name": "Home — Woodinville",
+        "what": "the driveway, the unload, and the end-of-tour toast: eight days, a ferry, two glamping camps and the whole coast",
+        "map": "https://www.google.com/maps/search/?api=1&query=Woodinville+WA"
       }
     ]
   }
@@ -2422,58 +2454,35 @@ window.DAYS = [
 window.FOOD_TRAIL = {
   "title": "The Coast Food Trail",
   "subtitle": "a foodie thread for Galiya",
-  "intro": "The Pacific Northwest coast is one long seafood counter, and this ride threads its greatest hits — pulled-that-morning Dungeness crab, creamy clam chowder, beer-battered halibut, and the cheese-and-ice-cream pilgrimage at Tillamook. Four can't-miss stops, one per day down the coast.",
-  "note": "<b>Notes:</b> hours stretch and lines grow over the Fourth-of-July weekend — go early, and have a backup pick. All links open Google Maps.",
+  "intro": "The Pacific Northwest coast is one long seafood counter, and this ride threads its greatest hits — legendary fish-and-chips, the cheese-and-ice-cream pilgrimage at Tillamook, oysters pulled from the bay a few hundred yards away, award-winning chowder, and a Portland food-cart finale. Five can't-miss stops, each on a day already on the route.",
+  "note": "<b>Notes:</b> August is peak season — lines grow by noon, so go early and have a backup pick. Bowpicker keeps day hours (cash only): hit it at open on the Day-3 morning. All links open Google Maps.",
   "bookend": "",
   "stops": [
     {
       "n": 1,
-      "day": 1,
-      "slot": "dinner",
-      "city": "Westport",
-      "pref": "WA Coast",
-      "style": "Dungeness crab & fish-and-chips",
-      "styleDesc": "Off-the-boat Dungeness crab, razor clams and beer-battered fish at the working marina where it's landed.",
-      "shop": "Bennett's Fish Shack",
-      "shopUrl": "https://www.google.com/maps/search/?api=1&query=Bennett%27s%20Fish%20Shack%20Westport%20WA",
-      "shopNote": "the classic harbour fish-and-chips stop",
-      "alts": [
-        {
-          "l": "Merino's Seafood Market",
-          "u": "https://www.google.com/maps/search/?api=1&query=Merino%27s%20Seafood%20Market%20Westport%20WA"
-        },
-        {
-          "l": "Half Moon Bay Bar & Grill",
-          "u": "https://www.google.com/maps/search/?api=1&query=Half%20Moon%20Bay%20Bar%20and%20Grill%20Westport%20WA"
-        }
-      ],
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Boat_entering_harbor_at_Westport%2C_WA.jpg/960px-Boat_entering_harbor_at_Westport%2C_WA.jpg"
-    },
-    {
-      "n": 2,
       "day": 2,
-      "slot": "lunch",
+      "slot": "dinner",
       "city": "Astoria",
       "pref": "OR Coast",
       "style": "Beer-battered fish & craft beer",
-      "styleDesc": "A legendary fish-and-chips trailer and the riverfront brewpubs that put Astoria on the beer map.",
+      "styleDesc": "A legendary fish-and-chips trailer and the riverfront brewpubs that put Astoria on the beer map — dinner on the pier the night you arrive, Bowpicker at open the next morning.",
       "shop": "Bowpicker Fish & Chips",
       "shopUrl": "https://www.google.com/maps/search/?api=1&query=Bowpicker%20Fish%20and%20Chips%20Astoria%20OR",
-      "shopNote": "albacore tuna & chips from a boat-turned-food-stand",
+      "shopNote": "albacore tuna & chips from a boat-turned-food-stand (day hours — go at Day-3 open)",
       "alts": [
         {
           "l": "Buoy Beer Co.",
           "u": "https://www.google.com/maps/search/?api=1&query=Buoy%20Beer%20Company%20Astoria%20OR"
         },
         {
-          "l": "Fort George Brewery",
-          "u": "https://www.google.com/maps/search/?api=1&query=Fort%20George%20Brewery%20Astoria%20OR"
+          "l": "South Bay Wild Fish House",
+          "u": "https://www.google.com/maps/search/?api=1&query=South%20Bay%20Wild%20Fish%20House%20Astoria%20OR"
         }
       ],
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Downtown_Astoria_-_Commercial_St_with_former_Hotel_Astoria.jpg/960px-Downtown_Astoria_-_Commercial_St_with_former_Hotel_Astoria.jpg"
     },
     {
-      "n": 3,
+      "n": 2,
       "day": 3,
       "slot": "lunch",
       "city": "Tillamook",
@@ -2496,24 +2505,67 @@ window.FOOD_TRAIL = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tillamook_Cheese_Factory_ice_cream_stall%2C_Tillamook%2C_2011.jpg/960px-Tillamook_Cheese_Factory_ice_cream_stall%2C_Tillamook%2C_2011.jpg"
     },
     {
-      "n": 4,
+      "n": 3,
       "day": 4,
+      "slot": "lunch",
+      "city": "Netarts",
+      "pref": "OR Coast",
+      "style": "Netarts Bay oysters",
+      "styleDesc": "The rest-day oyster stop: raw, grilled and fried oysters grown in the clean, cold bay a few hundred yards from the table.",
+      "shop": "The Schooner Restaurant & Lounge",
+      "shopUrl": "https://www.google.com/maps/search/?api=1&query=The%20Schooner%20Restaurant%20Netarts%20OR",
+      "shopNote": "bayside oysters & chowder at the water's edge",
+      "alts": [
+        {
+          "l": "JAndy Oyster Co.",
+          "u": "https://www.google.com/maps/search/?api=1&query=JAndy%20Oyster%20Co%20Cloverdale%20OR"
+        },
+        {
+          "l": "Pelican Brewing, Pacific City",
+          "u": "https://www.google.com/maps/search/?api=1&query=Pelican%20Brewing%20Pacific%20City%20OR"
+        }
+      ],
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Three_Arch_Rocks_National_Wildlife_Refuge_-_Oregon.jpg/960px-Three_Arch_Rocks_National_Wildlife_Refuge_-_Oregon.jpg"
+    },
+    {
+      "n": 4,
+      "day": 6,
       "slot": "dinner",
       "city": "Yachats",
       "pref": "OR Coast",
       "style": "Wild Pacific seafood & chowder",
-      "styleDesc": "Tiny Yachats punches far above its weight — fresh-caught seafood, award-winning chowder and a beloved brewpub, the reward of the two-night base.",
+      "styleDesc": "Tiny Yachats punches far above its weight — fresh-caught seafood, award-winning chowder and a beloved fine-casual splurge, the reward of the two-night base.",
       "shop": "Luna Sea Fish House",
-      "shopUrl": "https://www.google.com/maps/search/?api=1&query=Luna%20Sea%20Fish%20House%20Yachats%20OR",
-      "shopNote": "dock-to-table fish-and-chips & chowder",
+      "shopUrl": "https://www.google.com/maps/search/?api=1&query=Luna%20Sea%20Fish%20House%20Seal%20Rock%20OR",
+      "shopNote": "own-boat dock-to-table fish-and-chips & chowder",
       "alts": [
-        {
-          "l": "Yachats Brewing + Farmstore",
-          "u": "https://www.google.com/maps/search/?api=1&query=Yachats%20Brewing%20Farmstore%20Yachats%20OR"
-        },
-        { "l": "Ona Restaurant", "u": "https://www.google.com/maps/search/?api=1&query=Ona%20Restaurant%20Yachats%20OR" }
+        { "l": "Ona Restaurant", "u": "https://www.google.com/maps/search/?api=1&query=Ona%20Restaurant%20Yachats%20OR" },
+        { "l": "The Drift Inn", "u": "https://www.google.com/maps/search/?api=1&query=Drift%20Inn%20Yachats%20OR" }
       ],
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Yachats.jpg/960px-Yachats.jpg"
+    },
+    {
+      "n": 5,
+      "day": 7,
+      "slot": "dinner",
+      "city": "Portland",
+      "pref": "Willamette Valley",
+      "style": "Food-cart pod & Salt & Straw",
+      "styleDesc": "The city-night finale: a whole block of food carts where everyone orders exactly what they want, capped with Portland's famous scoops.",
+      "shop": "A downtown food-cart pod",
+      "shopUrl": "https://www.google.com/maps/search/?api=1&query=food%20cart%20pod%20downtown%20Portland%20OR",
+      "shopNote": "every cuisine at once — picky-six-year-old-proof",
+      "alts": [
+        {
+          "l": "Salt & Straw (NW 23rd)",
+          "u": "https://www.google.com/maps/search/?api=1&query=Salt%20and%20Straw%20NW%2023rd%20Portland"
+        },
+        {
+          "l": "Mother's Bistro & Bar",
+          "u": "https://www.google.com/maps/search/?api=1&query=Mother%27s%20Bistro%20Portland%20OR"
+        }
+      ],
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Portland_and_Mt_Hood.jpg/960px-Portland_and_Mt_Hood.jpg"
     }
   ]
 };
@@ -2527,7 +2579,7 @@ window.CHECKLIST = [
       "Washington motorcycle endorsement on each rider's licence (Galiya's is brand-new — keep it on you)",
       "Vehicle registration + proof of insurance for BOTH bikes (W230 and R1300GS)",
       "Roadside-assistance card (AAA or your insurer's moto plan)",
-      "America the Beautiful annual pass OR cash/card for the Mount Rainier park entry",
+      "America the Beautiful pass if you have one (Olympic NP's Ruby Beach/Kalaloch pullouts are fee-free from US-101); card/cash for small site fees",
       "Credit card + some backup cash; digital + paper copies of the key documents"
     ]
   },
@@ -2556,22 +2608,23 @@ window.CHECKLIST = [
     ]
   },
   {
-    "sec": "Ferry & passes",
+    "sec": "Ferry, tides & the glamping small print",
     "icon": "⛴️",
     "items": [
       "Edmonds–Kingston ferry — no reservation needed for motorcycles; arrive 20–30 min early (bikes load first)",
-      "Confirm Chinook Pass (SR-410) is open (WSDOT) for the Day-7 ride home",
-      "Check the Mount Rainier National Park timed-entry reservation system for summer (Paradise corridor)",
-      "Note that the Spirit Lake Hwy upper road / Johnston Ridge is closed — plan the viewpoint out-and-back"
+      "Check the tide tables for Ruby Beach (Day 2), Thor's Well and the tidepools (Day 6) — the coast runs on the tide, not the clock",
+      "Confirm the safari tent's 3-guest/child fit, bedding and motorcycle parking with the host (Day 1)",
+      "Confirm the Two Capes Lookout dome details — bathhouse vs private bath, guest count, on-site parking (Days 3–4)",
+      "Pack side-stand pucks — the bikes park on grass/gravel at both camps"
     ]
   },
   {
     "sec": "Lodging",
     "icon": "🏨",
     "items": [
-      "Book all six nights — Westport, Astoria, Yachats (×2), Castle Rock/Silver Lake, Packwood",
-      "Book the Yachats stay FAR ahead — the coast sells out for the Fourth of July",
-      "Confirm secure motorcycle parking + family/passenger rules at every property before booking",
+      "Book all seven nights — Forks safari tent, Astoria (Cannery Pier), Two Capes Lookout (×2), Yachats (×2), Portland",
+      "Book FAR ahead — August is peak season; the glamping camps and oceanfront Yachats sell out early",
+      "Confirm secure motorcycle parking + family/passenger rules at every property before booking (incl. the Portland garage/valet)",
       "Family room / beds; ask about laundry mid-trip if wanted"
     ]
   },
@@ -2580,7 +2633,7 @@ window.CHECKLIST = [
     "icon": "🧥",
     "items": [
       "Armoured jacket & pants, gloves, riding boots (each rider)",
-      "Rain layers AND warm base layers — coastal fog/wind and alpine chill at Chinook Pass",
+      "Rain layers AND warm base layers — coastal fog/wind on the Olympic west end, warm valley afternoons inland",
       "Sun protection, earplugs, neck tube",
       "Pack light — soft luggage / dry bags",
       "Comfortable off-bike shoes & evening clothes"
@@ -2604,15 +2657,15 @@ window.CHECKLIST = [
       "Motorcycle insurance current on both bikes (passenger cover for Aslan)",
       "Roadside-assistance / breakdown cover",
       "Personal medications + small first-aid kit",
-      "Note nearest hospitals on route (Aberdeen, Astoria, Newport, Morton/Packwood, Enumclaw)"
+      "Note nearest hospitals on route (Port Angeles, Forks, Aberdeen, Astoria, Tillamook, Newport, Corvallis, Portland)"
     ]
   },
   {
     "sec": "Money & connectivity",
     "icon": "📱",
     "items": [
-      "Cards + some cash — small coast and mountain towns can be cash-friendly",
-      "Download offline Google Maps for the coast and the Cascades (cell is spotty)",
+      "Cards + some cash — small coast towns (and Bowpicker!) can be cash-only",
+      "Download offline Google Maps for the Olympic Peninsula and the coast (cell is spotty on the west end)",
       "Share the live route/plan with family back home"
     ]
   },
@@ -2620,10 +2673,10 @@ window.CHECKLIST = [
     "sec": "Final day before",
     "icon": "✅",
     "items": [
-      "Check the forecast and the Chinook Pass / Mount Rainier status",
+      "Check the coast forecast and the week's tide tables (Ruby Beach, Thor's Well, tidepools)",
       "Fuel both bikes and do the child-pillion setup test",
-      "Charge intercoms, phones, cameras, power banks",
-      "Final gear + luggage check; confirm the Day-1 ferry timing",
+      "Charge intercoms, phones, cameras, power banks — plus headlamps for the two camp nights",
+      "Final gear + luggage check; confirm the Day-1 ferry timing and both glamping check-in instructions",
       "Get a good night's sleep — Day 1 starts with the ferry"
     ]
   }
@@ -2633,60 +2686,76 @@ window.CHECKLIST = [
 window.GEO = {
   "Woodinville, WA": "47.75530,-122.13389",
   "Edmonds Ferry Terminal, Edmonds, WA": "47.81298,-122.38424",
-  "Hama Hama Oyster Saloon, Lilliwaup, WA": "47.54235,-123.04071",
-  "Hoodsport, WA": "47.40636,-123.14058",
+  "Port Gamble, WA": "47.85426,-122.58376",
+  "Sequim, WA": "48.07954,-123.10184",
+  "Port Angeles, WA": "48.11815,-123.43074",
+  "Lake Crescent, WA": "48.05823,-123.81320",
+  "Forks, WA": "47.95036,-124.38549",
+  "Forks Timber Museum, Forks, WA": "47.93659,-124.39417",
+  "Ruby Beach, WA": "47.71087,-124.41540",
+  "Kalaloch, WA": "47.60565,-124.37102",
+  "Lake Quinault, Amanda Park, WA": "47.47292,-123.86828",
   "Aberdeen, WA": "46.97537,-123.81572",
-  "Westport, WA": "46.89009,-124.10406",
-  "Grays Harbor Lighthouse, Westport, WA": "46.88839,-124.11689",
-  "Westhaven State Park, Westport, WA": "46.89565,-124.11964",
   "Raymond, WA": "46.68649,-123.73294",
-  "South Bend, WA": "46.66315,-123.80461",
   "Long Beach, WA": "46.35232,-124.05432",
-  "Cape Disappointment State Park, WA": "46.29955,-124.06538",
   "Astoria-Megler Bridge": "46.21577,-123.86221",
   "Astoria, OR": "46.18788,-123.83125",
   "Astoria Column, Astoria, OR": "46.18132,-123.81751",
-  "Columbia River Maritime Museum, Astoria, OR": "46.18988,-123.82360",
+  "Cannery Pier Hotel & Spa, Astoria, OR": "46.19088,-123.85278",
   "Cannon Beach, OR": "45.89177,-123.96153",
   "Haystack Rock, Cannon Beach, OR": "45.88412,-123.96848",
-  "Ecola State Park, OR": "45.91994,-123.96968",
+  "Neahkahnie Mountain viewpoint, OR": "45.74770,-123.95170",
+  "Manzanita, OR": "45.71844,-123.93514",
   "Tillamook Creamery, Tillamook, OR": "45.48398,-123.84425",
   "Tillamook Air Museum, Tillamook, OR": "45.42073,-123.80360",
   "Cape Meares Lighthouse, OR": "45.48645,-123.97832",
+  "Oceanside, OR": "45.46094,-123.96791",
+  "Netarts, OR": "45.43258,-123.94472",
+  "The Schooner Restaurant, Netarts, OR": "45.43420,-123.94210",
+  "Cape Lookout State Park, OR": "45.35582,-123.97149",
+  "Cape Lookout Trailhead, OR": "45.34120,-123.97440",
+  "Two Capes Lookout, Tierra Del Mar, OR": "45.24999,-123.96487",
+  "Tierra Del Mar, OR": "45.25222,-123.96333",
   "Pacific City, OR": "45.20233,-123.96289",
   "Cape Kiwanda, Pacific City, OR": "45.21528,-123.96958",
+  "Neskowin, OR": "45.10742,-123.98366",
+  "Lincoln City, OR": "44.96209,-124.01594",
+  "Depoe Bay, OR": "44.80845,-124.06317",
+  "Depoe Bay Whale Watching Center, OR": "44.80893,-124.06355",
+  "Yaquina Head Lighthouse, Newport, OR": "44.67692,-124.07955",
   "Oregon Coast Aquarium, Newport, OR": "44.61765,-124.04725",
   "Newport, OR": "44.63678,-124.05345",
   "Yachats, OR": "44.31123,-124.10484",
   "Cape Perpetua, Yachats, OR": "44.28111,-124.10028",
+  "Cape Perpetua Overlook, OR": "44.28470,-124.10630",
   "Heceta Head Lighthouse, OR": "44.13738,-124.12812",
   "Sea Lion Caves, OR": "44.12178,-124.12671",
   "804 Trail, Yachats, OR": "44.32335,-124.10541",
   "Alsea, OR": "44.38189,-123.59707",
   "Corvallis, OR": "44.56464,-123.26196",
+  "Independence, OR": "44.85123,-123.18677",
+  "Newberg, OR": "45.30033,-122.97613",
+  "Portland, OR": "45.51523,-122.67839",
+  "Powell's City of Books, Portland, OR": "45.52325,-122.68143",
+  "International Rose Test Garden, Portland, OR": "45.51895,-122.70527",
+  "St. Johns Bridge, Portland, OR": "45.58533,-122.76453",
+  "Rainier, OR": "46.08913,-122.93598",
+  "Lewis and Clark Bridge, Longview, WA": "46.10440,-122.96220",
   "Longview, WA": "46.13817,-122.93817",
   "Castle Rock, WA": "46.27511,-122.90761",
-  "Mount St. Helens Visitor Center, Silver Lake, WA": "46.29449,-122.82215",
-  "Mount St. Helens": "46.19120,-122.19440",
-  "Hoffstadt Bluffs, WA": "46.37370,-122.55860",
-  "Coldwater Lake, WA": "46.29565,-122.25224",
-  "Mossyrock, WA": "46.52955,-122.48511",
-  "Morton, WA": "46.55844,-122.27510",
-  "Packwood, WA": "46.60733,-121.67058",
-  "Paradise, Mount Rainier National Park, WA": "46.78532,-121.73497",
-  "Reflection Lakes, Mount Rainier, WA": "46.76950,-121.73200",
-  "Narada Falls, Mount Rainier, WA": "46.77490,-121.74618",
-  "Tipsoo Lake, WA": "46.86911,-121.51747",
-  "Enumclaw, WA": "47.20427,-121.99150"
+  "Toledo, WA": "46.43983,-122.84678",
+  "Orting, WA": "47.09788,-122.20428",
+  "Maple Valley, WA": "47.39034,-122.04536"
 };
 
 /* Region-matched scenic photos used as each day's hero artwork (verified). */
 window.DAYART = {
-  "1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Edmonds_Ferry%2C_Olympic_Mountains.jpg/960px-Edmonds_Ferry%2C_Olympic_Mountains.jpg",
-  "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Haystack_Rock%2C_Cannon_Beach%2C_Oregon%2C_USA%2C_14_Aug_2025.jpg/960px-Haystack_Rock%2C_Cannon_Beach%2C_Oregon%2C_USA%2C_14_Aug_2025.jpg",
-  "3": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Haystack_Rock%2C_Cannon_Beach%2C_Oregon%2C_USA%2C_14_Aug_2025.jpg/960px-Haystack_Rock%2C_Cannon_Beach%2C_Oregon%2C_USA%2C_14_Aug_2025.jpg",
-  "4": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Thor%27s_Well_%2837402149210%29.jpg/960px-Thor%27s_Well_%2837402149210%29.jpg",
-  "5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/MSH80_eruption_mount_st_helens_05-18-80-dramatic-edit.jpg/960px-MSH80_eruption_mount_st_helens_05-18-80-dramatic-edit.jpg",
-  "6": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mount_St._Helens_over_Spirit_Lake_Highway.jpg/960px-Mount_St._Helens_over_Spirit_Lake_Highway.jpg",
-  "7": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tipsoo_Lake_wildflowers_-_48607493656.jpg/960px-Tipsoo_Lake_wildflowers_-_48607493656.jpg"
+  "1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mount_Storm_King_and_Lake_Crescent_seen_from_Highway_101.jpg/960px-Mount_Storm_King_and_Lake_Crescent_seen_from_Highway_101.jpg",
+  "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Abbey_Island_at_Ruby_Beach.jpg/960px-Abbey_Island_at_Ruby_Beach.jpg",
+  "3": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Haystack_Rock_and_Cannon_Beach_from_Ecola_State_Park_01.jpg/960px-Haystack_Rock_and_Cannon_Beach_from_Ecola_State_Park_01.jpg",
+  "4": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Cape_Kiwanda%2C_Pacific_City%2C_United_States_%28Unsplash%29.jpg/960px-Cape_Kiwanda%2C_Pacific_City%2C_United_States_%28Unsplash%29.jpg",
+  "5": "https://upload.wikimedia.org/wikipedia/commons/6/68/View_of_Yachats_from_Perpetua.jpg",
+  "6": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Thor%27s_Well_%2837402149210%29.jpg/960px-Thor%27s_Well_%2837402149210%29.jpg",
+  "7": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Portland_and_Mt_Hood.jpg/960px-Portland_and_Mt_Hood.jpg",
+  "8": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mount_Rainier_and_lake_reflection.jpg/960px-Mount_Rainier_and_lake_reflection.jpg"
 };

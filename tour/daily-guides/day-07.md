@@ -1,46 +1,51 @@
 ```json
 {
   "d": 7,
-  "title": "Over Rainier, Home",
-  "overnight": "Home · Woodinville, WA",
-  "schedule": "coffee in Packwood ~08:30 · into Mount Rainier NP for Paradise wildflowers, Reflection Lakes & Narada Falls · over Chinook Pass (SR-410) ~12:00 · celebration lunch in Enumclaw ~13:00 · home to Woodinville ~15:30 (dinner at home)",
+  "title": "Over the Coast Range to Portland",
+  "overnight": "Portland, OR (downtown nice hotel)",
+  "schedule": "Yachats breakfast ~08:30 · roll ~09:30 up the Alsea Highway · Alsea Falls country · lunch in Corvallis ~12:00 · fuel · 99W wine country (Amity, Dundee, Newberg) ~14:00 · arrive Portland before rush ~15:30 · hotel check-in & bikes garaged · Powell's ~16:30 · food-cart dinner ~18:00 · Salt & Straw dessert",
   "todo": [
-    {"time":"~09:30","name":"Paradise, Mount Rainier NP","what":"peak-summer subalpine wildflower meadows under the mountain; short stroll on the Skyline/Nisqually Vista paths","map":"https://www.google.com/maps/search/?api=1&query=Paradise+Mount+Rainier+National+Park"},
-    {"time":"~10:30","name":"Reflection Lakes","what":"classic mirror view of Rainier just off Stevens Canyon Rd — a quick photo pull-out the whole family will love","map":"https://www.google.com/maps/search/?api=1&query=Reflection+Lakes+Mount+Rainier"},
-    {"time":"~11:00","name":"Narada Falls","what":"168-ft falls with a short, kid-doable viewpoint walk; mist and rainbows on a sunny day","map":"https://www.google.com/maps/search/?api=1&query=Narada+Falls+Mount+Rainier"},
-    {"time":"~12:00","name":"Chinook Pass (SR-410)","what":"5,430-ft pass and one of the best motorcycle roads in the state — the grand finale ride down toward Enumclaw","map":"https://www.google.com/maps/search/?api=1&query=Chinook+Pass+SR-410"}
+    {"time":"~10:00","name":"Alsea Highway (OR-34)","what":"the flowing Coast Range river road out of Yachats — forest two-lane along the Alsea, the trip's prettiest inland riding","map":"https://www.google.com/maps/search/?api=1&query=Alsea+OR"},
+    {"time":"~14:00","name":"99W wine country","what":"vineyard hills through Amity, Dundee and Newberg — a tasting-room stop is possible but optional (riders stay dry)","map":"https://www.google.com/maps/search/?api=1&query=Dundee+OR+wine+country"},
+    {"time":"~16:30","name":"Powell's City of Books","what":"the world's largest independent bookstore — a whole city block, nine color-coded rooms; Aslan picks the trip's souvenir book in the kids' room","map":"https://www.google.com/maps/search/?api=1&query=Powell's+City+of+Books+Portland"},
+    {"time":"~19:30","name":"International Rose Test Garden (golden hour, optional)","what":"10,000 roses terraced over the skyline in Washington Park — Galiya's evening photo stop if legs allow","map":"https://www.google.com/maps/search/?api=1&query=International+Rose+Test+Garden+Portland"}
   ],
   "meals": [
-    {"slot":"coffee","area":"Packwood","picks":[
-      {"name":"Mountain Goat Coffee","cuisine":"espresso bar / breakfast pastries","rating":4.6,"why":"Ruslan & Galiya — strong PNW coffee before the park; the standout fuel stop in town","kid":false,"map":"https://maps.google.com/?cid=2351003668736349144","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Latte.jpg/330px-Latte.jpg"},
-      {"name":"Base Camp Coffee","cuisine":"drive-up coffee stand","rating":4.7,"why":"Aslan — quick hot cocoa / muffin and a no-fuss stop on the way out","kid":true,"map":"https://maps.google.com/?cid=7730475893704290194","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Pancakes.jpg/330px-Pancakes.jpg"}
+    {"slot":"breakfast","area":"Yachats (before rolling)","picks":[
+      {"name":"Green Salmon Coffee Company","cuisine":"organic coffee house & pastries","rating":4.5,"why":"the proper send-off from the coast","kid":true,"map":"https://maps.google.com/?cid=15236297694368532859","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Caffe_Latte_cup.jpg/960px-Caffe_Latte_cup.jpg"}
     ]},
-    {"slot":"lunch","area":"Enumclaw","picks":[
-      {"name":"Casting Iron","cuisine":"scratch bar & grill (PNW comfort food)","rating":4.7,"why":"Galiya & Ruslan — top-rated celebration lunch to toast finishing the tour","kid":false,"map":"https://maps.google.com/?cid=10184653972172552891","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cheeseburger.jpg/330px-Cheeseburger.jpg"},
-      {"name":"Burger Buds","cuisine":"smash burgers & fries","rating":4.9,"why":"Aslan — plain burger, fries and a milkshake he'll actually eat; highest-rated spot in town","kid":true,"map":"https://maps.google.com/?cid=6820249718495195552","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/French_Fries.jpg/330px-French_Fries.jpg"},
-      {"name":"The Historic Mint Restaurant & Alehouse","cuisine":"American pub / family alehouse","rating":4.3,"why":"whole family — roomy historic spot with a kids menu and burgers, good fallback if there's a wait","kid":true,"map":"https://maps.google.com/?cid=11528093723048268309","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cheeseburger.jpg/330px-Cheeseburger.jpg"}
+    {"slot":"lunch","area":"Corvallis","picks":[
+      {"name":"Common Fields","cuisine":"food-hall & beer garden","rating":4.7,"why":"whole family — Corvallis' food-cart yard: everyone picks their own, a preview of Portland's pods","kid":true,"map":"https://www.google.com/maps/search/?api=1&query=Common+Fields+Corvallis","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/NCI_Visuals_Food_Hamburger.jpg/960px-NCI_Visuals_Food_Hamburger.jpg"},
+      {"name":"Old World Deli","cuisine":"classic deli sandwiches","rating":4.6,"why":"the quick, solid indoor alternative downtown","kid":true,"map":"https://www.google.com/maps/search/?api=1&query=Old+World+Deli+Corvallis"}
+    ]},
+    {"slot":"dinner","area":"Portland","picks":[
+      {"name":"A downtown food-cart pod","cuisine":"Portland's signature — every cuisine at once","rating":4.6,"why":"whole family — everyone orders exactly what they want; the picky-six-year-old-proof dinner","kid":true,"map":"https://www.google.com/maps/search/?api=1&query=food+cart+pod+downtown+Portland","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/960px-Eq_it-na_pizza-margherita_sep2005_sml.jpg"},
+      {"name":"Mother's Bistro & Bar","cuisine":"comfort food done grandly","rating":4.6,"why":"the sit-down option — mac & cheese for Aslan, pot roast and a proper cocktail for the grown-ups","kid":true,"map":"https://www.google.com/maps/search/?api=1&query=Mother's+Bistro+Portland"},
+      {"name":"Salt & Straw (NW 23rd)","cuisine":"Portland's famous scoop shop","rating":4.7,"why":"dessert — honey-lavender and sea-salt-caramel; the line moves fast","kid":true,"map":"https://www.google.com/maps/search/?api=1&query=Salt+and+Straw+NW+23rd+Portland"}
     ]}
   ]
 }
 ```
 
-# Day 7 — Over Rainier, Home (Tue 7 July 2026)
+## Day 7 — Over the Coast Range to Portland (Yachats → Portland, OR)
 
-The finale: Packwood → Mount Rainier National Park → Chinook Pass → Enumclaw → home to Woodinville. In-park dining is thin (Paradise Inn / Sunrise only), so fuel up with coffee in Packwood, save the celebration for a real lunch in Enumclaw, and keep dinner easy at home.
+Goodbye Pacific, hello Rose City: the flowing Alsea Highway over the Coast Range, a Corvallis food-hall lunch, the 99W wine country through Dundee and Newberg, and a pre-rush-hour arrival at the downtown hotel — then Powell's City of Books, a food-cart-pod dinner and Salt & Straw for dessert.
 
-**Schedule:** coffee in Packwood ~08:30 · into the park for Paradise wildflowers, Reflection Lakes and Narada Falls · over Chinook Pass (SR-410) ~12:00 · celebration lunch in Enumclaw ~13:00 · home ~15:30.
+**Schedule:** Yachats breakfast · Alsea Hwy ~09:30 · Corvallis lunch ~12:00 · wine country ~14:00 · Portland ~15:30 · Powell's ~16:30 · cart-pod dinner ~18:00 · roses at golden hour (optional).
 
-## Coffee — Packwood
-- **Mountain Goat Coffee** (4.6) — the town's standout espresso bar; strong PNW coffee and pastries before the park. For Ruslan & Galiya. [Map](https://maps.google.com/?cid=2351003668736349144)
-- **Base Camp Coffee** (4.7) — quick drive-up stand; hot cocoa and a muffin for Aslan, no fuss. Kid-friendly. [Map](https://maps.google.com/?cid=7730475893704290194)
+### Where to eat
 
-## Lunch — Enumclaw (the celebration)
-- **Casting Iron** (4.7) — scratch-made bar & grill, the top sit-down pick to toast a finished tour. Galiya & Ruslan. [Map](https://maps.google.com/?cid=10184653972172552891)
-- **Burger Buds** (4.9, kid pick) — smash burgers, fries and milkshakes; the highest-rated spot in town and an easy win for Aslan. [Map](https://maps.google.com/?cid=6820249718495195552)
-- **The Historic Mint Restaurant & Alehouse** (4.3, kid-friendly) — roomy historic alehouse with burgers and a kids menu; good fallback if the others have a wait. [Map](https://maps.google.com/?cid=11528093723048268309)
+**Lunch — Corvallis**
+- **Common Fields** (4.7★) — the food-cart yard; everyone picks their own. [Map](https://www.google.com/maps/search/?api=1&query=Common+Fields+Corvallis)
+- **Old World Deli** (4.6★) — the quick indoor classic. [Map](https://www.google.com/maps/search/?api=1&query=Old+World+Deli+Corvallis)
 
-## Things to do
-- **~09:30 Paradise, Mount Rainier NP** — peak-summer subalpine wildflower meadows; short Skyline/Nisqually Vista strolls. [Map](https://www.google.com/maps/search/?api=1&query=Paradise+Mount+Rainier+National+Park)
-- **~10:30 Reflection Lakes** — mirror view of Rainier just off Stevens Canyon Rd; quick photo pull-out. [Map](https://www.google.com/maps/search/?api=1&query=Reflection+Lakes+Mount+Rainier)
-- **~11:00 Narada Falls** — 168-ft falls, short kid-doable viewpoint walk. [Map](https://www.google.com/maps/search/?api=1&query=Narada+Falls+Mount+Rainier)
-- **~12:00 Chinook Pass (SR-410)** — 5,430-ft pass, the grand-finale motorcycle road down to Enumclaw. [Map](https://www.google.com/maps/search/?api=1&query=Chinook+Pass+SR-410)
+**Dinner — Portland**
+- **A downtown food-cart pod** (4.6★) — the city's defining meal; picky-kid-proof. [Map](https://www.google.com/maps/search/?api=1&query=food+cart+pod+downtown+Portland)
+- **Mother's Bistro & Bar** (4.6★) — grand comfort food if the family wants a table. [Map](https://www.google.com/maps/search/?api=1&query=Mother's+Bistro+Portland)
+- **Salt & Straw** (4.7★) — the famous scoops for dessert. [Map](https://www.google.com/maps/search/?api=1&query=Salt+and+Straw+NW+23rd+Portland)
+
+### Things to do
+- **~10:00 — Alsea Highway:** the Coast Range river road — the day's riding reward. [Map](https://www.google.com/maps/search/?api=1&query=Alsea+OR)
+- **~14:00 — 99W wine country:** vineyard hills through Dundee and Newberg. [Map](https://www.google.com/maps/search/?api=1&query=Dundee+OR+wine+country)
+- **~16:30 — Powell's City of Books:** Aslan's souvenir book in the kids' room. [Map](https://www.google.com/maps/search/?api=1&query=Powell's+City+of+Books+Portland)
+- **~19:30 — Rose Test Garden (optional):** 10,000 roses over the skyline at golden hour. [Map](https://www.google.com/maps/search/?api=1&query=International+Rose+Test+Garden+Portland)

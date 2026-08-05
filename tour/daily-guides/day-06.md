@@ -1,60 +1,57 @@
 ```json
 {
   "d": 6,
-  "title": "Spirit Lake & the Road to Rainier",
-  "overnight": "Packwood, WA",
-  "schedule": "breakfast in Castle Rock ~08:30 · ride Spirit Lake Hwy (SR-504) to Coldwater Lake & the blast-zone viewpoints · lunch back at the SR-504 junction ~13:00 · US-12 over Mossyrock/Morton · arrive Packwood ~16:30 · easy small-town dinner",
+  "title": "Yachats Rest Day",
+  "overnight": "Yachats, OR (2nd night)",
+  "schedule": "sleep in · bakery breakfast ~09:00 · Cape Perpetua loop late morning (Thor's Well ~ high tide timing) · picnic or cafe lunch ~12:30 · Heceta Head Lighthouse ~14:00 · Sea Lion Caves ~15:00 · tidepools & 804 Trail ~16:30 · splurge dinner ~18:30",
   "todo": [
-    {"time":"~09:30","name":"Coldwater Lake Recreation Area","what":"calm lake formed by the 1980 eruption — short boardwalk, easy legs-stretch the whole family can do, big views back at the crater","map":"https://www.google.com/maps/search/?api=1&query=Coldwater+Lake+Recreation+Area+Mount+St+Helens"},
-    {"time":"~10:30","name":"Johnston Ridge / Spirit Lake Hwy viewpoints","what":"the dramatic end-of-road blast-zone overlooks straight into the crater (check road status — upper SR-504 has had closures); turn around where open","map":"https://www.google.com/maps/search/?api=1&query=Spirit+Lake+Highway+viewpoint+Mount+St+Helens"},
-    {"time":"~12:15","name":"North Fork Survivors","what":"quirky roadside stop with the volcano museum, a real ash-buried A-frame and a gift shop — easy souvenir win for Aslan","map":"https://maps.google.com/?cid=11273759739720209341"},
-    {"time":"~15:30","name":"Mossyrock / Riffe Lake pull-off on US-12","what":"scenic reservoir stop to break up the eastbound leg toward Packwood","map":"https://www.google.com/maps/search/?api=1&query=Riffe+Lake+viewpoint+Mossyrock+WA"}
+    {"time":"~10:30","name":"Cape Perpetua — Thor's Well & Devil's Churn","what":"the drainpipe of the Pacific, Spouting Horn and the churn — best around an incoming tide; keep Aslan well back from the wet rocks","map":"https://www.google.com/maps/search/?api=1&query=Thor's+Well+Cape+Perpetua"},
+    {"time":"~11:30","name":"Cape Perpetua Overlook & visitor center","what":"the highest paved viewpoint on the Oregon coast, whale-spotting scopes and ranger tide-pool tips","map":"https://www.google.com/maps/search/?api=1&query=Cape+Perpetua+Overlook"},
+    {"time":"~14:00","name":"Heceta Head Lighthouse","what":"the short trail past the keeper's house to one of America's most photographed lighthouses","map":"https://www.google.com/maps/search/?api=1&query=Heceta+Head+Lighthouse"},
+    {"time":"~15:00","name":"Sea Lion Caves","what":"the elevator down into America's largest sea cave — wild Steller sea lions barking below","map":"https://www.google.com/maps/search/?api=1&query=Sea+Lion+Caves+Oregon"},
+    {"time":"~16:30","name":"804 Trail tidepools","what":"low-tide sea stars, anemones and hermit crabs on the basalt shelf right below the hotel","map":"https://www.google.com/maps/search/?api=1&query=804+Trail+Yachats"}
   ],
   "meals": [
-    {"slot":"breakfast","area":"Castle Rock","picks":[
-      {"name":"Peper's 49ER Restaurant","cuisine":"American diner breakfast","rating":4.2,"why":"Galiya & Ruslan — hearty pre-ride diner plates; Aslan gets plain pancakes/eggs","kid":true,"map":"https://maps.google.com/?cid=4506938187642784906","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Pancakes_%281%29.jpg/330px-Pancakes_%281%29.jpg"},
-      {"name":"The Oasis Bar & Grill","cuisine":"American bar & grill","rating":4.5,"why":"backup in town if Peper's is busy — fuel up before the SR-504 climb","kid":true,"map":"https://maps.google.com/?cid=9411642080220914546"}
+    {"slot":"breakfast","area":"Yachats","picks":[
+      {"name":"Green Salmon Coffee Company","cuisine":"organic coffee house & pastries","rating":4.5,"why":"Ruslan & Galiya — the town's beloved coffee + scratch baked goods","kid":false,"map":"https://maps.google.com/?cid=15236297694368532859","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Caffe_Latte_cup.jpg/960px-Caffe_Latte_cup.jpg"},
+      {"name":"Bread & Roses Bakery","cuisine":"cottage bakery — pastries & rolls","rating":4.6,"why":"Aslan — simple sweet pastry he'll happily eat; grab extras for the loop","kid":true,"map":"https://maps.google.com/?cid=10779718063421500113","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Honey_Run_Covered_Bridge_2024_Pancake_Breakfast-104A2111.jpg/960px-Honey_Run_Covered_Bridge_2024_Pancake_Breakfast-104A2111.jpg"}
     ]},
-    {"slot":"lunch","area":"Mount St. Helens / Castle Rock (SR-504 junction)","picks":[
-      {"name":"Amaro's Table","cuisine":"Pacific NW / American","rating":4.8,"why":"Galiya — best-rated kitchen right where Spirit Lake Hwy meets I-5, perfect after the viewpoints","kid":true,"map":"https://maps.google.com/?cid=16172930673490403158","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cheeseburger.jpg/330px-Cheeseburger.jpg"},
-      {"name":"Lone Fir Cafe","cuisine":"casual American diner","rating":4.4,"why":"Ruslan — classic volcano-country roadhouse if you loop down the Cougar side instead","kid":true,"map":"https://maps.google.com/?cid=6753037004800324019"}
+    {"slot":"lunch","area":"Yachats village","picks":[
+      {"name":"Beach Street Kitchen","cuisine":"casual cafe — sandwiches, soups","rating":4.7,"why":"Galiya — fresh, well-rated lunch between cape stops","kid":false,"map":"https://maps.google.com/?cid=9912055002029852844","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cup_of_clam_chowder%2C_with_saltines.jpg/960px-Cup_of_clam_chowder%2C_with_saltines.jpg"},
+      {"name":"The Village Bean","cuisine":"coffee shop — paninis, bagels, grab-and-go","rating":4.5,"why":"Aslan — bagel/grilled-cheese picks and a picnic to carry up Cape Perpetua","kid":true,"map":"https://maps.google.com/?cid=4628231565601770751"}
     ]},
-    {"slot":"dinner","area":"Packwood","picks":[
-      {"name":"Cliff Droppers","cuisine":"burgers","rating":4.6,"why":"Galiya & Ruslan — Packwood's standout burger joint; Aslan gets a plain burger + fries","kid":true,"map":"https://maps.google.com/?cid=1323618167841938218","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cheeseburger.jpg/330px-Cheeseburger.jpg"},
-      {"name":"Cruiser's Pizza","cuisine":"pizza","rating":4.2,"why":"Aslan — easiest kid pick in town, plain cheese pizza; busiest/most-reviewed spot in Packwood","kid":true,"map":"https://maps.google.com/?cid=5640658349503661047","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Pizza.jpg/330px-Pizza.jpg"},
-      {"name":"Blue Spruce Saloon And Diner","cuisine":"American saloon / diner","rating":4.3,"why":"Ruslan — hearty local saloon with a full diner menu and a beer after the ride","kid":true,"map":"https://maps.google.com/?cid=3407359734120354488"}
+    {"slot":"dinner","area":"Yachats","picks":[
+      {"name":"Ona Restaurant & Lounge","cuisine":"Pacific Northwest seafood, riverfront","rating":4.3,"why":"Galiya — the rest-day splurge: local fish on the Yachats River; book ahead in August","kid":false,"map":"https://maps.google.com/?cid=130354226211525660","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fish_and_chips_plate_with_peas.jpg/960px-Fish_and_chips_plate_with_peas.jpg"},
+      {"name":"The Drift Inn Hotel and Restaurant","cuisine":"comfort food & seafood, live music","rating":4.4,"why":"whole family — the easy repeat if the splurge feels like too much","kid":true,"map":"https://maps.google.com/?cid=15878405420698897937","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cheeseburger_and_Fries_2.jpg/960px-Cheeseburger_and_Fries_2.jpg"},
+      {"name":"Yachats Underground Pub & Grub","cuisine":"pub burgers & fish and chips","rating":4.0,"why":"Aslan — casual cellar pub with simple kids' fare, walkable in town","kid":true,"map":"https://maps.google.com/?cid=1754061589375500362","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/NCI_Visuals_Food_Hamburger.jpg/960px-NCI_Visuals_Food_Hamburger.jpg"}
     ]}
   ]
 }
 ```
 
-# Day 6 — Spirit Lake & the Road to Rainier (Mon 6 July 2026)
+## Day 6 — Yachats Rest Day
 
-A short, scenery-heavy day. Roll the Spirit Lake Highway (SR-504) up into the Mount St. Helens blast zone, walk an easy boardwalk at **Coldwater Lake**, gawk at the crater from the high viewpoints, then drop back to I-5 and cross over on **US-12** through Mossyrock and Morton to **Packwood**, Mount Rainier's quiet south gateway. Packwood is small, so dinner is casual — but the burgers and pizza are genuinely good and easy for a picky six-year-old.
+The second rest day, in the coast's prettiest square mile: Thor's Well and Devil's Churn on an incoming tide, the Cape Perpetua overlook, Heceta Head Lighthouse, the Sea Lion Caves elevator, and low-tide tidepooling on the 804 Trail — bookended by the Green Salmon's coffee and the Ona splurge dinner.
 
-**Schedule:** breakfast in Castle Rock ~08:30 · ride SR-504 to Coldwater Lake & the viewpoints · lunch back at the I-5/SR-504 junction ~13:00 · US-12 east · arrive Packwood ~16:30 · easy small-town dinner.
+**Schedule:** sleep in · bakery breakfast ~09:00 · Cape Perpetua late morning · village lunch ~12:30 · Heceta Head ~14:00 · Sea Lion Caves ~15:00 · tidepools ~16:30 · dinner ~18:30.
 
-> Note: the upper Spirit Lake Highway (toward Johnston Ridge) has had landslide closures in recent seasons — check the WSDOT / Forest Service road status the morning of and turn around at the highest open viewpoint. Coldwater Lake and the lower overlooks are the reliable, family-friendly payoff.
+### Where to eat
 
-## Where to eat
+**Breakfast — Yachats**
+- **Green Salmon Coffee** (4.5★) — beloved organic coffee and scratch bakes. [Map](https://maps.google.com/?cid=15236297694368532859)
+- **Bread & Roses** (4.6★) — cottage-bakery pastry for Aslan. [Map](https://maps.google.com/?cid=10779718063421500113)
 
-**Breakfast — Castle Rock**
-- **Peper's 49ER Restaurant** (American diner, 4.2) — hearty pre-ride plates; plain pancakes & eggs for Aslan. Kid-friendly. https://maps.google.com/?cid=4506938187642784906
-- **The Oasis Bar & Grill** (4.5) — solid in-town backup. https://maps.google.com/?cid=9411642080220914546
+**Lunch — the village**
+- **Beach Street Kitchen** (4.7★) — fresh cafe lunch between capes. [Map](https://maps.google.com/?cid=9912055002029852844)
+- **The Village Bean** (4.5★) — bagels and a Cape Perpetua picnic. [Map](https://maps.google.com/?cid=4628231565601770751)
 
-**Lunch — back at the SR-504 / I-5 junction (Castle Rock)**
-- **Amaro's Table** (Pacific NW / American, 4.8) — the best-rated kitchen right at the foot of the Spirit Lake Highway; great after the viewpoints. Kid-friendly. https://maps.google.com/?cid=16172930673490403158
-- **Lone Fir Cafe** (casual diner, 4.4) — classic volcano-country roadhouse if you come down the Cougar/south side instead. https://maps.google.com/?cid=6753037004800324019
+**Dinner — Yachats**
+- **Ona** (4.3★) — the rest-day splurge on the river; book ahead. [Map](https://maps.google.com/?cid=130354226211525660)
+- **The Drift Inn** (4.4★) — the easy family repeat. [Map](https://maps.google.com/?cid=15878405420698897937)
+- **Yachats Underground Pub & Grub** (4.0★) — burgers and simple kids' fare. [Map](https://maps.google.com/?cid=1754061589375500362)
 
-**Dinner — Packwood**
-- **Cliff Droppers** (burgers, 4.6) — Packwood's standout; plain burger + fries keeps Aslan happy. Kid pick. https://maps.google.com/?cid=1323618167841938218
-- **Cruiser's Pizza** (pizza, 4.2) — the town's busiest spot; plain cheese pizza is the easy kid option. Kid pick. https://maps.google.com/?cid=5640658349503661047
-- **Blue Spruce Saloon And Diner** (American saloon/diner, 4.3) — hearty menu and a cold beer for Ruslan after the ride. https://maps.google.com/?cid=3407359734120354488
-
-(All four Packwood/Castle Rock spots confirmed OPERATIONAL via Google Places. Mountain Goat Coffee, 4.6, is the morning espresso stop in Packwood for the next day's Rainier start.)
-
-## Things to do
-- **~09:30 Coldwater Lake Recreation Area** — easy boardwalk and big crater views; works for the whole family. https://www.google.com/maps/search/?api=1&query=Coldwater+Lake+Recreation+Area+Mount+St+Helens
-- **~10:30 Spirit Lake Hwy viewpoints / Johnston Ridge** — dramatic blast-zone overlooks; go as high as the road is open. https://www.google.com/maps/search/?api=1&query=Spirit+Lake+Highway+viewpoint+Mount+St+Helens
-- **~12:15 North Fork Survivors** — volcano museum, ash-buried A-frame, gift shop; easy souvenir for Aslan. https://maps.google.com/?cid=11273759739720209341
-- **~15:30 Riffe Lake / Mossyrock pull-off** — scenic reservoir break on the US-12 leg into Packwood. https://www.google.com/maps/search/?api=1&query=Riffe+Lake+viewpoint+Mossyrock+WA
+### Things to do
+- **~10:30 — Thor's Well & Devil's Churn:** the tide theatrics (keep Aslan back from the wet rocks). [Map](https://www.google.com/maps/search/?api=1&query=Thor's+Well+Cape+Perpetua)
+- **~11:30 — Cape Perpetua Overlook:** the coast's highest paved viewpoint. [Map](https://www.google.com/maps/search/?api=1&query=Cape+Perpetua+Overlook)
+- **~14:00 — Heceta Head Lighthouse:** the postcard tower above its cove. [Map](https://www.google.com/maps/search/?api=1&query=Heceta+Head+Lighthouse)
+- **~15:00 — Sea Lion Caves:** the elevator into America's largest sea cave. [Map](https://www.google.com/maps/search/?api=1&query=Sea+Lion+Caves+Oregon)

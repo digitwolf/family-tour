@@ -1,10 +1,11 @@
 /* ============================================================
-   PNW Family "First Tour" — destination data
+   PNW Family Coast Tour — destination data
    Generated from tour/ markdown by gen_data.py (website-builder).
    Shared by index.html, place.html and day.html.
-   A 7-day round-trip ride: Woodinville → the Oregon coast (Yachats)
-   → home over Mount St. Helens & Mount Rainier. Built around a
-   brand-new rider (Galiya, Kawasaki W230) — no freeways.
+   An 8-day round-trip ride: Woodinville → the Olympic Peninsula
+   (Forks, Ruby Beach) → the Oregon coast (Two Capes, Yachats)
+   → home through Portland. Built around a still-new rider
+   (Galiya, Kawasaki W230) — no freeways.
    Photos: Wikimedia Commons (all URLs verified reachable).
    Hotels are SUGGESTIONS — confirm motorcycle parking,
    passenger/child rules and availability before booking.

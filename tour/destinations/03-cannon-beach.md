@@ -1,16 +1,16 @@
 # Cannon Beach
 
-> The picture-perfect Oregon Coast town where a 235-foot sea stack, tide pools full of starfish, and a wide flat beach make the ideal first-tour overnight.
+> The picture-perfect Oregon Coast town where a 235-foot sea stack, tide pools full of starfish, and a wide flat beach make the perfect mid-morning beach break.
 
 - **Region:** Oregon Coast · Clatsop County
-- **Itinerary:** Day 2 · 1 night (Thu Jul 2)
+- **Itinerary:** Day 3 · morning stop en route to the capes (Mon Aug 17)
 - **Stop type:** stop
-- **Ride to here:** 125 mi (Westport via Long Beach & Astoria, Day 2)
+- **Ride to here:** 26 mi (Astoria over US-101, Day 3)
 
 ## About
-Cannon Beach is the postcard of the Oregon Coast: a long, flat, walkable expanse of sand framed by **Haystack Rock**, one of the most photographed sea stacks in the world. After crossing the soaring **Astoria–Megler Bridge** and pausing in Astoria, the family rolls south on US-101 and Hwy-26 to drop down into this little resort town for the night. It is an easy, gentle arrival after a long day — park the bikes, walk straight onto the beach, and let the Pacific do the rest.
+Cannon Beach is the postcard of the Oregon Coast: a long, flat, walkable expanse of sand framed by **Haystack Rock**, one of the most photographed sea stacks in the world. On this trip it's the first stop of Day 3 — a short 26-mile hop south from the Cannery Pier morning in Astoria, timed so the family can park the bikes, walk straight onto the sand, and catch the tide pools before the day rolls on to Tillamook and the capes.
 
-The town itself is tiny and very family-friendly: a few blocks of art galleries, candy stores, toy shops, bakeries, and seafood spots, all within strolling distance of the sand. **Aslan** can splash in the tide pools and hunt for puffins on the rock; **Galiya** gets fresh chowder, seafood, and the legendary local bakery; and **Ruslan** gets one of the most scenic stretches of coastline in the country. It is a pricey, popular town that fills up fast — especially over the July 4 weekend — so book early.
+The town itself is tiny and very family-friendly: a few blocks of art galleries, candy stores, toy shops, bakeries, and seafood spots, all within strolling distance of the sand. **Aslan** can splash in the tide pools and hunt for puffins on the rock; **Galiya** gets a coast-famous bakery pastry and the postcard view; and **Ruslan** gets one of the most scenic stretches of coastline in the country — with Neahkahnie Mountain's ocean-cliff highway waiting just south.
 
 ## Things to see & do
 - **Haystack Rock** — the 235-ft sea stack rising straight off the beach is the town's icon; at low tide you can walk right up to its base. (scenic + kid)
@@ -32,13 +32,7 @@ The town itself is tiny and very family-friendly: a few blocks of art galleries,
 - **Pizza or ice cream night** — for a simple, no-fuss kid dinner, the local pizzeria and ice-cream counters downtown are an easy win. (kid)
 
 ## Where to stay
-| Property | Type | Parking | Price/night | — | Notes |
-|---|---|---|---|---|---|
-| Surfsand Resort | Resort | On-site lot, beachfront | $400–$650 | — | Confirm secure motorcycle parking + family/passenger rules before booking; right on the sand at Haystack Rock, pricey, books up far ahead for the July 4 weekend. |
-| Stephanie Inn | Nice hotel | On-site valet/lot | $550–$900 | — | Confirm secure motorcycle parking + family/passenger rules before booking; upscale and adults-leaning (check minimum age), a splurge oceanfront option. |
-| Hallmark Resort | Resort | On-site lot | $300–$550 | — | Confirm secure motorcycle parking + family/passenger rules before booking; family-friendly oceanfront with pool, fills fast over the holiday weekend. |
-| Tolovana Inn | Inn | On-site lot | $200–$400 | — | Confirm secure motorcycle parking + family/passenger rules before booking; quieter Tolovana Park end of the beach, good-value family units. |
-| Inn at Cannon Beach | Inn | On-site lot | $200–$350 | — | Confirm secure motorcycle parking + family/passenger rules before booking; cottage-style rooms a short walk from the beach, pet- and family-friendly. |
+No overnight here this trip — Cannon Beach is the Day-3 morning beach break between the Cannery Pier night in Astoria and the two-night glamping base at Two Capes Lookout. If plans change, the town has plenty of oceanfront lodging (Surfsand Resort, Hallmark Resort, Tolovana Inn), but it's pricey and books far ahead in August — confirm secure motorcycle parking + family/passenger rules before booking anywhere.
 
 ## Links
 - [Visit Cannon Beach (official)](https://www.cannonbeach.org/)

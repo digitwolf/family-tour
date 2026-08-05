@@ -4,11 +4,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-A static, dependency-free website that visualizes a **7-day Pacific-Northwest family motorcycle "first tour"** (Woodinville WA → the Oregon Coast / Yachats → home over Mount St. Helens & Mount Rainier, July 1–7, 2026). It is designed to be served as-is from GitHub Pages — there is **no build step, no package manager, and no test suite**. Files are plain HTML/CSS/JS opened directly by the browser. (The repo started as a 21-day Japan tour and was converted; the machinery is unchanged.)
+A static, dependency-free website that visualizes an **8-day Pacific-Northwest family motorcycle coast tour** (Woodinville WA → the Olympic Peninsula / Forks & Ruby Beach → the Oregon Coast / Two Capes Lookout glamping & Yachats → home through Portland, August 15–22, 2026). It is designed to be served as-is from GitHub Pages — there is **no build step, no package manager, and no test suite**. Files are plain HTML/CSS/JS opened directly by the browser. (The repo started as a 21-day Japan tour and was converted; the machinery is unchanged.)
 
 The project is organized as **content → site**: trip facts live as markdown in [`tour/`](tour/README.md) (maintained by the **tour-expert** agent); the website (`data.js` + HTML) is the rendering of that content (compiled by `gen_data.py`, maintained by the **website-builder** agent). See [`.claude/agents/`](.claude/agents/) and [`docs/GENERATION.md`](docs/GENERATION.md). Flow: `tour/*.md + gen_data.py → data.js → index/place/day/checklist.html`.
 
-The family: **Galiya** (brand-new rider, Kawasaki W230 — sets the pace), **Ruslan** (BMW R1300GS), and **Aslan** (6, pillion). Bikes are **owned** (no rental, no flights). The whole plan is built around the new rider — **no freeways/high-speed roads**.
+The family: **Galiya** (still-new rider, Kawasaki W230 — sets the pace), **Ruslan** (BMW R1300GS), and **Aslan** (6, pillion). Bikes are **owned** (no rental, no flights). The whole plan is built around the new rider — **no freeways/high-speed roads**.
 
 ## Commands
 
@@ -27,7 +27,7 @@ Deploy = push to `main`. **GitHub Pages builds via GitHub Actions** (`.github/wo
 ```
 tour/                  human-readable source of record (tour-expert owns)
   README.md  00-family.md  00-overview.md  01-itinerary.md  02-getting-started.md
-  destinations/NN-id.md   one per stop, route order (home, westport, astoria, tillamook, yachats, st-helens, rainier)
+  destinations/NN-id.md   one per stop, route order (home, forks, astoria, cannon-beach, two-capes, yachats, portland)
   daily-guides/day-NN.md  per-day food/activity guides (local-guide agent; fenced ```json block)
 gen_data.py            compiles tour/ markdown (+ curated COORDS/DAYS/GEO/CHECKLIST/FOOD_TRAIL) → data.js
 data_header.txt        the data.js header + JS helpers (maps, hotel image/parking)
@@ -42,15 +42,15 @@ summary.md             the trip brief
 
 ## Architecture
 
-- **`gen_data.py`** — the build script. Parses `tour/destinations/NN-id.md` into `window.DESTINATIONS`, and holds the curated `COORDS`, the **7-day `DAYS`** schedule, `GEO` routing points, `CHECKLIST`, `FOOD_TRAIL`, `FLIGHTS` (the "how the trip works" block), and `DAYART`. It also folds the per-day guides into each day's `eats`/`localTodo`. Re-run after any change; it must stay byte-reproducible.
+- **`gen_data.py`** — the build script. Parses `tour/destinations/NN-id.md` into `window.DESTINATIONS`, and holds the curated `COORDS`, the **8-day `DAYS`** schedule, `GEO` routing points, `CHECKLIST`, `FOOD_TRAIL`, `FLIGHTS` (the "how the trip works" block), and `DAYART`. It also folds the per-day guides into each day's `eats`/`localTodo`. Re-run after any change; it must stay byte-reproducible.
 - **`data.js`** — the generated single source the pages read. `window.DESTINATIONS` is the ordered array of the **7 route stops**; each entry has `id`, `name`, `region`, `type`, `days`, `lat`/`lng`/`zoom`, `tagline`, `intro[]`, `highlights[]`, `food[]`, `hotels[]` (USD prices), `links[]`, `photos[]`. **Array order = route order** (drives prev/next, the map polyline, the day sequence). `U` is the Wikimedia Commons thumbnail prefix.
-- **`window.DAYS`** (in `data.js`) — the **7-day itinerary (Day 1–7)**: each day has `d`, `id` (its destination), `miles`, `dmin`, `rest`, `region`, `title`, `route`, `desc`, `tags`, `gfrom`/`gto`/`gvia`, a `poi[]` of along-the-way stops (`name`/`what`/`q`/`slot`/`img`/optional `it` interest keys), plus `eats`/`localTodo`/`foodTrail` when present. Days don't map 1:1 to destinations (Yachats spans Days 3–4), so this is separate from `DESTINATIONS`.
-- **`index.html`** — landing page. Builds the route ribbon, destination gallery, the "how the trip works" block (`window.FLIGHTS`), the Leaflet overview map, the 🦀 Coast Food Trail (`window.FOOD_TRAIL`), and the 7-day timeline — all **from `data.js`**; don't hardcode trip data here. Day cards → `day.html?d=<n>`; markers / "Destination ↗" → `place.html?id=<id>`.
+- **`window.DAYS`** (in `data.js`) — the **8-day itinerary (Day 1–8)**: each day has `d`, `id` (its destination), `miles`, `dmin`, `rest`, `region`, `title`, `route`, `desc`, `tags`, `gfrom`/`gto`/`gvia`, a `poi[]` of along-the-way stops (`name`/`what`/`q`/`slot`/`img`/optional `it` interest keys), plus `eats`/`localTodo`/`foodTrail` when present. Days don't map 1:1 to destinations (Two Capes spans Days 3–4, Yachats Days 5–6), so this is separate from `DESTINATIONS`.
+- **`index.html`** — landing page. Builds the route ribbon, destination gallery, the "how the trip works" block (`window.FLIGHTS`), the Leaflet overview map, the 🦀 Coast Food Trail (`window.FOOD_TRAIL`), and the 8-day timeline — all **from `data.js`**; don't hardcode trip data here. Day cards → `day.html?d=<n>`; markers / "Destination ↗" → `place.html?id=<id>`.
 - **`place.html`** — one reusable destination template (`?id=`): hero with mileage overlay, gallery + lightbox, food, lodging cards (USD price + parking badge), map, prev/next.
 - **`day.html`** — one reusable day template (`?d=N`): photo-collage hero, the plan, a timed routine spread across the real `dmin`, per-stop Wikipedia links, interest badges (`INTEREST` map), the Google-Maps day route, the Where-to-Eat guide, the 🦀 Coast Food Trail callout, prev/next-day.
 - **`checklist.html`** — interactive pre-trip checklist from `window.CHECKLIST`; ticks persist in `localStorage`.
 
-`type` is one of `start | stay | stop | end` and controls marker/dot color. `home` is `start` (and the loop's finish); `yachats` is `stay` (the 2-night base).
+`type` is one of `start | stay | stop | end` and controls marker/dot color. `home` is `start` (and the loop's finish); `two-capes` and `yachats` are `stay` (the two 2-night bases); `portland` is `end` (the last overnight).
 
 **Maps:** `place.html` and `day.html` use the **Google Maps Embed API** (`window.gmapEmbedPlace` / `gmapEmbedDir` in `data.js`) when `window.GMAPS_KEY` is set, and **fall back to Leaflet** when it isn't. `index.html` overview uses Leaflet (no key). The key is never committed.
 

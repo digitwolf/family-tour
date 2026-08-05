@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Destination · PNW Family First Tour</title>
+<title>Destination · PNW Family Coast Tour</title>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
   integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -138,7 +138,7 @@
 
 <nav class="top">
   <div class="wrap">
-    <div class="brand mincho">🏍️ <span>·</span> PNW First Tour</div>
+    <div class="brand mincho">🏍️ <span>·</span> PNW Coast Tour</div>
     <a class="back" href="index.html#destinations">← All destinations</a>
   </div>
 </nav>
@@ -204,7 +204,7 @@
 
 <div id="lb"><img id="lbImg" alt="" /><div class="cap" id="lbCap"></div></div>
 
-<footer><div class="wrap">Part of the 7-day PNW Family First Tour (Jul 1–7, 2026) · <a href="index.html">Back to the full itinerary →</a></div></footer>
+<footer><div class="wrap">Part of the 8-day PNW Family Coast Tour (Aug 15–22, 2026) · <a href="index.html">Back to the full itinerary →</a></div></footer>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
   integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
@@ -217,7 +217,7 @@
   const idx = Math.max(0, list.findIndex(d => d.id === id));
   const d = list[idx];
 
-  document.title = d.name + " · PNW Family First Tour";
+  document.title = d.name + " · PNW Family Coast Tour";
 
   // hero
   document.getElementById('pheroBg').style.backgroundImage = `url("${d.photos[0].src}")`;
